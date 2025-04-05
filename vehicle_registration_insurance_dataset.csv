@@ -1,0 +1,2001 @@
+Vehicle ID,Registration State,Vehicle Make,Vehicle Model,Vehicle Year,Insurance Provider,Insurance Policy Type,Insurance Claim History,Policy Expiration Date,Vehicle Condition,Owner Age Group,Accident History
+VID00001,IL,Mercedes,F-150,2004,Geico,Collision,Yes,2025-06-01,Fair,36-45,0
+VID00002,NY,Mercedes,F-150,2000,Progressive,Liability,Yes,2025-04-26,Poor,18-25,3
+VID00003,MI,Volkswagen,Civic,2023,State Farm,Liability,Yes,2026-02-15,Fair,26-35,3
+VID00004,FL,Nissan,C-Class,2000,Allstate,Collision,Yes,2025-12-10,Good,26-35,1
+VID00005,IL,Mercedes,Silverado,2004,Geico,Full Coverage,Yes,2025-07-05,Poor,26-35,5
+VID00006,IL,Hyundai,Camry,2023,Farmers,Comprehensive,No,2025-06-04,Good,26-35,5
+VID00007,CA,Kia,Altima,2010,State Farm,Full Coverage,Yes,2025-10-15,Fair,60+,2
+VID00008,IL,Honda,Silverado,2012,Progressive,Liability,Yes,2025-07-10,Good,18-25,0
+VID00009,IL,Kia,Elantra,2007,Liberty Mutual,Comprehensive,Yes,2026-02-24,Poor,18-25,2
+VID00010,OH,BMW,Elantra,2008,Progressive,Collision,No,2026-03-24,Poor,36-45,1
+VID00011,NY,Toyota,Altima,2005,Farmers,Full Coverage,Yes,2026-03-25,Fair,46-60,2
+VID00012,PA,Toyota,Elantra,2012,State Farm,Liability,No,2025-12-17,Good,26-35,4
+VID00013,NY,Hyundai,Sorento,2016,Geico,Liability,No,2026-03-05,Poor,36-45,3
+VID00014,GA,Kia,Silverado,2002,Progressive,Comprehensive,Yes,2025-06-26,Good,26-35,5
+VID00015,IL,Volkswagen,Altima,2019,Progressive,Full Coverage,Yes,2026-01-19,Good,36-45,4
+VID00016,TX,Chevrolet,Civic,2019,Geico,Liability,No,2026-01-20,Good,36-45,5
+VID00017,FL,Chevrolet,F-150,2003,Farmers,Comprehensive,No,2025-07-04,Good,26-35,1
+VID00018,TX,Chevrolet,Camry,2015,Progressive,Full Coverage,No,2025-09-13,Fair,18-25,1
+VID00019,IL,Nissan,Camry,2013,Liberty Mutual,Collision,Yes,2026-03-21,Fair,26-35,0
+VID00020,PA,Hyundai,3 Series,2015,Progressive,Liability,No,2025-05-18,Good,18-25,4
+VID00021,MI,Nissan,Sorento,2011,USAA,Comprehensive,Yes,2025-04-24,Good,18-25,1
+VID00022,FL,Honda,Altima,2011,Allstate,Collision,No,2026-02-13,Fair,36-45,0
+VID00023,PA,Nissan,Altima,2006,Liberty Mutual,Comprehensive,Yes,2025-06-23,Poor,60+,5
+VID00024,TX,BMW,Camry,2015,Allstate,Comprehensive,Yes,2026-02-11,Fair,36-45,5
+VID00025,FL,Honda,Silverado,2002,Farmers,Liability,Yes,2026-01-12,Fair,46-60,0
+VID00026,CA,Mercedes,Sorento,2014,Liberty Mutual,Liability,No,2025-05-27,Poor,60+,3
+VID00027,GA,Hyundai,Elantra,2020,Liberty Mutual,Collision,Yes,2025-05-17,Fair,26-35,5
+VID00028,FL,Honda,Jetta,2003,Progressive,Comprehensive,No,2025-08-30,Good,18-25,3
+VID00029,IL,Hyundai,3 Series,2021,USAA,Full Coverage,No,2025-05-20,Poor,18-25,2
+VID00030,OH,Honda,Silverado,2004,Geico,Comprehensive,Yes,2025-10-25,Good,60+,2
+VID00031,CA,Hyundai,Jetta,2021,Farmers,Liability,No,2025-06-08,Good,60+,1
+VID00032,NY,Nissan,3 Series,2004,Liberty Mutual,Liability,Yes,2026-03-24,Good,60+,4
+VID00033,GA,Ford,Silverado,2005,Farmers,Collision,No,2025-07-20,Poor,26-35,3
+VID00034,OH,Mercedes,Altima,2008,USAA,Comprehensive,No,2025-08-03,Poor,26-35,2
+VID00035,FL,Chevrolet,Camry,2023,State Farm,Liability,Yes,2025-06-17,Fair,46-60,5
+VID00036,IL,Toyota,Jetta,2004,State Farm,Liability,Yes,2025-07-24,Fair,36-45,3
+VID00037,CA,Honda,Altima,2011,Liberty Mutual,Liability,No,2025-11-02,Good,36-45,2
+VID00038,IL,Honda,3 Series,2015,Farmers,Liability,Yes,2025-10-17,Good,18-25,3
+VID00039,MI,BMW,Camry,2023,Progressive,Collision,No,2025-07-08,Poor,26-35,0
+VID00040,PA,Nissan,Altima,2019,Liberty Mutual,Liability,Yes,2025-06-23,Good,46-60,0
+VID00041,NC,Kia,Altima,2008,Geico,Comprehensive,No,2026-03-13,Fair,60+,4
+VID00042,IL,BMW,Camry,2019,Geico,Full Coverage,Yes,2025-10-09,Fair,60+,5
+VID00043,NY,Honda,C-Class,2010,Geico,Full Coverage,No,2025-11-01,Good,26-35,4
+VID00044,NC,Ford,3 Series,2021,Progressive,Liability,No,2026-01-15,Good,26-35,2
+VID00045,GA,Honda,Camry,2001,State Farm,Collision,Yes,2025-09-30,Good,46-60,3
+VID00046,TX,Toyota,Silverado,2011,Geico,Full Coverage,Yes,2025-12-31,Poor,46-60,1
+VID00047,CA,Ford,3 Series,2002,Allstate,Liability,Yes,2025-12-27,Poor,18-25,1
+VID00048,GA,BMW,Elantra,2019,Geico,Comprehensive,No,2026-02-06,Poor,18-25,2
+VID00049,MI,BMW,C-Class,2020,Farmers,Full Coverage,No,2025-09-02,Fair,60+,3
+VID00050,IL,Chevrolet,F-150,2022,USAA,Liability,No,2025-07-05,Poor,36-45,5
+VID00051,FL,Nissan,Elantra,2001,Liberty Mutual,Comprehensive,Yes,2025-10-02,Poor,46-60,0
+VID00052,GA,Toyota,Silverado,2001,Allstate,Full Coverage,No,2026-01-18,Good,18-25,4
+VID00053,IL,BMW,F-150,2011,USAA,Full Coverage,No,2025-08-03,Good,26-35,5
+VID00054,OH,Chevrolet,C-Class,2021,Farmers,Collision,No,2025-04-27,Fair,46-60,2
+VID00055,CA,Volkswagen,C-Class,2001,USAA,Comprehensive,Yes,2026-01-09,Good,36-45,5
+VID00056,OH,Volkswagen,3 Series,2014,State Farm,Liability,No,2025-05-22,Good,18-25,2
+VID00057,OH,Honda,Camry,2016,State Farm,Liability,Yes,2025-12-21,Poor,26-35,2
+VID00058,MI,Volkswagen,3 Series,2022,Geico,Full Coverage,No,2025-05-25,Good,60+,3
+VID00059,TX,Honda,Jetta,2001,Liberty Mutual,Liability,Yes,2025-05-05,Fair,18-25,2
+VID00060,TX,Chevrolet,Sorento,2005,Allstate,Collision,Yes,2025-11-21,Fair,18-25,5
+VID00061,PA,Honda,3 Series,2021,USAA,Comprehensive,Yes,2025-10-08,Good,18-25,5
+VID00062,FL,Nissan,Altima,2005,USAA,Collision,Yes,2025-08-18,Fair,60+,5
+VID00063,FL,Nissan,Sorento,2005,State Farm,Comprehensive,Yes,2025-11-29,Good,18-25,3
+VID00064,GA,Honda,Elantra,2021,State Farm,Liability,Yes,2025-05-28,Fair,46-60,3
+VID00065,TX,Ford,Jetta,2013,Liberty Mutual,Liability,Yes,2026-02-27,Fair,26-35,3
+VID00066,CA,Volkswagen,Jetta,2012,Allstate,Liability,No,2025-11-19,Fair,46-60,3
+VID00067,TX,Ford,Elantra,2021,Liberty Mutual,Comprehensive,No,2025-12-10,Poor,26-35,5
+VID00068,CA,Kia,C-Class,2000,Progressive,Comprehensive,Yes,2025-12-16,Fair,60+,0
+VID00069,NY,Ford,Altima,2011,Allstate,Collision,No,2025-12-26,Poor,46-60,4
+VID00070,GA,Hyundai,Camry,2023,Geico,Comprehensive,No,2025-11-03,Poor,36-45,1
+VID00071,NY,Hyundai,Camry,2020,Progressive,Collision,No,2025-06-26,Good,46-60,0
+VID00072,NC,BMW,Camry,2017,Liberty Mutual,Liability,No,2025-12-24,Poor,60+,4
+VID00073,FL,BMW,Silverado,2021,USAA,Collision,Yes,2025-11-13,Poor,46-60,5
+VID00074,FL,Nissan,Elantra,2020,Geico,Full Coverage,No,2025-10-05,Good,36-45,3
+VID00075,TX,Kia,Sorento,2022,Allstate,Collision,Yes,2025-12-30,Good,46-60,3
+VID00076,CA,BMW,3 Series,2007,Geico,Full Coverage,Yes,2025-04-26,Poor,26-35,3
+VID00077,OH,Toyota,Camry,2023,Geico,Collision,Yes,2025-07-13,Poor,60+,5
+VID00078,PA,Hyundai,Camry,2005,State Farm,Collision,Yes,2026-01-15,Good,18-25,2
+VID00079,FL,BMW,Civic,2009,Farmers,Full Coverage,Yes,2025-05-17,Good,36-45,3
+VID00080,CA,Nissan,3 Series,2001,Liberty Mutual,Liability,Yes,2025-12-12,Good,18-25,5
+VID00081,FL,Toyota,Civic,2004,Progressive,Liability,No,2025-06-24,Fair,26-35,0
+VID00082,NY,Honda,Silverado,2005,Geico,Full Coverage,No,2025-08-19,Fair,26-35,1
+VID00083,NC,Mercedes,Jetta,2011,Allstate,Collision,No,2025-09-15,Fair,46-60,0
+VID00084,FL,Chevrolet,Jetta,2002,State Farm,Collision,No,2026-01-12,Fair,18-25,0
+VID00085,MI,Ford,Civic,2007,Farmers,Collision,No,2026-01-19,Fair,26-35,5
+VID00086,OH,Mercedes,Elantra,2019,State Farm,Comprehensive,Yes,2025-09-08,Poor,60+,0
+VID00087,GA,Ford,3 Series,2011,Allstate,Full Coverage,Yes,2025-11-04,Fair,18-25,4
+VID00088,MI,Toyota,Sorento,2009,Farmers,Comprehensive,No,2025-11-15,Good,46-60,1
+VID00089,TX,Chevrolet,Silverado,2010,Liberty Mutual,Liability,Yes,2025-05-17,Poor,36-45,3
+VID00090,CA,Ford,Elantra,2011,Progressive,Comprehensive,Yes,2025-06-03,Poor,60+,1
+VID00091,NC,Nissan,3 Series,2013,Farmers,Full Coverage,No,2026-03-02,Poor,46-60,0
+VID00092,NC,BMW,Sorento,2020,State Farm,Comprehensive,Yes,2026-01-22,Fair,60+,5
+VID00093,FL,Mercedes,3 Series,2011,Geico,Comprehensive,Yes,2026-01-29,Good,60+,4
+VID00094,TX,Kia,F-150,2013,Geico,Liability,Yes,2025-05-18,Poor,36-45,4
+VID00095,TX,Kia,Sorento,2019,Allstate,Liability,Yes,2025-12-07,Fair,46-60,4
+VID00096,IL,Ford,F-150,2023,State Farm,Comprehensive,No,2025-11-12,Poor,60+,0
+VID00097,CA,Kia,Sorento,2009,Progressive,Full Coverage,No,2025-09-20,Poor,46-60,2
+VID00098,NY,Toyota,3 Series,2006,Geico,Collision,Yes,2025-12-12,Fair,46-60,3
+VID00099,MI,Ford,Altima,2018,Farmers,Comprehensive,Yes,2025-12-18,Fair,26-35,0
+VID00100,FL,Nissan,Altima,2022,USAA,Collision,Yes,2026-01-29,Fair,26-35,0
+VID00101,IL,Mercedes,Jetta,2012,Progressive,Liability,Yes,2025-10-30,Poor,36-45,3
+VID00102,NC,Toyota,Sorento,2003,State Farm,Full Coverage,No,2025-11-01,Poor,46-60,0
+VID00103,NC,Toyota,C-Class,2005,Geico,Liability,No,2026-01-26,Fair,60+,1
+VID00104,NY,Toyota,F-150,2020,Progressive,Full Coverage,No,2025-11-15,Fair,46-60,3
+VID00105,TX,Mercedes,C-Class,2007,Geico,Collision,No,2025-05-30,Good,36-45,1
+VID00106,OH,Toyota,Elantra,2022,USAA,Collision,No,2025-05-28,Fair,60+,4
+VID00107,GA,Honda,Silverado,2003,Geico,Liability,Yes,2026-01-04,Poor,46-60,5
+VID00108,NC,Volkswagen,Camry,2000,Liberty Mutual,Collision,No,2026-01-01,Poor,18-25,3
+VID00109,NY,Toyota,3 Series,2019,Farmers,Collision,No,2025-06-21,Fair,26-35,0
+VID00110,IL,Volkswagen,F-150,2022,Progressive,Comprehensive,No,2025-05-05,Poor,18-25,0
+VID00111,OH,Volkswagen,Civic,2023,Geico,Full Coverage,Yes,2025-10-25,Fair,46-60,3
+VID00112,NY,Nissan,Silverado,2007,Progressive,Collision,No,2026-02-21,Good,18-25,1
+VID00113,IL,Mercedes,Elantra,2016,State Farm,Full Coverage,No,2025-06-10,Poor,26-35,2
+VID00114,MI,Ford,Elantra,2012,Progressive,Collision,Yes,2025-12-14,Poor,18-25,3
+VID00115,NC,Mercedes,C-Class,2001,State Farm,Collision,No,2025-09-13,Fair,18-25,3
+VID00116,MI,Nissan,Civic,2007,State Farm,Comprehensive,No,2025-12-05,Good,18-25,2
+VID00117,MI,Chevrolet,Silverado,2020,USAA,Full Coverage,Yes,2026-02-04,Fair,36-45,2
+VID00118,MI,Ford,Camry,2003,Liberty Mutual,Full Coverage,Yes,2025-10-07,Poor,18-25,0
+VID00119,IL,Kia,Camry,2022,Allstate,Full Coverage,Yes,2026-01-12,Poor,60+,0
+VID00120,TX,BMW,Sorento,2017,Farmers,Comprehensive,Yes,2025-08-17,Poor,18-25,4
+VID00121,FL,Volkswagen,Altima,2007,Farmers,Liability,No,2025-07-28,Poor,18-25,3
+VID00122,TX,Kia,Camry,2022,State Farm,Comprehensive,Yes,2025-09-24,Good,36-45,3
+VID00123,TX,Toyota,Silverado,2001,Geico,Full Coverage,No,2025-12-06,Fair,46-60,4
+VID00124,OH,Kia,3 Series,2002,Farmers,Full Coverage,No,2025-07-17,Poor,46-60,1
+VID00125,CA,Toyota,Altima,2003,Geico,Liability,Yes,2026-02-14,Fair,46-60,4
+VID00126,GA,Honda,C-Class,2016,Allstate,Liability,No,2025-12-19,Fair,26-35,4
+VID00127,FL,Honda,Sorento,2013,State Farm,Liability,Yes,2025-07-19,Good,26-35,2
+VID00128,NC,BMW,Camry,2014,Farmers,Liability,No,2026-03-09,Good,18-25,0
+VID00129,CA,Toyota,Elantra,2005,State Farm,Liability,Yes,2025-10-14,Poor,26-35,2
+VID00130,NY,BMW,Altima,2018,Farmers,Full Coverage,Yes,2026-03-06,Fair,18-25,2
+VID00131,IL,Honda,Jetta,2013,Farmers,Collision,Yes,2025-09-06,Poor,46-60,0
+VID00132,OH,BMW,Sorento,2012,Farmers,Collision,Yes,2025-06-21,Fair,18-25,2
+VID00133,OH,Mercedes,3 Series,2001,Geico,Full Coverage,No,2025-07-15,Fair,26-35,4
+VID00134,NY,Ford,Silverado,2006,Allstate,Comprehensive,No,2025-12-30,Good,46-60,3
+VID00135,GA,Mercedes,Elantra,2002,Liberty Mutual,Full Coverage,No,2025-06-10,Poor,18-25,3
+VID00136,PA,BMW,F-150,2004,Progressive,Full Coverage,Yes,2025-08-20,Good,36-45,1
+VID00137,FL,Kia,Altima,2004,Geico,Comprehensive,No,2026-03-10,Poor,46-60,1
+VID00138,FL,Kia,Civic,2005,State Farm,Collision,No,2025-08-22,Fair,36-45,2
+VID00139,MI,Ford,Jetta,2008,USAA,Comprehensive,No,2026-03-18,Fair,18-25,5
+VID00140,NY,Kia,F-150,2015,Liberty Mutual,Liability,Yes,2025-07-19,Good,60+,4
+VID00141,NC,Volkswagen,Civic,2012,USAA,Full Coverage,No,2025-10-16,Good,46-60,1
+VID00142,TX,Ford,Silverado,2008,Allstate,Full Coverage,No,2026-01-27,Poor,18-25,1
+VID00143,PA,Nissan,Silverado,2013,Farmers,Comprehensive,Yes,2025-09-30,Good,46-60,2
+VID00144,MI,Chevrolet,3 Series,2004,Liberty Mutual,Full Coverage,No,2025-12-20,Good,46-60,2
+VID00145,FL,Volkswagen,F-150,2009,State Farm,Collision,No,2025-05-25,Good,26-35,0
+VID00146,IL,Honda,Civic,2015,Progressive,Comprehensive,No,2025-08-12,Good,26-35,4
+VID00147,FL,Nissan,C-Class,2015,Allstate,Full Coverage,Yes,2025-10-01,Fair,36-45,4
+VID00148,NY,Kia,C-Class,2011,Allstate,Full Coverage,Yes,2025-08-21,Fair,18-25,1
+VID00149,OH,Ford,Sorento,2006,Geico,Collision,No,2025-06-01,Poor,18-25,4
+VID00150,IL,Chevrolet,C-Class,2014,Allstate,Collision,No,2025-05-01,Fair,46-60,1
+VID00151,OH,Honda,3 Series,2007,Progressive,Comprehensive,No,2025-11-02,Good,18-25,3
+VID00152,FL,Volkswagen,Jetta,2006,USAA,Comprehensive,Yes,2025-08-09,Good,18-25,4
+VID00153,CA,Nissan,Sorento,2015,Progressive,Liability,Yes,2025-11-16,Poor,46-60,4
+VID00154,CA,Toyota,Camry,2014,State Farm,Collision,No,2025-08-28,Fair,18-25,2
+VID00155,MI,BMW,F-150,2008,USAA,Collision,No,2025-09-13,Fair,60+,1
+VID00156,NY,BMW,Camry,2022,Liberty Mutual,Comprehensive,Yes,2025-05-01,Poor,18-25,2
+VID00157,TX,Honda,Civic,2018,USAA,Full Coverage,Yes,2026-03-04,Fair,26-35,4
+VID00158,PA,Chevrolet,Sorento,2006,Allstate,Liability,Yes,2025-11-15,Fair,36-45,1
+VID00159,NY,Kia,3 Series,2011,Liberty Mutual,Liability,Yes,2026-01-05,Fair,60+,5
+VID00160,GA,Kia,Sorento,2017,USAA,Liability,No,2025-10-06,Good,18-25,5
+VID00161,GA,Volkswagen,Civic,2012,Liberty Mutual,Full Coverage,Yes,2025-11-23,Fair,46-60,2
+VID00162,TX,Hyundai,Altima,2003,Progressive,Full Coverage,No,2025-07-27,Poor,36-45,2
+VID00163,MI,Toyota,Silverado,2021,Liberty Mutual,Full Coverage,Yes,2025-06-29,Good,36-45,3
+VID00164,NY,Kia,Elantra,2001,Progressive,Full Coverage,Yes,2025-05-09,Good,18-25,4
+VID00165,IL,Ford,3 Series,2008,Geico,Collision,Yes,2025-06-11,Poor,36-45,1
+VID00166,OH,Volkswagen,Silverado,2020,Progressive,Liability,Yes,2025-11-06,Good,46-60,5
+VID00167,IL,Ford,Silverado,2023,Geico,Comprehensive,Yes,2026-03-16,Fair,26-35,2
+VID00168,OH,Kia,Sorento,2014,USAA,Full Coverage,Yes,2025-06-27,Fair,18-25,4
+VID00169,FL,BMW,Silverado,2012,Allstate,Comprehensive,Yes,2025-08-19,Poor,26-35,1
+VID00170,NY,Hyundai,Civic,2017,State Farm,Comprehensive,Yes,2025-07-07,Poor,36-45,2
+VID00171,FL,Volkswagen,Camry,2010,Allstate,Liability,Yes,2025-07-26,Poor,18-25,1
+VID00172,FL,Kia,Elantra,2022,Farmers,Liability,Yes,2026-03-08,Good,46-60,4
+VID00173,IL,Hyundai,F-150,2008,USAA,Liability,Yes,2025-05-29,Fair,26-35,5
+VID00174,PA,Chevrolet,Camry,2003,Liberty Mutual,Comprehensive,Yes,2025-04-25,Fair,46-60,2
+VID00175,PA,Mercedes,3 Series,2000,USAA,Comprehensive,No,2026-02-09,Poor,60+,4
+VID00176,NC,BMW,Camry,2016,USAA,Full Coverage,No,2025-08-28,Fair,60+,3
+VID00177,NY,BMW,Camry,2010,Farmers,Collision,No,2025-11-28,Fair,18-25,0
+VID00178,TX,Mercedes,Silverado,2008,Allstate,Comprehensive,No,2025-11-11,Good,60+,2
+VID00179,FL,Hyundai,F-150,2006,USAA,Comprehensive,Yes,2025-10-31,Good,46-60,1
+VID00180,FL,Volkswagen,F-150,2003,Farmers,Collision,No,2025-12-29,Good,18-25,3
+VID00181,NC,Nissan,F-150,2013,Allstate,Collision,Yes,2025-10-03,Poor,18-25,3
+VID00182,PA,Ford,F-150,2002,Geico,Liability,No,2026-01-09,Good,18-25,4
+VID00183,OH,Hyundai,Camry,2004,Allstate,Full Coverage,Yes,2025-08-25,Fair,18-25,1
+VID00184,NC,Volkswagen,Camry,2017,State Farm,Comprehensive,No,2025-07-20,Poor,36-45,5
+VID00185,PA,Hyundai,F-150,2008,State Farm,Collision,Yes,2025-06-21,Poor,26-35,4
+VID00186,IL,Nissan,Silverado,2012,Allstate,Full Coverage,No,2025-06-05,Good,60+,3
+VID00187,CA,Chevrolet,Civic,2013,Geico,Comprehensive,No,2025-11-14,Fair,26-35,3
+VID00188,PA,Nissan,Elantra,2019,Liberty Mutual,Collision,No,2025-11-01,Poor,60+,4
+VID00189,TX,Hyundai,Camry,2000,Liberty Mutual,Full Coverage,No,2025-10-23,Good,46-60,3
+VID00190,IL,Chevrolet,Altima,2011,Liberty Mutual,Collision,Yes,2025-09-01,Poor,26-35,5
+VID00191,PA,Chevrolet,3 Series,2001,Liberty Mutual,Full Coverage,Yes,2026-01-09,Poor,60+,3
+VID00192,MI,Volkswagen,Silverado,2007,Farmers,Liability,No,2026-02-15,Poor,46-60,2
+VID00193,FL,Mercedes,Silverado,2020,Allstate,Collision,No,2026-02-19,Poor,46-60,2
+VID00194,NC,BMW,3 Series,2002,Farmers,Full Coverage,No,2026-02-04,Poor,46-60,0
+VID00195,IL,Nissan,Silverado,2020,Progressive,Comprehensive,Yes,2025-09-08,Poor,36-45,0
+VID00196,TX,Kia,F-150,2018,Farmers,Collision,No,2026-02-26,Poor,26-35,2
+VID00197,FL,Ford,C-Class,2004,USAA,Liability,No,2025-08-19,Poor,46-60,5
+VID00198,NY,Hyundai,C-Class,2003,State Farm,Full Coverage,Yes,2026-01-15,Poor,36-45,3
+VID00199,FL,Chevrolet,Camry,2011,Farmers,Full Coverage,Yes,2025-08-29,Poor,36-45,2
+VID00200,PA,Hyundai,Jetta,2021,Allstate,Comprehensive,No,2025-09-12,Poor,46-60,5
+VID00201,TX,Hyundai,3 Series,2006,Liberty Mutual,Collision,Yes,2026-01-19,Fair,26-35,0
+VID00202,TX,Mercedes,Camry,2022,Geico,Full Coverage,No,2025-08-21,Fair,46-60,0
+VID00203,IL,Chevrolet,C-Class,2020,Farmers,Comprehensive,Yes,2025-07-10,Good,46-60,4
+VID00204,CA,Honda,Civic,2002,USAA,Full Coverage,Yes,2025-05-19,Poor,60+,4
+VID00205,TX,Kia,Silverado,2004,State Farm,Comprehensive,No,2025-08-14,Good,26-35,0
+VID00206,PA,Ford,Elantra,2002,Geico,Collision,Yes,2026-02-21,Poor,46-60,4
+VID00207,MI,Volkswagen,Elantra,2014,USAA,Comprehensive,Yes,2025-11-11,Good,46-60,5
+VID00208,OH,BMW,F-150,2003,USAA,Liability,No,2026-03-25,Poor,46-60,4
+VID00209,MI,Ford,Silverado,2002,Progressive,Comprehensive,No,2025-07-27,Poor,60+,4
+VID00210,GA,BMW,Elantra,2009,Geico,Full Coverage,Yes,2025-10-07,Good,18-25,1
+VID00211,GA,Mercedes,C-Class,2003,State Farm,Comprehensive,Yes,2025-09-21,Good,60+,2
+VID00212,OH,Chevrolet,Sorento,2013,Allstate,Liability,Yes,2026-03-23,Fair,36-45,5
+VID00213,FL,Honda,Jetta,2023,USAA,Full Coverage,Yes,2026-03-15,Good,46-60,3
+VID00214,PA,Nissan,Elantra,2011,Liberty Mutual,Liability,No,2025-06-29,Fair,60+,5
+VID00215,NY,BMW,Civic,2003,USAA,Liability,Yes,2025-07-04,Poor,60+,5
+VID00216,PA,Toyota,Elantra,2014,State Farm,Full Coverage,Yes,2025-12-24,Poor,46-60,3
+VID00217,PA,Volkswagen,F-150,2021,Farmers,Comprehensive,No,2025-07-19,Good,46-60,3
+VID00218,CA,Toyota,3 Series,2015,Progressive,Collision,Yes,2025-08-01,Good,60+,3
+VID00219,CA,Toyota,Civic,2007,Progressive,Full Coverage,No,2025-05-25,Fair,18-25,3
+VID00220,TX,Ford,Jetta,2005,Liberty Mutual,Comprehensive,Yes,2026-02-07,Fair,36-45,1
+VID00221,GA,Mercedes,Civic,2010,USAA,Liability,Yes,2025-06-28,Poor,26-35,5
+VID00222,IL,Volkswagen,Sorento,2013,State Farm,Collision,Yes,2025-09-16,Poor,60+,3
+VID00223,MI,BMW,Sorento,2011,Geico,Comprehensive,No,2025-10-27,Good,18-25,1
+VID00224,OH,Hyundai,Silverado,2009,Geico,Liability,No,2025-09-26,Good,26-35,1
+VID00225,GA,Volkswagen,3 Series,2019,Progressive,Full Coverage,No,2025-11-12,Good,46-60,4
+VID00226,GA,Honda,Silverado,2018,State Farm,Comprehensive,Yes,2026-03-22,Good,60+,4
+VID00227,CA,Ford,Elantra,2012,Progressive,Comprehensive,Yes,2025-07-15,Fair,18-25,5
+VID00228,IL,Toyota,C-Class,2022,Farmers,Comprehensive,Yes,2025-11-12,Poor,60+,4
+VID00229,GA,Nissan,Camry,2019,Geico,Comprehensive,Yes,2025-09-04,Good,36-45,5
+VID00230,NC,Honda,C-Class,2015,Progressive,Comprehensive,Yes,2025-09-20,Fair,18-25,0
+VID00231,CA,Nissan,F-150,2004,Farmers,Comprehensive,Yes,2025-06-23,Fair,46-60,2
+VID00232,GA,BMW,F-150,2016,State Farm,Liability,No,2026-01-14,Fair,46-60,1
+VID00233,IL,Hyundai,Sorento,2002,Geico,Full Coverage,No,2026-03-12,Poor,26-35,3
+VID00234,FL,Honda,Sorento,2019,Liberty Mutual,Comprehensive,No,2025-10-16,Poor,60+,4
+VID00235,FL,Volkswagen,F-150,2003,State Farm,Liability,Yes,2025-12-02,Poor,60+,0
+VID00236,TX,BMW,Altima,2000,Liberty Mutual,Comprehensive,No,2025-12-28,Good,46-60,0
+VID00237,GA,Kia,Sorento,2004,State Farm,Collision,Yes,2025-10-21,Fair,18-25,3
+VID00238,FL,Kia,Sorento,2023,Progressive,Full Coverage,Yes,2026-01-06,Good,60+,1
+VID00239,IL,Mercedes,Elantra,2014,Farmers,Comprehensive,Yes,2025-11-18,Fair,26-35,0
+VID00240,GA,Kia,Altima,2004,State Farm,Full Coverage,Yes,2026-02-12,Good,36-45,0
+VID00241,CA,Kia,Camry,2003,Farmers,Collision,No,2025-11-19,Good,26-35,4
+VID00242,NC,Chevrolet,Altima,2007,Liberty Mutual,Full Coverage,No,2025-12-03,Good,36-45,0
+VID00243,MI,Volkswagen,Elantra,2015,Geico,Comprehensive,Yes,2025-05-18,Fair,18-25,2
+VID00244,OH,Honda,Camry,2009,Allstate,Full Coverage,Yes,2025-06-07,Good,26-35,4
+VID00245,CA,Kia,Elantra,2003,Allstate,Full Coverage,No,2025-06-09,Poor,26-35,2
+VID00246,MI,Hyundai,3 Series,2000,Geico,Full Coverage,Yes,2025-12-12,Fair,18-25,1
+VID00247,OH,Kia,F-150,2005,Farmers,Collision,No,2025-09-09,Poor,18-25,1
+VID00248,IL,Mercedes,3 Series,2012,Progressive,Full Coverage,No,2025-10-30,Fair,60+,5
+VID00249,TX,Volkswagen,C-Class,2005,Progressive,Liability,Yes,2025-07-30,Poor,36-45,5
+VID00250,NC,Mercedes,C-Class,2015,Geico,Collision,Yes,2026-01-27,Fair,18-25,4
+VID00251,NY,Ford,F-150,2018,USAA,Collision,No,2026-01-11,Poor,26-35,4
+VID00252,OH,Volkswagen,Jetta,2001,Progressive,Comprehensive,No,2026-03-18,Poor,46-60,3
+VID00253,TX,Volkswagen,3 Series,2004,USAA,Collision,No,2025-11-19,Fair,36-45,0
+VID00254,OH,Ford,3 Series,2005,Liberty Mutual,Liability,No,2025-09-18,Poor,26-35,0
+VID00255,IL,Kia,Altima,2018,Progressive,Comprehensive,Yes,2025-05-05,Good,60+,2
+VID00256,GA,Mercedes,F-150,2016,Allstate,Comprehensive,No,2025-09-05,Fair,18-25,2
+VID00257,PA,Volkswagen,Sorento,2014,Geico,Full Coverage,No,2025-09-02,Fair,60+,2
+VID00258,NY,Mercedes,F-150,2006,Progressive,Liability,No,2026-01-07,Poor,26-35,1
+VID00259,IL,Hyundai,Silverado,2012,USAA,Full Coverage,Yes,2025-06-21,Fair,46-60,3
+VID00260,FL,Honda,Civic,2018,State Farm,Full Coverage,Yes,2025-10-01,Good,26-35,1
+VID00261,NY,Nissan,Silverado,2009,Allstate,Full Coverage,Yes,2025-06-10,Poor,26-35,4
+VID00262,CA,Kia,Elantra,2015,Progressive,Liability,No,2025-05-03,Poor,26-35,2
+VID00263,GA,Mercedes,Sorento,2022,USAA,Full Coverage,No,2025-07-05,Poor,26-35,1
+VID00264,CA,Ford,F-150,2021,Geico,Comprehensive,No,2025-09-27,Fair,18-25,2
+VID00265,CA,Honda,Altima,2012,Geico,Liability,No,2025-12-15,Good,36-45,1
+VID00266,CA,Kia,C-Class,2005,Farmers,Full Coverage,No,2026-02-06,Poor,26-35,0
+VID00267,GA,Nissan,Jetta,2021,State Farm,Comprehensive,Yes,2025-08-16,Good,26-35,4
+VID00268,MI,Toyota,Silverado,2021,USAA,Comprehensive,Yes,2025-12-14,Poor,60+,2
+VID00269,CA,Kia,Camry,2003,Geico,Full Coverage,No,2025-10-04,Fair,18-25,0
+VID00270,PA,BMW,Camry,2021,State Farm,Comprehensive,Yes,2025-06-23,Poor,36-45,0
+VID00271,GA,Honda,Altima,2002,Progressive,Full Coverage,No,2026-01-10,Good,60+,1
+VID00272,FL,Toyota,3 Series,2002,Liberty Mutual,Full Coverage,Yes,2025-05-29,Fair,26-35,3
+VID00273,OH,Ford,Silverado,2001,Liberty Mutual,Comprehensive,Yes,2025-05-10,Poor,26-35,4
+VID00274,IL,Mercedes,Camry,2002,State Farm,Collision,No,2025-09-28,Poor,18-25,5
+VID00275,CA,BMW,Camry,2009,Farmers,Collision,Yes,2025-11-12,Poor,36-45,0
+VID00276,FL,Kia,Elantra,2017,Progressive,Comprehensive,No,2026-01-14,Fair,46-60,5
+VID00277,OH,BMW,Civic,2009,Allstate,Liability,Yes,2026-01-01,Fair,46-60,5
+VID00278,CA,Hyundai,C-Class,2011,Allstate,Full Coverage,Yes,2025-05-27,Fair,46-60,4
+VID00279,NY,Kia,F-150,2012,State Farm,Full Coverage,No,2025-06-06,Good,46-60,4
+VID00280,TX,Ford,Civic,2000,Allstate,Comprehensive,Yes,2026-03-17,Poor,36-45,1
+VID00281,IL,Nissan,F-150,2022,Geico,Collision,No,2025-12-24,Fair,60+,3
+VID00282,IL,BMW,Altima,2013,USAA,Comprehensive,Yes,2025-12-17,Good,46-60,3
+VID00283,PA,Ford,Camry,2008,Progressive,Liability,No,2025-08-29,Poor,26-35,2
+VID00284,NC,Ford,F-150,2009,USAA,Full Coverage,No,2025-06-13,Poor,46-60,2
+VID00285,PA,Hyundai,Altima,2014,Farmers,Full Coverage,Yes,2025-05-15,Poor,46-60,3
+VID00286,OH,Honda,Elantra,2008,USAA,Comprehensive,No,2025-12-21,Good,60+,4
+VID00287,OH,Chevrolet,Altima,2023,Farmers,Collision,Yes,2025-09-04,Poor,60+,3
+VID00288,MI,Hyundai,F-150,2009,Allstate,Comprehensive,Yes,2025-10-18,Good,46-60,2
+VID00289,OH,BMW,Jetta,2023,State Farm,Full Coverage,No,2025-12-10,Poor,26-35,5
+VID00290,NY,Chevrolet,3 Series,2009,USAA,Collision,No,2025-06-28,Fair,60+,0
+VID00291,NY,Mercedes,Camry,2011,Geico,Liability,Yes,2026-01-05,Good,18-25,2
+VID00292,TX,BMW,C-Class,2013,Geico,Collision,Yes,2025-06-17,Fair,26-35,3
+VID00293,TX,Toyota,Altima,2016,State Farm,Comprehensive,No,2025-10-31,Poor,46-60,1
+VID00294,GA,Chevrolet,Sorento,2003,Progressive,Collision,Yes,2025-07-23,Fair,46-60,1
+VID00295,MI,Hyundai,Civic,2011,Progressive,Comprehensive,Yes,2026-01-25,Fair,26-35,4
+VID00296,IL,Honda,Altima,2006,Liberty Mutual,Liability,No,2025-08-16,Poor,46-60,0
+VID00297,MI,Mercedes,Altima,2014,USAA,Full Coverage,No,2026-02-14,Poor,36-45,3
+VID00298,IL,Honda,Camry,2016,Farmers,Collision,Yes,2025-10-18,Poor,46-60,0
+VID00299,GA,Nissan,Elantra,2002,Farmers,Liability,Yes,2025-04-26,Poor,36-45,1
+VID00300,TX,Volkswagen,F-150,2007,State Farm,Full Coverage,No,2025-12-27,Good,46-60,2
+VID00301,PA,Toyota,Civic,2002,Progressive,Comprehensive,Yes,2025-12-01,Fair,36-45,1
+VID00302,FL,BMW,Altima,2009,USAA,Liability,No,2026-02-18,Good,46-60,3
+VID00303,FL,Volkswagen,Silverado,2018,State Farm,Liability,No,2025-08-03,Poor,46-60,4
+VID00304,MI,Ford,Jetta,2012,State Farm,Full Coverage,Yes,2025-05-09,Good,60+,4
+VID00305,FL,BMW,Civic,2021,Allstate,Comprehensive,No,2025-10-05,Poor,36-45,0
+VID00306,NY,Kia,Camry,2010,Farmers,Full Coverage,No,2026-02-02,Good,18-25,5
+VID00307,FL,BMW,Altima,2014,Liberty Mutual,Full Coverage,Yes,2025-12-12,Good,36-45,2
+VID00308,PA,Hyundai,Silverado,2020,USAA,Comprehensive,Yes,2026-01-21,Fair,26-35,2
+VID00309,FL,BMW,Altima,2005,Geico,Collision,No,2026-01-14,Fair,46-60,3
+VID00310,CA,Nissan,F-150,2005,State Farm,Full Coverage,No,2025-10-03,Poor,36-45,1
+VID00311,PA,Mercedes,Elantra,2014,Liberty Mutual,Comprehensive,No,2026-01-13,Poor,46-60,2
+VID00312,TX,Volkswagen,Silverado,2004,Geico,Liability,No,2025-07-23,Good,18-25,3
+VID00313,MI,Honda,Altima,2017,Liberty Mutual,Collision,Yes,2025-07-10,Poor,18-25,5
+VID00314,MI,Toyota,Sorento,2016,Allstate,Comprehensive,Yes,2025-06-18,Good,60+,0
+VID00315,NY,Kia,Camry,2020,State Farm,Full Coverage,Yes,2025-08-18,Fair,36-45,2
+VID00316,NC,Honda,Elantra,2006,USAA,Full Coverage,Yes,2025-12-11,Poor,26-35,0
+VID00317,GA,Honda,Jetta,2010,Farmers,Full Coverage,No,2025-12-30,Fair,36-45,0
+VID00318,MI,Kia,Jetta,2015,USAA,Liability,Yes,2025-06-17,Poor,46-60,5
+VID00319,MI,Hyundai,Camry,2004,Farmers,Full Coverage,No,2025-05-07,Poor,18-25,4
+VID00320,NC,Hyundai,Elantra,2005,State Farm,Full Coverage,Yes,2025-10-11,Poor,26-35,5
+VID00321,CA,Toyota,Jetta,2010,Geico,Collision,No,2025-05-03,Good,46-60,0
+VID00322,IL,Ford,Sorento,2018,USAA,Collision,No,2025-08-28,Fair,36-45,2
+VID00323,PA,BMW,Elantra,2023,Allstate,Collision,No,2026-02-13,Good,36-45,1
+VID00324,CA,Toyota,Elantra,2010,Geico,Liability,Yes,2025-09-09,Poor,26-35,5
+VID00325,NY,Mercedes,Elantra,2006,Liberty Mutual,Full Coverage,No,2025-11-01,Fair,26-35,5
+VID00326,CA,Nissan,Civic,2003,Liberty Mutual,Full Coverage,Yes,2026-02-14,Fair,46-60,4
+VID00327,FL,Nissan,Silverado,2000,Geico,Collision,No,2025-11-26,Fair,46-60,4
+VID00328,PA,Chevrolet,Civic,2014,Farmers,Liability,Yes,2025-12-11,Poor,36-45,3
+VID00329,NC,Nissan,Civic,2005,Farmers,Full Coverage,Yes,2025-12-08,Fair,36-45,1
+VID00330,NC,Volkswagen,Jetta,2006,Geico,Collision,Yes,2026-02-16,Good,46-60,4
+VID00331,FL,Toyota,Altima,2000,Allstate,Liability,Yes,2026-03-15,Good,46-60,1
+VID00332,IL,BMW,Elantra,2017,USAA,Collision,No,2025-11-02,Good,18-25,1
+VID00333,OH,Hyundai,Sorento,2001,Liberty Mutual,Comprehensive,Yes,2025-10-31,Fair,60+,1
+VID00334,FL,Volkswagen,3 Series,2022,Geico,Full Coverage,No,2025-09-24,Fair,26-35,2
+VID00335,NY,Chevrolet,Jetta,2017,Progressive,Full Coverage,Yes,2026-03-23,Good,18-25,0
+VID00336,CA,Chevrolet,Civic,2008,State Farm,Liability,No,2025-12-18,Good,26-35,4
+VID00337,NY,Toyota,3 Series,2002,Allstate,Comprehensive,No,2025-05-28,Poor,26-35,4
+VID00338,FL,Ford,C-Class,2002,Liberty Mutual,Liability,Yes,2026-02-22,Fair,18-25,3
+VID00339,CA,Ford,Elantra,2006,Farmers,Liability,Yes,2026-01-07,Good,26-35,1
+VID00340,OH,Nissan,C-Class,2005,Farmers,Full Coverage,No,2026-01-24,Good,46-60,5
+VID00341,NC,Nissan,Camry,2008,State Farm,Liability,No,2026-02-03,Poor,46-60,4
+VID00342,MI,Volkswagen,Altima,2014,Allstate,Liability,Yes,2025-07-28,Poor,36-45,3
+VID00343,TX,Honda,C-Class,2001,USAA,Full Coverage,No,2025-10-08,Fair,36-45,1
+VID00344,TX,Nissan,3 Series,2008,Farmers,Full Coverage,Yes,2026-03-12,Good,26-35,3
+VID00345,TX,Toyota,Camry,2008,USAA,Full Coverage,Yes,2026-02-10,Fair,60+,1
+VID00346,FL,Ford,Silverado,2016,USAA,Collision,Yes,2025-08-30,Poor,36-45,2
+VID00347,NY,Volkswagen,F-150,2019,State Farm,Collision,Yes,2025-05-30,Poor,18-25,5
+VID00348,GA,Kia,C-Class,2005,State Farm,Collision,Yes,2025-09-04,Poor,46-60,2
+VID00349,NC,Kia,Jetta,2019,USAA,Collision,No,2025-11-24,Fair,60+,2
+VID00350,PA,Volkswagen,Civic,2001,Farmers,Liability,Yes,2026-03-10,Good,36-45,5
+VID00351,CA,Kia,Civic,2002,Allstate,Collision,No,2025-11-27,Fair,36-45,1
+VID00352,CA,Mercedes,Elantra,2018,USAA,Full Coverage,Yes,2025-10-26,Good,18-25,3
+VID00353,FL,Chevrolet,Civic,2020,Farmers,Full Coverage,No,2025-07-12,Fair,18-25,1
+VID00354,MI,Nissan,Silverado,2015,Allstate,Collision,Yes,2025-08-05,Good,46-60,0
+VID00355,FL,BMW,Civic,2001,Farmers,Liability,No,2025-09-30,Poor,18-25,2
+VID00356,GA,Hyundai,Sorento,2010,Geico,Full Coverage,Yes,2025-11-25,Good,18-25,4
+VID00357,PA,Kia,C-Class,2011,State Farm,Comprehensive,No,2025-12-15,Good,46-60,3
+VID00358,MI,Volkswagen,Jetta,2010,Allstate,Collision,No,2025-07-04,Good,46-60,2
+VID00359,OH,Kia,3 Series,2012,Farmers,Full Coverage,Yes,2026-03-18,Fair,46-60,3
+VID00360,CA,Chevrolet,Elantra,2021,Farmers,Collision,No,2025-08-06,Poor,60+,1
+VID00361,CA,Nissan,Altima,2008,USAA,Full Coverage,Yes,2025-09-12,Poor,36-45,1
+VID00362,CA,BMW,Jetta,2003,USAA,Collision,Yes,2025-09-01,Fair,18-25,0
+VID00363,PA,Volkswagen,3 Series,2004,Allstate,Collision,Yes,2025-11-13,Fair,18-25,0
+VID00364,NC,Hyundai,C-Class,2004,Progressive,Comprehensive,Yes,2025-05-20,Fair,36-45,5
+VID00365,CA,Ford,Camry,2011,Farmers,Full Coverage,No,2025-10-25,Poor,26-35,0
+VID00366,MI,Mercedes,C-Class,2002,Liberty Mutual,Full Coverage,Yes,2025-07-07,Poor,36-45,1
+VID00367,NC,Mercedes,Sorento,2000,Farmers,Collision,No,2025-07-20,Good,36-45,3
+VID00368,NC,Chevrolet,Sorento,2016,Farmers,Collision,Yes,2025-08-30,Fair,60+,4
+VID00369,IL,Hyundai,Civic,2019,Progressive,Collision,Yes,2025-07-04,Fair,46-60,0
+VID00370,PA,Hyundai,Altima,2018,Progressive,Full Coverage,No,2026-03-08,Good,60+,0
+VID00371,MI,Hyundai,Elantra,2006,Allstate,Comprehensive,No,2025-06-23,Good,18-25,3
+VID00372,FL,Ford,Altima,2007,State Farm,Comprehensive,Yes,2025-06-27,Fair,26-35,4
+VID00373,CA,Honda,Altima,2011,Geico,Liability,Yes,2025-10-03,Good,18-25,0
+VID00374,IL,Volkswagen,Altima,2004,Farmers,Full Coverage,Yes,2026-03-10,Good,36-45,0
+VID00375,NC,Nissan,3 Series,2019,USAA,Full Coverage,Yes,2026-03-15,Poor,46-60,4
+VID00376,IL,Honda,Jetta,2010,Allstate,Collision,No,2025-10-08,Good,26-35,2
+VID00377,GA,Volkswagen,3 Series,2013,Geico,Collision,Yes,2025-07-03,Good,36-45,2
+VID00378,FL,Mercedes,3 Series,2009,Liberty Mutual,Collision,No,2025-07-12,Fair,36-45,1
+VID00379,NC,Nissan,Altima,2022,Farmers,Collision,Yes,2026-03-12,Poor,36-45,3
+VID00380,OH,Kia,Elantra,2014,Liberty Mutual,Full Coverage,Yes,2025-07-10,Fair,36-45,4
+VID00381,PA,Honda,3 Series,2010,USAA,Full Coverage,Yes,2025-07-29,Poor,36-45,0
+VID00382,FL,Volkswagen,F-150,2012,Geico,Comprehensive,Yes,2025-07-24,Poor,46-60,3
+VID00383,NY,Volkswagen,F-150,2002,Allstate,Collision,No,2025-06-15,Good,26-35,2
+VID00384,NY,Toyota,Camry,2018,USAA,Comprehensive,No,2025-07-19,Fair,26-35,0
+VID00385,FL,Ford,Civic,2019,Progressive,Collision,No,2025-07-31,Fair,46-60,1
+VID00386,PA,Kia,Camry,2019,State Farm,Collision,No,2025-05-31,Poor,60+,1
+VID00387,FL,BMW,Camry,2019,Progressive,Liability,No,2025-11-09,Fair,18-25,2
+VID00388,FL,Volkswagen,Sorento,2018,Allstate,Comprehensive,Yes,2026-01-31,Good,26-35,0
+VID00389,TX,BMW,Sorento,2018,Liberty Mutual,Full Coverage,No,2025-08-07,Good,46-60,3
+VID00390,OH,Chevrolet,Camry,2010,State Farm,Full Coverage,No,2025-12-28,Fair,60+,5
+VID00391,GA,Honda,3 Series,2008,Liberty Mutual,Collision,Yes,2025-07-23,Fair,26-35,3
+VID00392,TX,Volkswagen,Sorento,2000,USAA,Full Coverage,No,2026-02-13,Poor,60+,2
+VID00393,CA,Volkswagen,F-150,2023,Liberty Mutual,Comprehensive,No,2025-09-19,Poor,46-60,2
+VID00394,PA,Honda,3 Series,2005,Progressive,Comprehensive,No,2025-11-11,Good,36-45,2
+VID00395,GA,Kia,Civic,2001,Allstate,Comprehensive,No,2025-07-18,Good,36-45,5
+VID00396,TX,Volkswagen,3 Series,2019,Farmers,Comprehensive,No,2025-09-05,Good,36-45,0
+VID00397,GA,Volkswagen,Sorento,2002,Progressive,Comprehensive,Yes,2025-10-14,Good,18-25,0
+VID00398,OH,Volkswagen,C-Class,2000,State Farm,Collision,Yes,2025-04-30,Poor,60+,3
+VID00399,FL,Nissan,3 Series,2012,State Farm,Full Coverage,Yes,2025-08-17,Good,36-45,2
+VID00400,IL,Toyota,Civic,2010,Geico,Comprehensive,Yes,2025-10-02,Good,46-60,4
+VID00401,IL,Mercedes,C-Class,2003,Liberty Mutual,Comprehensive,No,2025-07-12,Good,60+,0
+VID00402,IL,Nissan,Camry,2017,USAA,Full Coverage,Yes,2025-11-12,Poor,26-35,0
+VID00403,FL,Mercedes,Silverado,2015,Allstate,Liability,No,2025-08-21,Good,18-25,4
+VID00404,GA,Toyota,C-Class,2008,Geico,Collision,No,2025-10-21,Good,36-45,1
+VID00405,CA,Nissan,Civic,2009,Progressive,Full Coverage,No,2025-05-02,Fair,46-60,5
+VID00406,FL,Volkswagen,Jetta,2005,Liberty Mutual,Liability,Yes,2026-02-18,Poor,26-35,5
+VID00407,IL,BMW,C-Class,2019,Farmers,Full Coverage,Yes,2025-07-14,Good,46-60,2
+VID00408,IL,Chevrolet,Jetta,2000,Liberty Mutual,Collision,No,2025-05-04,Poor,36-45,3
+VID00409,OH,Chevrolet,Sorento,2022,Geico,Full Coverage,Yes,2026-03-11,Fair,46-60,1
+VID00410,MI,Toyota,Camry,2019,Farmers,Liability,No,2026-02-15,Fair,36-45,1
+VID00411,CA,Chevrolet,Sorento,2003,Progressive,Full Coverage,Yes,2026-03-20,Good,18-25,5
+VID00412,NY,Ford,Silverado,2010,USAA,Full Coverage,No,2026-01-02,Fair,26-35,1
+VID00413,OH,Mercedes,Civic,2012,USAA,Collision,Yes,2026-03-01,Fair,36-45,0
+VID00414,OH,Ford,Civic,2002,State Farm,Liability,Yes,2025-11-09,Poor,46-60,2
+VID00415,PA,Kia,Altima,2022,Allstate,Liability,Yes,2025-11-13,Poor,18-25,4
+VID00416,PA,Toyota,3 Series,2002,Farmers,Full Coverage,No,2025-09-23,Fair,26-35,1
+VID00417,IL,Ford,3 Series,2007,State Farm,Full Coverage,No,2025-05-09,Poor,18-25,5
+VID00418,FL,BMW,Silverado,2009,Progressive,Comprehensive,Yes,2025-07-31,Good,26-35,4
+VID00419,PA,Kia,C-Class,2022,Liberty Mutual,Full Coverage,No,2025-11-17,Fair,36-45,0
+VID00420,CA,Kia,Civic,2003,State Farm,Liability,Yes,2025-12-14,Fair,46-60,0
+VID00421,OH,Toyota,F-150,2014,Allstate,Full Coverage,Yes,2025-12-17,Good,60+,3
+VID00422,CA,Honda,Sorento,2021,USAA,Comprehensive,No,2025-05-13,Fair,18-25,0
+VID00423,NC,Mercedes,Jetta,2023,USAA,Liability,No,2025-05-30,Fair,36-45,3
+VID00424,NC,Kia,Civic,2007,USAA,Collision,Yes,2026-01-03,Poor,18-25,4
+VID00425,FL,Nissan,3 Series,2017,State Farm,Liability,Yes,2025-04-29,Fair,60+,2
+VID00426,OH,Mercedes,Altima,2010,USAA,Comprehensive,No,2025-07-27,Fair,60+,5
+VID00427,IL,Honda,F-150,2003,Liberty Mutual,Full Coverage,No,2026-02-27,Fair,26-35,3
+VID00428,PA,Kia,C-Class,2003,USAA,Comprehensive,No,2025-05-27,Fair,26-35,5
+VID00429,CA,Nissan,Camry,2012,Farmers,Comprehensive,No,2025-06-15,Poor,46-60,3
+VID00430,OH,Ford,3 Series,2019,Progressive,Full Coverage,No,2026-01-14,Fair,36-45,0
+VID00431,OH,Mercedes,Sorento,2000,Farmers,Comprehensive,No,2025-12-29,Poor,36-45,0
+VID00432,GA,Chevrolet,Elantra,2002,Liberty Mutual,Comprehensive,Yes,2026-03-04,Fair,36-45,0
+VID00433,OH,BMW,Camry,2015,Progressive,Comprehensive,No,2025-05-20,Good,60+,0
+VID00434,GA,Volkswagen,Altima,2013,Farmers,Collision,Yes,2025-06-05,Poor,18-25,4
+VID00435,TX,Honda,C-Class,2014,Progressive,Full Coverage,Yes,2025-05-08,Good,60+,5
+VID00436,TX,Mercedes,Camry,2008,Farmers,Comprehensive,No,2025-10-21,Good,36-45,5
+VID00437,IL,Chevrolet,Civic,2008,Allstate,Full Coverage,Yes,2025-10-19,Poor,60+,1
+VID00438,TX,Kia,Elantra,2004,Geico,Full Coverage,Yes,2026-01-30,Poor,26-35,1
+VID00439,OH,Hyundai,Sorento,2000,Progressive,Collision,Yes,2025-07-19,Good,26-35,3
+VID00440,TX,BMW,F-150,2009,Progressive,Full Coverage,No,2025-09-05,Fair,26-35,2
+VID00441,IL,Honda,C-Class,2008,USAA,Full Coverage,Yes,2025-06-12,Good,18-25,4
+VID00442,CA,Honda,Camry,2013,State Farm,Comprehensive,No,2025-05-11,Good,36-45,3
+VID00443,TX,Toyota,Jetta,2011,Progressive,Liability,Yes,2025-06-22,Good,60+,0
+VID00444,GA,Nissan,Silverado,2003,Geico,Collision,No,2025-11-09,Poor,46-60,4
+VID00445,MI,Mercedes,Camry,2013,Geico,Full Coverage,No,2025-05-08,Fair,60+,2
+VID00446,NY,Chevrolet,Silverado,2017,State Farm,Comprehensive,No,2026-02-23,Fair,46-60,2
+VID00447,NC,Chevrolet,Jetta,2012,Farmers,Comprehensive,No,2025-12-15,Fair,46-60,3
+VID00448,GA,Hyundai,Jetta,2014,Farmers,Full Coverage,Yes,2025-05-16,Good,26-35,2
+VID00449,PA,Hyundai,Elantra,2011,Progressive,Full Coverage,No,2025-05-01,Poor,60+,1
+VID00450,MI,Kia,F-150,2011,Allstate,Comprehensive,No,2025-05-22,Good,26-35,3
+VID00451,TX,Toyota,C-Class,2019,Liberty Mutual,Full Coverage,No,2025-09-04,Poor,36-45,4
+VID00452,IL,Toyota,Elantra,2001,Farmers,Full Coverage,Yes,2026-02-27,Poor,60+,3
+VID00453,NC,Honda,F-150,2001,Allstate,Liability,No,2025-12-02,Poor,60+,1
+VID00454,GA,Chevrolet,Camry,2009,Farmers,Comprehensive,Yes,2026-03-03,Poor,60+,5
+VID00455,TX,Kia,Jetta,2011,Progressive,Full Coverage,Yes,2025-06-02,Poor,18-25,2
+VID00456,NC,Chevrolet,F-150,2000,Allstate,Full Coverage,No,2025-12-04,Good,60+,3
+VID00457,PA,Kia,C-Class,2005,Geico,Liability,No,2025-09-07,Poor,36-45,0
+VID00458,NY,Chevrolet,Jetta,2004,Progressive,Full Coverage,Yes,2026-03-22,Fair,26-35,0
+VID00459,MI,Volkswagen,Camry,2023,Farmers,Full Coverage,Yes,2025-11-29,Fair,18-25,4
+VID00460,IL,Ford,Altima,2000,Progressive,Liability,No,2025-10-05,Poor,46-60,1
+VID00461,NY,Kia,F-150,2003,Liberty Mutual,Liability,No,2025-09-04,Good,36-45,2
+VID00462,MI,Mercedes,Sorento,2015,Progressive,Collision,Yes,2025-10-14,Fair,60+,5
+VID00463,MI,Mercedes,Civic,2010,Geico,Comprehensive,No,2025-07-12,Fair,18-25,1
+VID00464,OH,Volkswagen,F-150,2013,Farmers,Comprehensive,No,2026-02-19,Poor,46-60,0
+VID00465,TX,Nissan,Sorento,2001,USAA,Liability,No,2025-08-30,Fair,18-25,0
+VID00466,FL,Ford,F-150,2005,State Farm,Full Coverage,Yes,2025-12-02,Fair,26-35,5
+VID00467,MI,Toyota,3 Series,2018,Allstate,Liability,No,2025-08-10,Fair,18-25,4
+VID00468,CA,Honda,C-Class,2012,USAA,Comprehensive,No,2025-05-17,Fair,60+,1
+VID00469,FL,Ford,Camry,2010,Geico,Collision,Yes,2026-01-25,Fair,26-35,4
+VID00470,NC,Nissan,Silverado,2014,State Farm,Comprehensive,No,2025-12-12,Poor,18-25,5
+VID00471,PA,Mercedes,Altima,2000,Allstate,Full Coverage,No,2025-09-14,Poor,46-60,0
+VID00472,FL,Kia,Jetta,2010,Progressive,Liability,No,2025-09-25,Good,46-60,4
+VID00473,GA,Mercedes,Sorento,2017,Progressive,Liability,Yes,2026-02-13,Good,18-25,1
+VID00474,GA,Kia,3 Series,2009,Geico,Collision,No,2025-05-21,Fair,36-45,1
+VID00475,GA,Mercedes,Altima,2008,Geico,Collision,Yes,2026-03-01,Poor,18-25,1
+VID00476,NY,Chevrolet,C-Class,2005,Progressive,Liability,Yes,2025-12-21,Good,46-60,0
+VID00477,MI,Mercedes,C-Class,2016,Farmers,Liability,No,2026-03-02,Poor,18-25,5
+VID00478,IL,Kia,3 Series,2013,State Farm,Full Coverage,Yes,2025-12-25,Good,26-35,5
+VID00479,CA,Ford,Elantra,2006,State Farm,Collision,Yes,2026-03-25,Fair,60+,3
+VID00480,NC,Chevrolet,Civic,2006,USAA,Collision,Yes,2026-02-01,Poor,26-35,5
+VID00481,MI,Toyota,Sorento,2015,Liberty Mutual,Liability,Yes,2025-05-11,Fair,26-35,0
+VID00482,GA,BMW,Civic,2010,Progressive,Full Coverage,No,2025-12-21,Poor,26-35,4
+VID00483,TX,Chevrolet,F-150,2014,State Farm,Collision,Yes,2025-12-29,Fair,18-25,4
+VID00484,CA,Ford,Silverado,2019,State Farm,Full Coverage,Yes,2025-11-11,Poor,26-35,2
+VID00485,IL,Hyundai,Altima,2006,Progressive,Full Coverage,No,2025-10-23,Fair,60+,2
+VID00486,NC,Volkswagen,F-150,2017,Progressive,Collision,No,2025-07-09,Fair,60+,2
+VID00487,NC,BMW,Camry,2014,State Farm,Collision,No,2026-02-16,Poor,18-25,1
+VID00488,MI,Nissan,Silverado,2018,Liberty Mutual,Comprehensive,No,2025-09-18,Poor,26-35,1
+VID00489,OH,Hyundai,F-150,2002,Farmers,Full Coverage,Yes,2025-08-30,Poor,18-25,2
+VID00490,NY,Chevrolet,3 Series,2017,Allstate,Comprehensive,No,2026-02-22,Good,46-60,0
+VID00491,IL,Hyundai,Civic,2018,Farmers,Full Coverage,Yes,2025-08-03,Good,60+,1
+VID00492,OH,BMW,Jetta,2003,Farmers,Liability,Yes,2025-04-26,Fair,46-60,3
+VID00493,FL,Hyundai,3 Series,2010,Geico,Comprehensive,Yes,2025-08-25,Good,46-60,3
+VID00494,NY,Chevrolet,F-150,2007,Geico,Liability,No,2025-07-16,Good,36-45,4
+VID00495,TX,Chevrolet,Elantra,2009,Farmers,Collision,No,2025-09-15,Good,60+,1
+VID00496,OH,Toyota,Silverado,2005,Geico,Collision,No,2026-02-08,Good,36-45,3
+VID00497,OH,Toyota,3 Series,2005,Progressive,Liability,No,2026-03-11,Fair,60+,3
+VID00498,OH,Volkswagen,3 Series,2002,State Farm,Comprehensive,Yes,2026-03-25,Fair,18-25,1
+VID00499,GA,Hyundai,Elantra,2002,USAA,Comprehensive,No,2025-06-06,Poor,46-60,1
+VID00500,PA,Hyundai,C-Class,2007,USAA,Liability,Yes,2025-09-16,Good,26-35,3
+VID00501,OH,BMW,Sorento,2013,Progressive,Liability,No,2025-10-20,Poor,46-60,4
+VID00502,FL,Honda,C-Class,2017,State Farm,Full Coverage,No,2026-02-13,Fair,18-25,5
+VID00503,IL,Nissan,Altima,2018,Geico,Collision,No,2025-12-12,Good,18-25,4
+VID00504,GA,Toyota,3 Series,2019,Geico,Collision,No,2025-08-01,Fair,36-45,5
+VID00505,TX,BMW,Jetta,2006,Farmers,Comprehensive,No,2026-01-13,Poor,26-35,0
+VID00506,NC,Ford,Silverado,2000,Allstate,Comprehensive,No,2026-01-29,Poor,18-25,1
+VID00507,OH,Mercedes,Sorento,2015,USAA,Collision,No,2025-09-10,Good,26-35,0
+VID00508,IL,BMW,F-150,2012,Liberty Mutual,Full Coverage,Yes,2026-03-06,Poor,26-35,0
+VID00509,IL,Chevrolet,Jetta,2003,Progressive,Collision,No,2025-11-25,Poor,18-25,4
+VID00510,MI,Volkswagen,3 Series,2012,Allstate,Collision,Yes,2025-05-12,Fair,26-35,5
+VID00511,FL,Chevrolet,Silverado,2021,State Farm,Liability,Yes,2025-08-22,Poor,26-35,1
+VID00512,PA,Chevrolet,Silverado,2005,Allstate,Collision,No,2026-02-25,Poor,60+,1
+VID00513,NC,Toyota,3 Series,2015,Progressive,Liability,No,2025-07-24,Fair,36-45,2
+VID00514,FL,Mercedes,Jetta,2016,USAA,Full Coverage,Yes,2025-05-24,Poor,46-60,5
+VID00515,NC,Chevrolet,C-Class,2011,Farmers,Full Coverage,Yes,2025-07-27,Poor,18-25,4
+VID00516,NC,Nissan,Sorento,2019,Geico,Full Coverage,No,2025-09-10,Fair,18-25,0
+VID00517,OH,Kia,Civic,2009,Geico,Collision,No,2025-09-03,Fair,26-35,0
+VID00518,MI,Ford,Camry,2010,State Farm,Full Coverage,Yes,2025-06-29,Good,60+,4
+VID00519,NC,Hyundai,Altima,2017,Allstate,Liability,No,2025-07-22,Good,26-35,2
+VID00520,MI,Honda,Sorento,2009,Progressive,Collision,No,2025-06-21,Good,46-60,1
+VID00521,PA,Hyundai,C-Class,2000,Allstate,Collision,No,2026-03-13,Fair,36-45,2
+VID00522,MI,Volkswagen,Civic,2010,Farmers,Liability,No,2025-12-04,Good,46-60,0
+VID00523,TX,Chevrolet,Camry,2007,Progressive,Full Coverage,Yes,2025-06-09,Poor,36-45,4
+VID00524,FL,Honda,F-150,2007,Progressive,Comprehensive,No,2025-08-14,Poor,46-60,2
+VID00525,FL,Hyundai,3 Series,2013,USAA,Full Coverage,No,2026-03-16,Fair,18-25,5
+VID00526,CA,Hyundai,Jetta,2023,Allstate,Comprehensive,No,2025-11-26,Poor,18-25,0
+VID00527,NC,BMW,Camry,2005,Liberty Mutual,Full Coverage,No,2025-06-15,Good,18-25,3
+VID00528,FL,Volkswagen,3 Series,2015,USAA,Full Coverage,Yes,2026-01-11,Fair,60+,4
+VID00529,FL,Kia,Silverado,2023,Progressive,Comprehensive,No,2025-05-20,Good,46-60,3
+VID00530,NC,Ford,Elantra,2012,Farmers,Comprehensive,Yes,2025-07-03,Good,36-45,2
+VID00531,FL,Volkswagen,Civic,2002,USAA,Comprehensive,Yes,2026-01-22,Good,18-25,5
+VID00532,GA,Volkswagen,3 Series,2022,Progressive,Liability,No,2025-11-28,Fair,46-60,0
+VID00533,MI,Chevrolet,Silverado,2013,Liberty Mutual,Full Coverage,No,2025-08-03,Poor,46-60,4
+VID00534,GA,Toyota,3 Series,2022,Liberty Mutual,Full Coverage,Yes,2026-01-10,Poor,26-35,4
+VID00535,FL,Volkswagen,C-Class,2008,State Farm,Comprehensive,No,2025-11-10,Poor,46-60,5
+VID00536,NC,Honda,3 Series,2004,Progressive,Collision,No,2025-05-31,Poor,36-45,4
+VID00537,TX,Nissan,Silverado,2020,Farmers,Collision,Yes,2025-12-25,Good,26-35,5
+VID00538,PA,Volkswagen,C-Class,2013,State Farm,Comprehensive,No,2025-11-16,Fair,26-35,5
+VID00539,FL,Nissan,Sorento,2006,Farmers,Liability,No,2025-09-29,Fair,46-60,5
+VID00540,CA,Kia,Jetta,2010,Farmers,Collision,No,2026-02-05,Fair,46-60,5
+VID00541,OH,Nissan,C-Class,2016,Liberty Mutual,Collision,Yes,2026-01-20,Poor,36-45,5
+VID00542,TX,Ford,Altima,2017,Liberty Mutual,Full Coverage,No,2025-05-14,Poor,36-45,3
+VID00543,GA,Toyota,Altima,2000,Allstate,Comprehensive,No,2026-03-22,Poor,46-60,5
+VID00544,MI,Honda,Elantra,2017,Farmers,Liability,Yes,2025-12-29,Poor,26-35,2
+VID00545,TX,Volkswagen,Civic,2015,Progressive,Full Coverage,Yes,2026-01-20,Fair,18-25,4
+VID00546,GA,Ford,Camry,2004,State Farm,Comprehensive,Yes,2026-03-18,Poor,60+,3
+VID00547,TX,Nissan,Sorento,2009,Farmers,Collision,Yes,2025-05-15,Good,36-45,0
+VID00548,PA,Toyota,C-Class,2019,USAA,Comprehensive,No,2025-10-26,Good,18-25,2
+VID00549,NC,Ford,Civic,2007,Liberty Mutual,Full Coverage,No,2025-08-22,Good,36-45,1
+VID00550,OH,BMW,3 Series,2007,Allstate,Liability,Yes,2025-10-03,Poor,46-60,3
+VID00551,CA,Mercedes,C-Class,2005,Liberty Mutual,Full Coverage,No,2025-09-22,Poor,60+,0
+VID00552,TX,Mercedes,3 Series,2004,Farmers,Comprehensive,No,2025-10-31,Good,60+,5
+VID00553,OH,Kia,Sorento,2013,Progressive,Comprehensive,No,2025-10-15,Poor,36-45,5
+VID00554,NC,Mercedes,C-Class,2009,Geico,Full Coverage,Yes,2025-08-27,Poor,18-25,5
+VID00555,IL,Nissan,F-150,2015,USAA,Liability,Yes,2026-02-09,Poor,60+,0
+VID00556,PA,Mercedes,Altima,2014,Liberty Mutual,Comprehensive,Yes,2026-02-20,Good,26-35,3
+VID00557,GA,Hyundai,3 Series,2005,Allstate,Liability,Yes,2025-06-19,Fair,60+,5
+VID00558,TX,Ford,Silverado,2008,Allstate,Comprehensive,Yes,2025-08-23,Poor,46-60,2
+VID00559,OH,Toyota,Sorento,2012,USAA,Collision,Yes,2026-02-22,Poor,26-35,5
+VID00560,GA,Mercedes,Civic,2007,Liberty Mutual,Full Coverage,Yes,2026-03-08,Good,26-35,1
+VID00561,CA,Volkswagen,Sorento,2023,State Farm,Liability,No,2026-01-28,Fair,36-45,1
+VID00562,OH,Volkswagen,C-Class,2005,Allstate,Comprehensive,Yes,2025-10-18,Good,46-60,3
+VID00563,TX,Volkswagen,F-150,2018,State Farm,Liability,No,2025-11-28,Fair,26-35,1
+VID00564,GA,Chevrolet,Civic,2011,Farmers,Full Coverage,Yes,2025-04-24,Poor,36-45,1
+VID00565,GA,Hyundai,C-Class,2000,Allstate,Liability,Yes,2025-07-22,Poor,60+,2
+VID00566,NC,Mercedes,Altima,2013,State Farm,Full Coverage,Yes,2026-03-22,Fair,18-25,0
+VID00567,OH,BMW,Altima,2023,State Farm,Liability,No,2025-10-26,Good,36-45,5
+VID00568,PA,Chevrolet,Civic,2002,Allstate,Full Coverage,No,2026-01-21,Good,18-25,2
+VID00569,OH,Mercedes,Altima,2012,State Farm,Collision,Yes,2025-08-14,Poor,18-25,1
+VID00570,GA,Kia,Jetta,2004,Liberty Mutual,Comprehensive,Yes,2025-12-17,Poor,18-25,1
+VID00571,PA,Nissan,Sorento,2004,USAA,Comprehensive,No,2025-08-29,Poor,46-60,3
+VID00572,FL,Toyota,Jetta,2021,Liberty Mutual,Comprehensive,No,2025-07-19,Poor,26-35,1
+VID00573,NY,Chevrolet,Jetta,2018,State Farm,Liability,No,2025-11-21,Fair,18-25,1
+VID00574,OH,Chevrolet,Altima,2006,State Farm,Collision,Yes,2025-07-30,Poor,26-35,1
+VID00575,FL,BMW,C-Class,2010,USAA,Collision,Yes,2025-10-29,Fair,18-25,0
+VID00576,PA,Chevrolet,3 Series,2014,Geico,Liability,No,2025-07-08,Good,18-25,5
+VID00577,TX,Volkswagen,Altima,2008,State Farm,Liability,No,2026-03-25,Poor,36-45,4
+VID00578,CA,Mercedes,F-150,2013,Liberty Mutual,Liability,No,2026-02-23,Poor,26-35,0
+VID00579,NC,Nissan,F-150,2021,Allstate,Collision,Yes,2026-02-16,Poor,60+,3
+VID00580,CA,Nissan,Altima,2000,Allstate,Full Coverage,Yes,2026-02-19,Poor,60+,0
+VID00581,FL,BMW,Camry,2013,Geico,Comprehensive,Yes,2025-06-24,Fair,60+,4
+VID00582,NY,Volkswagen,3 Series,2001,Liberty Mutual,Collision,Yes,2025-07-17,Poor,46-60,4
+VID00583,CA,Hyundai,Civic,2012,USAA,Collision,Yes,2025-08-15,Fair,26-35,2
+VID00584,OH,Hyundai,C-Class,2017,Allstate,Comprehensive,Yes,2025-09-09,Poor,36-45,5
+VID00585,CA,Kia,Altima,2023,State Farm,Comprehensive,Yes,2025-08-14,Poor,46-60,1
+VID00586,NY,Ford,3 Series,2020,State Farm,Full Coverage,Yes,2025-07-11,Good,26-35,5
+VID00587,NC,Chevrolet,Sorento,2007,State Farm,Liability,No,2026-01-09,Poor,60+,1
+VID00588,FL,Mercedes,F-150,2016,USAA,Liability,Yes,2026-02-19,Good,60+,2
+VID00589,OH,Ford,Altima,2000,Farmers,Comprehensive,No,2025-07-19,Fair,26-35,0
+VID00590,OH,Mercedes,Civic,2017,USAA,Comprehensive,No,2025-09-16,Fair,36-45,3
+VID00591,PA,Honda,Jetta,2002,Progressive,Liability,No,2025-12-06,Poor,26-35,2
+VID00592,IL,Volkswagen,Sorento,2007,Liberty Mutual,Comprehensive,Yes,2025-05-06,Poor,46-60,2
+VID00593,CA,Mercedes,3 Series,2020,USAA,Liability,Yes,2025-09-16,Good,60+,0
+VID00594,GA,Kia,Camry,2011,Geico,Collision,No,2026-01-13,Poor,26-35,3
+VID00595,PA,Nissan,Sorento,2009,Progressive,Comprehensive,Yes,2025-07-25,Fair,36-45,4
+VID00596,TX,Mercedes,Sorento,2023,Liberty Mutual,Comprehensive,Yes,2026-01-01,Good,46-60,5
+VID00597,IL,BMW,Civic,2003,Progressive,Liability,Yes,2025-12-28,Fair,18-25,1
+VID00598,CA,Mercedes,Civic,2018,Geico,Liability,No,2025-07-25,Good,18-25,1
+VID00599,OH,Nissan,Elantra,2017,State Farm,Full Coverage,Yes,2025-09-02,Fair,60+,2
+VID00600,PA,Hyundai,C-Class,2005,Allstate,Liability,No,2026-01-28,Poor,36-45,2
+VID00601,PA,Chevrolet,Camry,2006,Allstate,Full Coverage,No,2026-02-16,Poor,36-45,3
+VID00602,OH,Volkswagen,C-Class,2010,Liberty Mutual,Full Coverage,Yes,2025-08-05,Poor,46-60,2
+VID00603,IL,Honda,C-Class,2008,USAA,Collision,Yes,2026-01-10,Poor,60+,3
+VID00604,PA,Kia,Altima,2019,USAA,Liability,No,2026-01-05,Fair,46-60,1
+VID00605,GA,Mercedes,F-150,2009,Liberty Mutual,Liability,No,2025-07-05,Poor,60+,4
+VID00606,PA,Volkswagen,Jetta,2022,Liberty Mutual,Full Coverage,No,2025-11-13,Good,26-35,0
+VID00607,MI,Chevrolet,Silverado,2000,USAA,Liability,Yes,2025-12-22,Fair,36-45,4
+VID00608,GA,BMW,C-Class,2009,USAA,Liability,No,2025-11-10,Fair,26-35,3
+VID00609,CA,Ford,Elantra,2022,Geico,Full Coverage,Yes,2025-08-29,Fair,18-25,5
+VID00610,IL,Kia,Silverado,2017,USAA,Comprehensive,No,2025-05-10,Poor,46-60,2
+VID00611,NY,BMW,Elantra,2001,Farmers,Collision,Yes,2025-05-15,Good,18-25,0
+VID00612,IL,Toyota,Camry,2000,Allstate,Full Coverage,Yes,2026-02-01,Fair,60+,5
+VID00613,PA,Nissan,Camry,2005,Progressive,Liability,Yes,2026-02-02,Poor,60+,5
+VID00614,TX,BMW,Silverado,2006,Liberty Mutual,Liability,No,2025-06-18,Fair,18-25,5
+VID00615,GA,Chevrolet,C-Class,2007,USAA,Liability,Yes,2025-05-04,Good,36-45,0
+VID00616,PA,BMW,Elantra,2017,Liberty Mutual,Comprehensive,Yes,2026-01-21,Poor,36-45,0
+VID00617,NC,Ford,3 Series,2016,Liberty Mutual,Collision,Yes,2025-06-01,Fair,46-60,3
+VID00618,OH,Nissan,Jetta,2019,Farmers,Full Coverage,No,2025-08-08,Good,36-45,1
+VID00619,NY,Mercedes,3 Series,2012,USAA,Collision,Yes,2026-02-16,Poor,46-60,4
+VID00620,IL,Kia,Altima,2015,State Farm,Comprehensive,Yes,2026-01-12,Poor,18-25,0
+VID00621,NY,Mercedes,Silverado,2009,Allstate,Comprehensive,Yes,2026-01-05,Good,46-60,1
+VID00622,NY,Ford,Jetta,2004,Liberty Mutual,Full Coverage,No,2026-03-17,Good,46-60,1
+VID00623,IL,Toyota,Civic,2019,Progressive,Liability,No,2025-06-05,Poor,18-25,5
+VID00624,CA,BMW,Camry,2021,USAA,Collision,No,2025-12-13,Fair,46-60,0
+VID00625,IL,Ford,3 Series,2008,Liberty Mutual,Collision,No,2026-01-12,Fair,26-35,2
+VID00626,MI,Kia,F-150,2006,Allstate,Collision,No,2025-12-29,Fair,26-35,4
+VID00627,NC,Honda,F-150,2017,Farmers,Full Coverage,No,2025-04-26,Poor,26-35,2
+VID00628,IL,BMW,F-150,2017,Allstate,Comprehensive,Yes,2025-10-28,Poor,18-25,3
+VID00629,PA,Volkswagen,Civic,2016,USAA,Liability,No,2026-02-28,Fair,60+,2
+VID00630,MI,Honda,Elantra,2003,State Farm,Full Coverage,Yes,2025-08-24,Poor,18-25,3
+VID00631,NY,Chevrolet,3 Series,2011,Allstate,Comprehensive,No,2025-11-11,Fair,46-60,0
+VID00632,IL,Kia,Elantra,2020,Liberty Mutual,Comprehensive,No,2026-01-14,Fair,36-45,1
+VID00633,GA,BMW,Sorento,2021,Farmers,Liability,No,2026-01-21,Fair,18-25,4
+VID00634,OH,Volkswagen,Silverado,2004,Farmers,Collision,No,2025-09-26,Poor,18-25,0
+VID00635,FL,Hyundai,3 Series,2008,Progressive,Comprehensive,No,2025-09-07,Good,26-35,5
+VID00636,FL,Chevrolet,3 Series,2001,State Farm,Collision,No,2025-07-12,Poor,18-25,2
+VID00637,NY,Kia,3 Series,2005,Progressive,Comprehensive,Yes,2025-05-18,Fair,26-35,3
+VID00638,MI,Chevrolet,Altima,2012,Liberty Mutual,Liability,Yes,2025-10-13,Fair,60+,4
+VID00639,NC,Toyota,Jetta,2007,Farmers,Collision,Yes,2025-10-23,Poor,46-60,5
+VID00640,NC,Volkswagen,Silverado,2013,State Farm,Full Coverage,No,2025-08-26,Poor,26-35,3
+VID00641,NY,BMW,Elantra,2007,USAA,Liability,No,2025-08-18,Poor,36-45,1
+VID00642,NC,Toyota,F-150,2007,Farmers,Liability,Yes,2025-12-27,Good,26-35,3
+VID00643,FL,Ford,Jetta,2013,Geico,Full Coverage,No,2026-01-21,Good,60+,5
+VID00644,TX,Honda,F-150,2007,Liberty Mutual,Liability,No,2025-12-11,Good,36-45,5
+VID00645,IL,Nissan,Sorento,2013,Allstate,Full Coverage,Yes,2026-01-13,Fair,46-60,0
+VID00646,PA,Toyota,F-150,2001,Allstate,Comprehensive,No,2025-11-18,Fair,36-45,0
+VID00647,MI,Nissan,Altima,2004,Progressive,Comprehensive,No,2025-10-26,Poor,18-25,0
+VID00648,CA,Hyundai,Silverado,2000,State Farm,Liability,Yes,2025-07-01,Poor,18-25,0
+VID00649,CA,Chevrolet,Elantra,2015,Geico,Full Coverage,Yes,2025-12-15,Fair,60+,1
+VID00650,PA,Mercedes,3 Series,2011,USAA,Liability,Yes,2026-03-06,Fair,60+,5
+VID00651,OH,Hyundai,Camry,2023,Geico,Full Coverage,Yes,2025-12-25,Poor,60+,5
+VID00652,IL,Honda,Camry,2007,Geico,Comprehensive,No,2025-09-28,Poor,26-35,3
+VID00653,GA,Toyota,C-Class,2007,Allstate,Comprehensive,Yes,2025-11-10,Good,36-45,3
+VID00654,OH,Mercedes,Sorento,2006,Liberty Mutual,Liability,Yes,2025-07-13,Good,18-25,3
+VID00655,IL,Ford,Camry,2023,Allstate,Liability,Yes,2026-01-20,Poor,36-45,5
+VID00656,NC,BMW,3 Series,2012,Geico,Full Coverage,Yes,2026-03-06,Poor,18-25,0
+VID00657,CA,Hyundai,Jetta,2003,State Farm,Comprehensive,Yes,2025-11-16,Fair,60+,2
+VID00658,CA,Chevrolet,Silverado,2016,Progressive,Collision,Yes,2025-09-21,Poor,18-25,3
+VID00659,TX,Chevrolet,Sorento,2011,Farmers,Comprehensive,Yes,2025-07-23,Fair,46-60,2
+VID00660,IL,Toyota,Altima,2008,Liberty Mutual,Comprehensive,No,2025-11-01,Good,46-60,4
+VID00661,PA,Nissan,Elantra,2022,Farmers,Comprehensive,No,2025-05-25,Good,36-45,5
+VID00662,GA,Hyundai,Elantra,2016,Liberty Mutual,Full Coverage,No,2025-06-26,Fair,36-45,4
+VID00663,NC,Kia,F-150,2012,Liberty Mutual,Full Coverage,No,2026-01-22,Good,26-35,4
+VID00664,NC,Mercedes,C-Class,2016,Allstate,Comprehensive,No,2025-07-06,Good,46-60,3
+VID00665,IL,BMW,F-150,2011,Farmers,Full Coverage,No,2025-08-21,Good,36-45,5
+VID00666,IL,Chevrolet,Altima,2005,Geico,Full Coverage,No,2025-05-27,Fair,18-25,0
+VID00667,MI,Chevrolet,Civic,2012,Progressive,Full Coverage,No,2025-10-31,Good,60+,1
+VID00668,OH,Honda,F-150,2002,Farmers,Full Coverage,Yes,2025-07-04,Fair,46-60,2
+VID00669,IL,Chevrolet,C-Class,2010,State Farm,Comprehensive,No,2025-05-09,Fair,36-45,2
+VID00670,OH,Toyota,Elantra,2010,State Farm,Full Coverage,Yes,2025-08-08,Poor,46-60,3
+VID00671,PA,Mercedes,Jetta,2002,USAA,Full Coverage,No,2025-10-02,Poor,26-35,5
+VID00672,NY,Honda,Sorento,2022,USAA,Collision,No,2025-05-17,Good,18-25,0
+VID00673,FL,Honda,Camry,2005,Allstate,Collision,Yes,2025-05-06,Fair,26-35,1
+VID00674,NC,Kia,F-150,2004,Allstate,Full Coverage,No,2025-10-08,Good,26-35,4
+VID00675,NY,Chevrolet,Silverado,2006,Allstate,Full Coverage,No,2026-02-16,Good,46-60,4
+VID00676,PA,Ford,Silverado,2003,Liberty Mutual,Comprehensive,Yes,2025-07-19,Fair,36-45,5
+VID00677,NC,Ford,Civic,2006,Geico,Full Coverage,No,2025-08-30,Poor,36-45,0
+VID00678,PA,Mercedes,Camry,2001,Allstate,Liability,No,2025-11-12,Good,36-45,2
+VID00679,IL,Toyota,F-150,2023,Geico,Comprehensive,Yes,2026-03-17,Fair,26-35,0
+VID00680,TX,Hyundai,Silverado,2008,State Farm,Collision,No,2025-09-07,Good,36-45,5
+VID00681,MI,Volkswagen,Elantra,2004,Geico,Liability,Yes,2026-03-07,Poor,46-60,3
+VID00682,MI,Mercedes,Civic,2010,Liberty Mutual,Liability,Yes,2025-07-23,Fair,60+,4
+VID00683,CA,Kia,Camry,2000,State Farm,Full Coverage,Yes,2025-06-19,Poor,46-60,3
+VID00684,TX,Nissan,3 Series,2021,Geico,Liability,Yes,2025-07-15,Good,18-25,5
+VID00685,NY,Ford,Camry,2007,USAA,Full Coverage,Yes,2025-09-06,Fair,26-35,0
+VID00686,TX,Volkswagen,C-Class,2012,Farmers,Comprehensive,No,2025-07-16,Good,36-45,5
+VID00687,NY,Honda,Civic,2021,Progressive,Full Coverage,Yes,2025-05-04,Poor,60+,4
+VID00688,GA,Nissan,Sorento,2021,Allstate,Liability,No,2025-10-21,Poor,36-45,5
+VID00689,PA,Hyundai,Silverado,2017,Geico,Collision,No,2026-01-15,Poor,18-25,4
+VID00690,GA,BMW,Sorento,2005,Liberty Mutual,Liability,No,2025-06-09,Good,18-25,0
+VID00691,FL,Volkswagen,Elantra,2012,USAA,Comprehensive,Yes,2026-01-08,Poor,46-60,2
+VID00692,GA,Mercedes,3 Series,2021,Allstate,Liability,No,2026-03-14,Good,18-25,2
+VID00693,IL,Kia,Altima,2000,USAA,Comprehensive,Yes,2026-03-05,Fair,60+,2
+VID00694,IL,Mercedes,Camry,2012,Allstate,Liability,No,2025-10-06,Poor,18-25,3
+VID00695,CA,Volkswagen,C-Class,2017,Allstate,Full Coverage,No,2025-05-24,Good,26-35,5
+VID00696,OH,Mercedes,Camry,2002,Farmers,Liability,Yes,2025-09-04,Good,18-25,1
+VID00697,CA,Nissan,Camry,2021,Farmers,Comprehensive,Yes,2026-03-24,Fair,60+,0
+VID00698,NC,Honda,Altima,2008,USAA,Collision,Yes,2026-02-01,Poor,18-25,0
+VID00699,TX,Kia,Civic,2012,Progressive,Liability,No,2025-07-16,Poor,18-25,4
+VID00700,OH,Nissan,C-Class,2019,Farmers,Collision,No,2025-10-29,Good,60+,0
+VID00701,MI,Kia,3 Series,2008,Progressive,Liability,Yes,2025-08-12,Good,26-35,1
+VID00702,CA,Ford,Civic,2011,Geico,Collision,No,2025-11-11,Good,36-45,0
+VID00703,CA,Volkswagen,Elantra,2006,USAA,Full Coverage,Yes,2025-10-01,Fair,36-45,0
+VID00704,TX,BMW,Civic,2005,USAA,Comprehensive,Yes,2025-11-27,Poor,26-35,0
+VID00705,FL,Mercedes,3 Series,2009,Allstate,Comprehensive,No,2025-09-27,Good,46-60,5
+VID00706,NY,Mercedes,C-Class,2014,Liberty Mutual,Liability,No,2025-09-18,Good,36-45,1
+VID00707,PA,Kia,C-Class,2009,State Farm,Comprehensive,Yes,2025-11-20,Fair,36-45,2
+VID00708,IL,Mercedes,Silverado,2017,Farmers,Comprehensive,No,2025-09-24,Good,46-60,4
+VID00709,IL,Kia,Silverado,2015,State Farm,Comprehensive,Yes,2025-07-13,Fair,36-45,5
+VID00710,PA,Kia,Elantra,2000,Geico,Comprehensive,Yes,2025-11-12,Fair,26-35,2
+VID00711,NC,Mercedes,F-150,2004,Farmers,Liability,Yes,2025-05-10,Fair,26-35,3
+VID00712,IL,BMW,Altima,2015,Allstate,Liability,Yes,2026-03-11,Fair,18-25,3
+VID00713,FL,Hyundai,Silverado,2013,USAA,Collision,Yes,2025-09-28,Poor,36-45,2
+VID00714,NY,Nissan,Elantra,2015,State Farm,Collision,Yes,2026-02-07,Good,60+,5
+VID00715,TX,Mercedes,C-Class,2001,Geico,Full Coverage,No,2025-07-20,Fair,46-60,2
+VID00716,TX,BMW,Sorento,2014,Farmers,Liability,Yes,2025-06-16,Poor,26-35,0
+VID00717,NC,Nissan,Silverado,2003,Farmers,Full Coverage,No,2025-05-03,Good,26-35,1
+VID00718,IL,Nissan,Civic,2007,Allstate,Liability,Yes,2025-09-11,Poor,18-25,5
+VID00719,OH,Hyundai,Camry,2010,Progressive,Full Coverage,Yes,2025-06-27,Fair,18-25,5
+VID00720,PA,Volkswagen,3 Series,2023,Geico,Liability,No,2025-07-10,Good,36-45,2
+VID00721,CA,Volkswagen,Camry,2016,Allstate,Full Coverage,No,2025-10-03,Good,36-45,4
+VID00722,NC,BMW,Jetta,2018,Liberty Mutual,Liability,No,2025-10-03,Fair,36-45,3
+VID00723,IL,Honda,Jetta,2018,Liberty Mutual,Collision,No,2026-03-06,Good,18-25,4
+VID00724,OH,Mercedes,Altima,2003,State Farm,Full Coverage,No,2025-10-13,Good,26-35,5
+VID00725,PA,BMW,Jetta,2006,Farmers,Collision,Yes,2025-08-12,Poor,60+,2
+VID00726,GA,Mercedes,Elantra,2015,Geico,Comprehensive,Yes,2025-08-22,Good,26-35,5
+VID00727,NC,BMW,Sorento,2016,Liberty Mutual,Full Coverage,No,2026-02-25,Poor,26-35,2
+VID00728,TX,Ford,Altima,2002,Farmers,Collision,No,2025-10-29,Good,18-25,2
+VID00729,IL,Hyundai,Altima,2009,Farmers,Full Coverage,No,2025-06-14,Fair,60+,2
+VID00730,GA,Ford,Camry,2013,Liberty Mutual,Full Coverage,No,2025-05-02,Poor,18-25,1
+VID00731,TX,Mercedes,F-150,2003,Farmers,Comprehensive,Yes,2025-05-26,Good,60+,1
+VID00732,MI,Nissan,Civic,2014,Progressive,Collision,Yes,2025-12-05,Fair,60+,1
+VID00733,FL,Honda,C-Class,2016,Farmers,Comprehensive,Yes,2025-06-14,Fair,60+,4
+VID00734,CA,Chevrolet,Jetta,2011,Geico,Comprehensive,Yes,2026-01-29,Fair,46-60,0
+VID00735,MI,Ford,C-Class,2014,State Farm,Collision,No,2026-01-21,Fair,18-25,5
+VID00736,GA,Mercedes,Jetta,2020,Liberty Mutual,Liability,Yes,2025-10-06,Poor,26-35,2
+VID00737,NY,Honda,3 Series,2001,USAA,Liability,No,2025-06-21,Poor,60+,2
+VID00738,FL,Honda,Jetta,2014,Farmers,Comprehensive,No,2026-02-04,Good,18-25,2
+VID00739,MI,Honda,Elantra,2007,Geico,Collision,Yes,2025-10-03,Fair,36-45,0
+VID00740,PA,Mercedes,Camry,2017,USAA,Collision,Yes,2025-07-21,Fair,46-60,1
+VID00741,NY,Ford,Silverado,2006,USAA,Comprehensive,Yes,2026-02-11,Poor,60+,1
+VID00742,OH,Volkswagen,Elantra,2017,Allstate,Collision,Yes,2026-03-06,Good,60+,0
+VID00743,IL,Volkswagen,3 Series,2016,Farmers,Comprehensive,Yes,2025-08-10,Fair,18-25,1
+VID00744,PA,Nissan,Sorento,2021,Geico,Collision,Yes,2025-07-28,Good,18-25,1
+VID00745,PA,Ford,Camry,2009,Geico,Full Coverage,No,2025-10-22,Good,60+,2
+VID00746,NY,Nissan,Camry,2013,Liberty Mutual,Liability,Yes,2025-10-01,Poor,46-60,4
+VID00747,FL,Chevrolet,Jetta,2020,USAA,Liability,No,2025-08-21,Fair,18-25,1
+VID00748,GA,Chevrolet,Silverado,2015,Liberty Mutual,Collision,Yes,2026-02-28,Poor,36-45,0
+VID00749,NC,Hyundai,Jetta,2023,Liberty Mutual,Comprehensive,Yes,2025-08-27,Fair,36-45,0
+VID00750,TX,Toyota,C-Class,2010,State Farm,Full Coverage,Yes,2025-07-05,Good,26-35,0
+VID00751,CA,Toyota,Silverado,2016,State Farm,Liability,No,2025-07-16,Good,36-45,3
+VID00752,NC,Toyota,Altima,2017,State Farm,Collision,Yes,2025-12-17,Fair,18-25,1
+VID00753,MI,Ford,Silverado,2008,Allstate,Full Coverage,No,2025-04-27,Fair,60+,5
+VID00754,NC,Hyundai,Camry,2011,Allstate,Collision,Yes,2025-12-17,Poor,60+,5
+VID00755,OH,Chevrolet,Silverado,2006,Farmers,Liability,Yes,2025-08-28,Fair,60+,5
+VID00756,NC,Kia,Jetta,2004,Farmers,Liability,No,2025-08-12,Poor,36-45,5
+VID00757,TX,Chevrolet,Camry,2017,Farmers,Collision,No,2026-01-25,Poor,36-45,3
+VID00758,NY,Hyundai,Silverado,2006,State Farm,Full Coverage,Yes,2026-03-06,Fair,60+,5
+VID00759,GA,Chevrolet,Camry,2016,Liberty Mutual,Liability,No,2025-08-24,Poor,18-25,5
+VID00760,PA,Chevrolet,Jetta,2012,Geico,Collision,Yes,2025-06-21,Fair,60+,1
+VID00761,NC,Volkswagen,Silverado,2000,State Farm,Collision,No,2026-03-08,Good,60+,3
+VID00762,CA,Toyota,Altima,2021,Liberty Mutual,Comprehensive,No,2025-07-01,Fair,46-60,0
+VID00763,FL,Volkswagen,Civic,2014,USAA,Comprehensive,No,2025-06-22,Poor,60+,2
+VID00764,OH,Honda,Elantra,2006,Progressive,Comprehensive,Yes,2026-01-23,Fair,60+,5
+VID00765,CA,Chevrolet,3 Series,2012,Allstate,Comprehensive,No,2025-11-23,Good,36-45,5
+VID00766,IL,Toyota,F-150,2007,Liberty Mutual,Comprehensive,Yes,2025-07-10,Fair,46-60,1
+VID00767,NC,Mercedes,F-150,2022,USAA,Comprehensive,Yes,2025-05-13,Poor,26-35,0
+VID00768,PA,Mercedes,3 Series,2005,USAA,Liability,Yes,2026-02-13,Fair,26-35,3
+VID00769,PA,Honda,Silverado,2000,Liberty Mutual,Liability,Yes,2026-03-10,Poor,46-60,2
+VID00770,OH,Hyundai,Altima,2018,Progressive,Comprehensive,Yes,2025-10-12,Good,60+,2
+VID00771,OH,Ford,Civic,2010,Farmers,Comprehensive,Yes,2025-08-21,Fair,60+,1
+VID00772,NY,Kia,Camry,2010,State Farm,Collision,No,2026-03-20,Poor,18-25,0
+VID00773,FL,Toyota,3 Series,2012,Liberty Mutual,Collision,No,2026-03-03,Good,46-60,1
+VID00774,FL,Ford,Jetta,2009,Farmers,Collision,No,2025-11-04,Fair,36-45,2
+VID00775,GA,Ford,Sorento,2004,USAA,Liability,No,2025-12-31,Fair,46-60,3
+VID00776,TX,Toyota,Elantra,2018,Allstate,Liability,No,2026-01-17,Fair,46-60,1
+VID00777,MI,Ford,C-Class,2022,Geico,Liability,No,2025-08-08,Poor,46-60,3
+VID00778,NC,Kia,Sorento,2005,Farmers,Collision,No,2026-02-15,Poor,60+,1
+VID00779,GA,Honda,Silverado,2014,Farmers,Full Coverage,Yes,2025-04-27,Fair,26-35,0
+VID00780,NY,BMW,Camry,2013,USAA,Comprehensive,No,2025-06-22,Fair,36-45,0
+VID00781,NY,Chevrolet,Civic,2015,Liberty Mutual,Comprehensive,Yes,2025-09-09,Good,60+,1
+VID00782,TX,Mercedes,Silverado,2021,Farmers,Full Coverage,Yes,2025-09-06,Fair,18-25,2
+VID00783,IL,BMW,F-150,2017,Progressive,Liability,No,2025-09-04,Fair,18-25,1
+VID00784,CA,Ford,Sorento,2010,USAA,Collision,No,2025-08-03,Poor,60+,4
+VID00785,TX,Volkswagen,Jetta,2010,Geico,Collision,No,2025-05-07,Poor,36-45,0
+VID00786,IL,Toyota,Camry,2003,Geico,Collision,Yes,2026-01-25,Poor,60+,5
+VID00787,OH,Nissan,C-Class,2012,State Farm,Comprehensive,Yes,2025-05-09,Good,18-25,5
+VID00788,NY,Volkswagen,Altima,2004,USAA,Collision,No,2025-04-29,Poor,46-60,5
+VID00789,TX,Toyota,3 Series,2010,Liberty Mutual,Liability,Yes,2025-10-04,Fair,36-45,3
+VID00790,IL,Hyundai,Jetta,2006,USAA,Full Coverage,Yes,2025-04-29,Poor,26-35,4
+VID00791,GA,Toyota,Altima,2016,Farmers,Liability,No,2025-11-11,Good,46-60,1
+VID00792,OH,Ford,Elantra,2007,Allstate,Comprehensive,Yes,2025-05-31,Poor,26-35,0
+VID00793,OH,Hyundai,3 Series,2018,Progressive,Liability,No,2025-05-29,Poor,36-45,2
+VID00794,GA,Mercedes,Sorento,2022,Farmers,Collision,No,2025-12-28,Fair,36-45,5
+VID00795,IL,Honda,Sorento,2023,Liberty Mutual,Comprehensive,Yes,2026-01-11,Poor,60+,5
+VID00796,CA,Kia,Altima,2000,Allstate,Comprehensive,No,2025-10-17,Good,46-60,0
+VID00797,MI,Honda,Elantra,2009,USAA,Comprehensive,Yes,2026-03-21,Good,18-25,2
+VID00798,NY,Mercedes,C-Class,2011,Farmers,Comprehensive,Yes,2025-06-16,Poor,46-60,2
+VID00799,PA,Toyota,Jetta,2001,USAA,Collision,Yes,2025-04-24,Good,18-25,3
+VID00800,PA,Volkswagen,Civic,2011,State Farm,Comprehensive,No,2025-08-10,Poor,46-60,1
+VID00801,IL,BMW,F-150,2000,State Farm,Comprehensive,No,2025-08-22,Poor,60+,3
+VID00802,IL,Chevrolet,Jetta,2005,Farmers,Liability,Yes,2026-03-15,Poor,18-25,1
+VID00803,IL,Nissan,Jetta,2020,Progressive,Full Coverage,No,2026-01-04,Good,46-60,2
+VID00804,CA,Toyota,Sorento,2018,Allstate,Collision,Yes,2025-06-03,Good,18-25,4
+VID00805,IL,Nissan,Silverado,2004,Progressive,Comprehensive,Yes,2026-02-06,Poor,60+,2
+VID00806,NC,Nissan,Civic,2004,State Farm,Liability,No,2026-01-10,Poor,46-60,4
+VID00807,OH,Nissan,C-Class,2023,Farmers,Collision,No,2026-01-20,Poor,60+,1
+VID00808,GA,Chevrolet,F-150,2007,Allstate,Comprehensive,No,2026-03-07,Good,36-45,3
+VID00809,MI,Kia,Silverado,2006,Allstate,Full Coverage,Yes,2026-03-01,Fair,26-35,5
+VID00810,NC,Toyota,Civic,2007,Allstate,Full Coverage,No,2025-10-20,Fair,26-35,3
+VID00811,CA,Toyota,Elantra,2007,State Farm,Comprehensive,Yes,2026-03-23,Good,46-60,0
+VID00812,NC,BMW,Altima,2015,Allstate,Liability,Yes,2025-11-28,Good,36-45,5
+VID00813,TX,Toyota,Sorento,2004,Geico,Comprehensive,No,2026-02-06,Fair,46-60,3
+VID00814,NC,Honda,Camry,2014,Geico,Comprehensive,Yes,2025-12-01,Fair,60+,1
+VID00815,MI,Hyundai,Civic,2014,Geico,Liability,Yes,2026-02-22,Fair,46-60,4
+VID00816,IL,Nissan,Jetta,2006,Farmers,Full Coverage,No,2026-03-08,Good,36-45,4
+VID00817,MI,Mercedes,3 Series,2021,Progressive,Liability,Yes,2025-09-08,Good,26-35,4
+VID00818,CA,Toyota,Jetta,2001,USAA,Full Coverage,No,2025-11-05,Poor,36-45,4
+VID00819,CA,Nissan,F-150,2005,Geico,Collision,No,2026-02-11,Poor,36-45,4
+VID00820,GA,Ford,C-Class,2002,USAA,Full Coverage,Yes,2025-11-24,Good,36-45,3
+VID00821,CA,Chevrolet,Elantra,2000,Allstate,Full Coverage,No,2026-02-28,Fair,26-35,2
+VID00822,NY,Chevrolet,Civic,2005,Geico,Liability,No,2025-07-27,Good,36-45,4
+VID00823,MI,Hyundai,Jetta,2006,USAA,Liability,Yes,2025-08-04,Good,46-60,1
+VID00824,NY,Chevrolet,Jetta,2005,State Farm,Collision,Yes,2026-03-25,Good,46-60,0
+VID00825,FL,Honda,F-150,2017,Geico,Liability,No,2025-08-29,Fair,60+,1
+VID00826,PA,Ford,Elantra,2007,Allstate,Comprehensive,Yes,2025-11-22,Good,18-25,5
+VID00827,FL,Mercedes,C-Class,2018,Progressive,Collision,Yes,2025-06-09,Poor,36-45,1
+VID00828,OH,Chevrolet,Silverado,2002,State Farm,Comprehensive,Yes,2026-02-12,Poor,36-45,1
+VID00829,FL,Chevrolet,Silverado,2012,Liberty Mutual,Liability,No,2025-11-04,Poor,60+,5
+VID00830,TX,Nissan,Civic,2010,Allstate,Collision,No,2025-06-04,Fair,36-45,1
+VID00831,PA,Nissan,Jetta,2004,Progressive,Collision,Yes,2025-06-22,Good,18-25,2
+VID00832,CA,Ford,Silverado,2016,Allstate,Full Coverage,Yes,2026-02-21,Fair,18-25,4
+VID00833,IL,Toyota,F-150,2017,Farmers,Liability,Yes,2025-05-23,Fair,18-25,1
+VID00834,OH,BMW,Civic,2022,Farmers,Comprehensive,No,2026-03-20,Poor,46-60,2
+VID00835,NY,Hyundai,Altima,2002,Geico,Comprehensive,Yes,2025-05-18,Poor,46-60,3
+VID00836,NY,Volkswagen,C-Class,2021,Liberty Mutual,Collision,Yes,2026-02-10,Fair,26-35,5
+VID00837,NC,Volkswagen,Camry,2014,Progressive,Liability,No,2025-07-06,Fair,26-35,4
+VID00838,FL,Honda,Sorento,2017,Progressive,Liability,Yes,2025-12-30,Good,26-35,0
+VID00839,TX,Toyota,Silverado,2019,Farmers,Comprehensive,No,2025-12-13,Poor,18-25,1
+VID00840,GA,Toyota,F-150,2010,State Farm,Full Coverage,No,2025-07-17,Poor,26-35,2
+VID00841,FL,Mercedes,Jetta,2013,Progressive,Collision,Yes,2025-07-07,Good,60+,4
+VID00842,MI,Volkswagen,Elantra,2009,Progressive,Collision,No,2025-08-04,Good,46-60,1
+VID00843,NY,Mercedes,Altima,2017,Liberty Mutual,Liability,Yes,2026-02-01,Good,26-35,0
+VID00844,NC,Kia,Jetta,2020,Progressive,Comprehensive,No,2025-06-17,Fair,60+,1
+VID00845,GA,Kia,Silverado,2003,Allstate,Liability,No,2025-09-21,Fair,18-25,1
+VID00846,PA,Honda,C-Class,2012,State Farm,Liability,No,2025-05-22,Good,36-45,4
+VID00847,NC,Chevrolet,F-150,2013,State Farm,Full Coverage,Yes,2025-05-15,Good,60+,1
+VID00848,TX,Ford,Jetta,2021,USAA,Liability,Yes,2025-05-07,Fair,26-35,3
+VID00849,NC,Ford,C-Class,2000,USAA,Comprehensive,Yes,2025-05-23,Fair,26-35,4
+VID00850,NY,Chevrolet,Silverado,2017,Geico,Liability,Yes,2025-10-06,Poor,46-60,1
+VID00851,GA,Nissan,Jetta,2012,Liberty Mutual,Comprehensive,No,2025-11-22,Fair,46-60,1
+VID00852,FL,Mercedes,Sorento,2011,Farmers,Full Coverage,Yes,2025-12-07,Good,26-35,5
+VID00853,IL,Ford,Jetta,2023,Farmers,Liability,Yes,2025-07-02,Good,26-35,0
+VID00854,FL,Kia,C-Class,2013,Geico,Liability,No,2025-06-29,Poor,36-45,4
+VID00855,CA,BMW,Camry,2001,Geico,Collision,Yes,2025-05-18,Poor,60+,2
+VID00856,GA,Honda,Elantra,2015,Liberty Mutual,Comprehensive,No,2025-10-06,Poor,60+,1
+VID00857,PA,BMW,Elantra,2021,State Farm,Collision,Yes,2025-12-12,Fair,18-25,4
+VID00858,NC,Ford,Silverado,2003,Geico,Liability,No,2026-03-06,Poor,18-25,0
+VID00859,FL,BMW,C-Class,2001,State Farm,Full Coverage,No,2025-10-03,Good,36-45,2
+VID00860,NC,Volkswagen,C-Class,2013,Progressive,Collision,Yes,2026-02-03,Poor,46-60,4
+VID00861,FL,Kia,Civic,2001,Geico,Comprehensive,Yes,2025-06-09,Good,26-35,2
+VID00862,TX,Kia,Altima,2019,State Farm,Liability,Yes,2025-10-13,Fair,26-35,3
+VID00863,NC,Volkswagen,Jetta,2000,USAA,Liability,Yes,2025-10-18,Fair,26-35,4
+VID00864,PA,BMW,F-150,2017,Allstate,Full Coverage,Yes,2025-08-20,Fair,60+,1
+VID00865,MI,Mercedes,Elantra,2017,Allstate,Collision,No,2026-01-16,Poor,46-60,5
+VID00866,GA,Nissan,Sorento,2010,Farmers,Comprehensive,No,2025-12-28,Fair,60+,2
+VID00867,MI,Chevrolet,Elantra,2008,Liberty Mutual,Full Coverage,No,2025-07-08,Poor,26-35,0
+VID00868,OH,Kia,Silverado,2021,Liberty Mutual,Collision,No,2025-12-23,Good,36-45,5
+VID00869,MI,Mercedes,Camry,2006,Liberty Mutual,Collision,No,2025-10-10,Good,36-45,5
+VID00870,PA,Honda,Silverado,2021,Geico,Liability,Yes,2025-10-12,Good,18-25,0
+VID00871,OH,Volkswagen,Altima,2002,Farmers,Comprehensive,Yes,2025-08-08,Poor,26-35,2
+VID00872,IL,Hyundai,C-Class,2023,State Farm,Collision,Yes,2026-01-06,Poor,18-25,2
+VID00873,PA,Nissan,Altima,2003,USAA,Full Coverage,No,2025-10-08,Fair,60+,0
+VID00874,MI,Honda,Sorento,2008,Liberty Mutual,Liability,Yes,2025-11-23,Good,18-25,5
+VID00875,GA,Hyundai,Elantra,2001,Liberty Mutual,Comprehensive,Yes,2026-03-07,Poor,60+,5
+VID00876,NC,Kia,3 Series,2003,State Farm,Full Coverage,Yes,2026-01-28,Good,26-35,1
+VID00877,GA,Volkswagen,3 Series,2023,USAA,Collision,Yes,2025-11-10,Fair,18-25,3
+VID00878,PA,Volkswagen,Camry,2001,Geico,Liability,Yes,2025-07-01,Fair,26-35,0
+VID00879,GA,BMW,Altima,2015,Geico,Comprehensive,No,2025-09-15,Fair,36-45,1
+VID00880,TX,BMW,3 Series,2014,State Farm,Liability,No,2025-06-27,Fair,18-25,5
+VID00881,GA,Volkswagen,Altima,2015,State Farm,Comprehensive,Yes,2025-06-28,Poor,18-25,2
+VID00882,PA,Toyota,C-Class,2012,Farmers,Collision,No,2025-06-24,Poor,26-35,3
+VID00883,TX,BMW,C-Class,2005,Allstate,Comprehensive,Yes,2025-05-23,Good,36-45,1
+VID00884,CA,Hyundai,Sorento,2013,Liberty Mutual,Comprehensive,No,2025-11-21,Good,46-60,1
+VID00885,FL,Nissan,Altima,2001,Geico,Comprehensive,No,2025-07-18,Poor,60+,3
+VID00886,NC,Toyota,Jetta,2014,USAA,Collision,Yes,2026-02-18,Fair,46-60,0
+VID00887,IL,Toyota,Elantra,2012,State Farm,Comprehensive,No,2026-01-27,Good,60+,0
+VID00888,NY,Chevrolet,Silverado,2021,State Farm,Collision,No,2025-06-08,Poor,46-60,2
+VID00889,NC,Chevrolet,3 Series,2017,Progressive,Full Coverage,No,2025-11-02,Good,46-60,3
+VID00890,NC,Honda,Altima,2003,Allstate,Full Coverage,Yes,2025-10-15,Fair,36-45,2
+VID00891,PA,Hyundai,Elantra,2020,Farmers,Liability,No,2025-08-21,Fair,18-25,3
+VID00892,PA,Chevrolet,Altima,2001,Geico,Liability,No,2025-05-14,Good,46-60,4
+VID00893,NC,Chevrolet,Camry,2005,Allstate,Liability,No,2025-05-10,Poor,26-35,4
+VID00894,CA,Honda,Altima,2019,Farmers,Liability,Yes,2025-12-31,Poor,60+,4
+VID00895,MI,Nissan,Sorento,2021,USAA,Comprehensive,No,2025-05-22,Fair,46-60,5
+VID00896,TX,Kia,Sorento,2019,Allstate,Liability,Yes,2026-03-12,Good,18-25,0
+VID00897,NC,Mercedes,Sorento,2005,State Farm,Full Coverage,No,2025-09-10,Good,46-60,2
+VID00898,CA,Volkswagen,Altima,2009,Farmers,Liability,Yes,2026-01-22,Poor,46-60,1
+VID00899,NY,Toyota,Sorento,2015,State Farm,Collision,No,2025-11-26,Poor,26-35,4
+VID00900,TX,Hyundai,F-150,2000,Farmers,Comprehensive,No,2026-01-09,Good,18-25,2
+VID00901,MI,Kia,Sorento,2002,USAA,Full Coverage,Yes,2026-03-09,Poor,46-60,4
+VID00902,NC,Chevrolet,F-150,2018,Geico,Liability,No,2025-06-14,Good,46-60,4
+VID00903,IL,Hyundai,Jetta,2020,Liberty Mutual,Liability,Yes,2025-10-25,Fair,18-25,5
+VID00904,MI,Toyota,Silverado,2007,USAA,Collision,No,2025-05-23,Poor,36-45,0
+VID00905,NY,Honda,Camry,2008,Geico,Liability,Yes,2025-08-05,Poor,26-35,4
+VID00906,PA,Hyundai,Camry,2008,USAA,Liability,Yes,2026-02-20,Fair,46-60,3
+VID00907,MI,Hyundai,Silverado,2021,State Farm,Collision,No,2025-07-06,Good,18-25,0
+VID00908,FL,Nissan,Camry,2021,Farmers,Full Coverage,No,2026-01-19,Good,36-45,1
+VID00909,IL,Volkswagen,Altima,2019,Allstate,Liability,No,2026-02-09,Poor,18-25,0
+VID00910,FL,Chevrolet,C-Class,2017,Geico,Collision,Yes,2025-12-31,Poor,18-25,4
+VID00911,PA,Chevrolet,3 Series,2017,Liberty Mutual,Liability,No,2025-07-29,Good,46-60,2
+VID00912,PA,BMW,F-150,2017,Farmers,Comprehensive,Yes,2026-02-22,Poor,18-25,2
+VID00913,MI,Honda,Altima,2009,Progressive,Full Coverage,Yes,2025-10-29,Good,46-60,3
+VID00914,NC,Nissan,Sorento,2022,Geico,Comprehensive,Yes,2025-10-09,Fair,26-35,2
+VID00915,FL,Chevrolet,F-150,2018,Liberty Mutual,Liability,Yes,2026-01-23,Poor,36-45,2
+VID00916,IL,Ford,Civic,2005,Allstate,Collision,Yes,2025-05-31,Fair,60+,3
+VID00917,GA,BMW,Civic,2012,Allstate,Liability,No,2025-05-27,Fair,60+,4
+VID00918,FL,Ford,3 Series,2022,Geico,Liability,No,2025-10-29,Poor,26-35,1
+VID00919,OH,Toyota,F-150,2008,Progressive,Full Coverage,Yes,2026-03-12,Poor,36-45,2
+VID00920,NC,Chevrolet,Silverado,2020,Progressive,Liability,Yes,2025-09-26,Good,46-60,3
+VID00921,IL,Mercedes,3 Series,2017,USAA,Comprehensive,No,2025-09-08,Poor,36-45,1
+VID00922,TX,Nissan,Camry,2013,State Farm,Full Coverage,Yes,2025-12-22,Fair,60+,0
+VID00923,MI,Honda,Altima,2012,Liberty Mutual,Collision,No,2025-05-08,Poor,46-60,1
+VID00924,NC,BMW,Camry,2017,Farmers,Comprehensive,Yes,2025-11-26,Poor,60+,0
+VID00925,NY,Ford,Silverado,2014,Liberty Mutual,Full Coverage,No,2025-07-08,Fair,36-45,2
+VID00926,FL,Chevrolet,Elantra,2016,USAA,Collision,No,2025-12-05,Poor,18-25,1
+VID00927,TX,Toyota,Jetta,2020,Farmers,Comprehensive,No,2025-05-19,Poor,18-25,3
+VID00928,NY,Chevrolet,C-Class,2000,Farmers,Liability,Yes,2026-03-24,Fair,46-60,5
+VID00929,GA,BMW,3 Series,2002,Allstate,Liability,Yes,2025-11-27,Poor,46-60,2
+VID00930,TX,Toyota,Jetta,2013,USAA,Collision,Yes,2025-05-26,Good,60+,2
+VID00931,TX,BMW,Elantra,2009,State Farm,Collision,Yes,2026-02-25,Fair,60+,1
+VID00932,NC,Chevrolet,Altima,2015,USAA,Liability,No,2025-08-01,Fair,36-45,1
+VID00933,PA,Toyota,Civic,2003,Progressive,Full Coverage,No,2026-01-05,Fair,18-25,2
+VID00934,OH,Hyundai,Altima,2020,Allstate,Comprehensive,Yes,2025-09-04,Fair,26-35,3
+VID00935,NC,Kia,Altima,2021,Progressive,Full Coverage,Yes,2025-07-06,Poor,46-60,0
+VID00936,OH,Honda,Camry,2000,Farmers,Comprehensive,No,2025-10-23,Fair,60+,2
+VID00937,CA,Honda,Civic,2008,Liberty Mutual,Comprehensive,Yes,2025-08-29,Good,60+,2
+VID00938,OH,Kia,Camry,2002,Geico,Liability,No,2025-10-16,Fair,60+,3
+VID00939,IL,Toyota,C-Class,2002,Progressive,Comprehensive,No,2025-09-01,Fair,26-35,2
+VID00940,CA,Volkswagen,Silverado,2016,Progressive,Liability,Yes,2025-06-28,Good,36-45,5
+VID00941,IL,Ford,Civic,2007,State Farm,Liability,Yes,2025-06-14,Fair,18-25,2
+VID00942,MI,BMW,3 Series,2002,Progressive,Liability,No,2025-11-03,Poor,60+,3
+VID00943,TX,Nissan,Altima,2019,Liberty Mutual,Liability,No,2025-10-14,Good,26-35,0
+VID00944,OH,Volkswagen,Silverado,2001,Allstate,Collision,No,2025-04-24,Good,26-35,3
+VID00945,PA,Honda,Civic,2019,Farmers,Comprehensive,Yes,2025-12-03,Fair,26-35,5
+VID00946,CA,Nissan,C-Class,2016,Farmers,Liability,Yes,2025-05-02,Good,36-45,3
+VID00947,CA,Chevrolet,Jetta,2011,Farmers,Liability,Yes,2025-09-19,Poor,60+,0
+VID00948,PA,Volkswagen,Jetta,2012,Liberty Mutual,Comprehensive,Yes,2026-01-17,Good,18-25,0
+VID00949,MI,Mercedes,C-Class,2023,State Farm,Full Coverage,No,2026-03-01,Poor,46-60,5
+VID00950,FL,Honda,C-Class,2001,Allstate,Comprehensive,Yes,2025-11-07,Good,26-35,4
+VID00951,FL,Chevrolet,Silverado,2010,Geico,Collision,Yes,2026-03-02,Fair,60+,0
+VID00952,FL,Ford,Sorento,2003,State Farm,Comprehensive,No,2025-09-01,Good,60+,5
+VID00953,OH,Ford,Civic,2012,Progressive,Comprehensive,No,2025-07-15,Fair,46-60,2
+VID00954,NY,BMW,Elantra,2012,Liberty Mutual,Full Coverage,Yes,2025-07-08,Good,26-35,0
+VID00955,TX,Volkswagen,Civic,2004,Allstate,Collision,No,2025-12-23,Poor,36-45,5
+VID00956,IL,Nissan,Camry,2009,Liberty Mutual,Comprehensive,No,2026-01-19,Good,60+,3
+VID00957,GA,Toyota,Sorento,2016,Farmers,Collision,No,2025-11-12,Fair,26-35,0
+VID00958,TX,Nissan,Silverado,2011,Farmers,Collision,No,2026-03-22,Poor,60+,4
+VID00959,IL,Toyota,3 Series,2003,State Farm,Comprehensive,No,2025-05-12,Good,46-60,2
+VID00960,IL,Ford,Altima,2000,Geico,Comprehensive,No,2025-06-08,Good,36-45,4
+VID00961,OH,Mercedes,Altima,2015,Farmers,Liability,No,2026-03-03,Poor,46-60,4
+VID00962,NY,Honda,Jetta,2010,State Farm,Collision,No,2026-03-12,Good,60+,4
+VID00963,GA,Mercedes,F-150,2015,Liberty Mutual,Liability,No,2026-01-28,Good,60+,0
+VID00964,GA,Hyundai,Jetta,2004,Geico,Comprehensive,Yes,2026-01-01,Good,60+,2
+VID00965,TX,Hyundai,F-150,2011,USAA,Comprehensive,No,2025-07-01,Fair,60+,3
+VID00966,TX,Mercedes,C-Class,2020,Progressive,Full Coverage,Yes,2025-07-26,Poor,36-45,1
+VID00967,TX,Kia,Altima,2012,Progressive,Comprehensive,Yes,2025-06-25,Fair,46-60,1
+VID00968,PA,BMW,Altima,2013,Allstate,Collision,Yes,2025-05-12,Fair,46-60,4
+VID00969,TX,Chevrolet,C-Class,2013,Liberty Mutual,Liability,Yes,2025-07-05,Good,26-35,4
+VID00970,MI,Mercedes,3 Series,2015,Allstate,Liability,Yes,2025-09-09,Poor,60+,4
+VID00971,FL,Hyundai,Camry,2005,State Farm,Liability,Yes,2026-02-01,Poor,36-45,5
+VID00972,TX,Chevrolet,Altima,2015,Liberty Mutual,Liability,No,2026-02-23,Poor,26-35,4
+VID00973,CA,Chevrolet,Silverado,2003,USAA,Collision,Yes,2025-08-12,Fair,36-45,0
+VID00974,TX,Hyundai,Silverado,2003,Progressive,Collision,Yes,2025-12-29,Fair,26-35,5
+VID00975,NY,Volkswagen,Jetta,2008,USAA,Full Coverage,No,2025-06-08,Good,36-45,0
+VID00976,IL,Nissan,Altima,2016,Geico,Liability,Yes,2026-01-16,Good,60+,1
+VID00977,TX,Chevrolet,Civic,2006,USAA,Liability,Yes,2026-01-14,Fair,18-25,0
+VID00978,IL,Mercedes,Jetta,2015,Progressive,Liability,Yes,2025-07-17,Fair,36-45,3
+VID00979,GA,Nissan,3 Series,2004,USAA,Liability,Yes,2025-08-18,Fair,26-35,0
+VID00980,NC,Kia,C-Class,2012,USAA,Collision,Yes,2025-06-07,Good,18-25,1
+VID00981,FL,Volkswagen,Camry,2005,Farmers,Collision,No,2025-07-04,Good,60+,5
+VID00982,NY,Mercedes,Civic,2004,Allstate,Collision,No,2025-11-28,Good,60+,3
+VID00983,GA,Toyota,Altima,2022,Farmers,Comprehensive,No,2025-07-02,Poor,26-35,2
+VID00984,TX,Ford,Silverado,2012,Liberty Mutual,Full Coverage,Yes,2026-01-07,Poor,60+,4
+VID00985,FL,Mercedes,C-Class,2013,Progressive,Collision,Yes,2026-01-13,Poor,46-60,5
+VID00986,MI,Volkswagen,F-150,2023,State Farm,Collision,No,2026-01-25,Poor,46-60,4
+VID00987,GA,Honda,Camry,2010,Liberty Mutual,Full Coverage,No,2026-03-14,Poor,46-60,0
+VID00988,IL,Ford,F-150,2005,Geico,Full Coverage,Yes,2025-06-06,Fair,36-45,2
+VID00989,CA,Volkswagen,3 Series,2021,Liberty Mutual,Full Coverage,No,2026-02-24,Poor,60+,2
+VID00990,GA,Hyundai,C-Class,2008,Geico,Full Coverage,Yes,2026-02-28,Poor,18-25,4
+VID00991,CA,Kia,Elantra,2021,State Farm,Collision,Yes,2026-01-12,Poor,26-35,2
+VID00992,PA,Nissan,C-Class,2015,Liberty Mutual,Comprehensive,Yes,2025-12-18,Good,26-35,0
+VID00993,NY,Volkswagen,F-150,2020,Allstate,Collision,Yes,2025-11-13,Good,36-45,2
+VID00994,CA,Volkswagen,Jetta,2010,Progressive,Collision,No,2025-11-02,Good,26-35,3
+VID00995,MI,BMW,Civic,2008,USAA,Full Coverage,Yes,2025-05-27,Poor,26-35,5
+VID00996,IL,Chevrolet,Sorento,2018,State Farm,Comprehensive,No,2025-11-14,Fair,26-35,5
+VID00997,IL,Toyota,Jetta,2008,Geico,Comprehensive,No,2026-01-18,Fair,36-45,1
+VID00998,OH,Kia,Jetta,2010,Farmers,Collision,Yes,2026-01-08,Poor,46-60,4
+VID00999,IL,Mercedes,Civic,2002,Allstate,Comprehensive,No,2025-11-28,Good,36-45,4
+VID01000,FL,Kia,F-150,2014,Geico,Full Coverage,Yes,2025-07-12,Good,36-45,3
+VID01001,NY,Ford,Jetta,2022,Liberty Mutual,Full Coverage,No,2026-02-17,Poor,46-60,3
+VID01002,NY,Chevrolet,Sorento,2021,Allstate,Liability,No,2025-12-26,Fair,26-35,0
+VID01003,NC,BMW,Jetta,2001,USAA,Liability,Yes,2025-12-23,Good,18-25,3
+VID01004,TX,Honda,Altima,2001,Allstate,Full Coverage,Yes,2025-04-29,Poor,26-35,0
+VID01005,NY,Ford,Altima,2007,Farmers,Full Coverage,No,2025-12-06,Good,46-60,4
+VID01006,GA,Kia,Jetta,2001,USAA,Collision,No,2025-07-20,Fair,18-25,1
+VID01007,MI,Honda,F-150,2021,Liberty Mutual,Full Coverage,No,2025-12-21,Good,26-35,0
+VID01008,NY,Volkswagen,Jetta,2000,Liberty Mutual,Liability,No,2025-10-30,Poor,26-35,3
+VID01009,FL,Kia,Silverado,2012,Progressive,Collision,Yes,2025-08-17,Good,18-25,5
+VID01010,NY,Hyundai,Jetta,2013,State Farm,Collision,Yes,2025-12-11,Fair,60+,2
+VID01011,OH,Volkswagen,Jetta,2007,State Farm,Full Coverage,Yes,2025-08-31,Poor,18-25,0
+VID01012,PA,Kia,3 Series,2009,Progressive,Comprehensive,No,2025-11-23,Good,26-35,4
+VID01013,GA,Kia,Civic,2016,Geico,Liability,Yes,2025-07-29,Fair,60+,1
+VID01014,FL,Nissan,Altima,2001,Geico,Comprehensive,No,2025-11-19,Poor,18-25,0
+VID01015,NY,Volkswagen,Elantra,2021,Progressive,Full Coverage,No,2025-09-17,Poor,36-45,1
+VID01016,NC,Hyundai,Altima,2001,Geico,Collision,Yes,2025-10-24,Poor,18-25,3
+VID01017,NY,Volkswagen,Altima,2007,Progressive,Collision,Yes,2025-12-21,Fair,18-25,3
+VID01018,NC,Honda,Elantra,2003,Farmers,Liability,Yes,2025-11-06,Fair,36-45,4
+VID01019,NC,BMW,Elantra,2006,State Farm,Collision,Yes,2025-11-02,Fair,36-45,0
+VID01020,OH,Kia,Sorento,2001,State Farm,Comprehensive,No,2025-05-14,Poor,46-60,0
+VID01021,CA,Hyundai,Jetta,2004,Farmers,Collision,No,2025-12-05,Fair,36-45,5
+VID01022,FL,Kia,Silverado,2009,Progressive,Collision,Yes,2026-03-13,Poor,60+,0
+VID01023,CA,Kia,F-150,2005,USAA,Collision,No,2025-11-05,Poor,26-35,3
+VID01024,CA,Mercedes,3 Series,2000,Allstate,Comprehensive,Yes,2025-05-24,Fair,18-25,1
+VID01025,NC,Chevrolet,Silverado,2007,Liberty Mutual,Full Coverage,Yes,2025-07-17,Poor,18-25,1
+VID01026,NY,Ford,C-Class,2001,USAA,Collision,Yes,2025-06-27,Good,46-60,0
+VID01027,NC,Volkswagen,Sorento,2017,Liberty Mutual,Collision,No,2025-09-11,Poor,18-25,2
+VID01028,PA,Chevrolet,C-Class,2013,Allstate,Liability,No,2025-10-06,Fair,26-35,3
+VID01029,OH,BMW,Silverado,2016,Farmers,Full Coverage,Yes,2025-12-05,Good,36-45,4
+VID01030,FL,Hyundai,Civic,2015,Liberty Mutual,Comprehensive,No,2025-06-07,Good,46-60,4
+VID01031,CA,Volkswagen,Sorento,2001,Allstate,Liability,No,2025-08-28,Good,18-25,5
+VID01032,CA,Honda,Camry,2018,USAA,Full Coverage,Yes,2025-05-01,Fair,46-60,2
+VID01033,OH,Chevrolet,Silverado,2002,Liberty Mutual,Full Coverage,No,2026-02-21,Poor,46-60,5
+VID01034,IL,Honda,Camry,2009,USAA,Liability,No,2025-11-11,Fair,60+,4
+VID01035,GA,Volkswagen,3 Series,2011,USAA,Comprehensive,Yes,2026-01-19,Poor,18-25,5
+VID01036,NC,Hyundai,Camry,2009,USAA,Liability,No,2025-05-23,Fair,18-25,1
+VID01037,OH,Ford,Civic,2000,Geico,Full Coverage,Yes,2025-09-19,Fair,36-45,1
+VID01038,CA,Kia,Jetta,2003,Liberty Mutual,Full Coverage,Yes,2026-01-24,Good,18-25,2
+VID01039,OH,Volkswagen,Civic,2010,State Farm,Full Coverage,No,2025-05-10,Good,18-25,1
+VID01040,OH,BMW,3 Series,2006,Allstate,Comprehensive,No,2025-05-30,Good,46-60,1
+VID01041,NC,Nissan,Sorento,2022,Progressive,Comprehensive,Yes,2026-02-09,Poor,18-25,1
+VID01042,PA,Honda,C-Class,2016,State Farm,Full Coverage,No,2025-07-23,Good,36-45,3
+VID01043,NC,BMW,Elantra,2011,Progressive,Full Coverage,Yes,2025-06-09,Good,46-60,0
+VID01044,CA,Hyundai,Elantra,2006,Geico,Comprehensive,No,2026-03-25,Good,26-35,0
+VID01045,CA,Ford,3 Series,2000,Progressive,Comprehensive,Yes,2025-05-03,Fair,26-35,5
+VID01046,OH,Honda,3 Series,2013,Liberty Mutual,Liability,Yes,2025-08-20,Fair,60+,4
+VID01047,MI,Toyota,Silverado,2005,USAA,Full Coverage,No,2025-05-04,Poor,46-60,2
+VID01048,IL,Mercedes,3 Series,2014,USAA,Comprehensive,No,2025-12-02,Fair,60+,5
+VID01049,PA,BMW,F-150,2007,State Farm,Full Coverage,No,2025-11-29,Good,46-60,1
+VID01050,FL,Kia,C-Class,2010,State Farm,Full Coverage,No,2025-05-09,Good,60+,3
+VID01051,IL,BMW,Jetta,2003,Geico,Collision,Yes,2026-02-28,Good,46-60,4
+VID01052,GA,BMW,Jetta,2020,Allstate,Full Coverage,No,2026-03-13,Good,26-35,5
+VID01053,PA,Nissan,Sorento,2007,State Farm,Collision,Yes,2025-09-08,Poor,18-25,4
+VID01054,GA,Nissan,Civic,2001,Liberty Mutual,Liability,Yes,2025-06-04,Poor,18-25,2
+VID01055,CA,BMW,3 Series,2023,Allstate,Liability,No,2025-05-22,Good,36-45,5
+VID01056,OH,Chevrolet,Jetta,2014,Liberty Mutual,Comprehensive,No,2026-01-09,Good,36-45,0
+VID01057,GA,Kia,3 Series,2016,USAA,Collision,Yes,2025-09-07,Poor,18-25,5
+VID01058,NC,BMW,3 Series,2000,Progressive,Full Coverage,Yes,2026-02-10,Poor,36-45,2
+VID01059,GA,BMW,Elantra,2003,USAA,Full Coverage,No,2025-05-01,Poor,36-45,2
+VID01060,CA,BMW,3 Series,2006,USAA,Collision,No,2026-02-06,Fair,60+,1
+VID01061,FL,Chevrolet,Camry,2022,Liberty Mutual,Liability,No,2025-09-17,Fair,26-35,1
+VID01062,FL,BMW,Sorento,2007,State Farm,Comprehensive,Yes,2025-11-14,Good,26-35,3
+VID01063,OH,Mercedes,F-150,2012,USAA,Comprehensive,Yes,2026-02-04,Fair,26-35,0
+VID01064,IL,Honda,C-Class,2021,USAA,Liability,Yes,2025-08-10,Fair,60+,1
+VID01065,CA,Kia,Sorento,2016,USAA,Comprehensive,Yes,2025-09-01,Fair,36-45,2
+VID01066,TX,BMW,Altima,2006,Liberty Mutual,Comprehensive,No,2025-07-28,Good,60+,1
+VID01067,OH,Hyundai,Camry,2008,Allstate,Comprehensive,Yes,2026-03-03,Good,60+,5
+VID01068,TX,Chevrolet,Jetta,2012,Farmers,Collision,Yes,2025-08-06,Good,46-60,1
+VID01069,MI,Toyota,Civic,2015,Geico,Collision,Yes,2025-04-26,Good,36-45,3
+VID01070,NC,Volkswagen,3 Series,2012,State Farm,Comprehensive,No,2025-07-02,Good,18-25,3
+VID01071,CA,Ford,Camry,2007,Liberty Mutual,Full Coverage,Yes,2025-08-03,Poor,60+,2
+VID01072,NY,Chevrolet,Sorento,2018,Geico,Collision,Yes,2026-02-14,Poor,46-60,0
+VID01073,OH,Nissan,Altima,2000,USAA,Comprehensive,Yes,2026-02-16,Good,36-45,0
+VID01074,PA,Honda,C-Class,2012,State Farm,Comprehensive,No,2026-01-10,Poor,46-60,3
+VID01075,IL,Chevrolet,Elantra,2002,Farmers,Liability,Yes,2025-10-07,Good,46-60,0
+VID01076,IL,Toyota,Jetta,2011,Liberty Mutual,Full Coverage,No,2026-03-15,Poor,18-25,3
+VID01077,TX,Kia,Sorento,2005,Progressive,Liability,No,2025-11-07,Good,46-60,0
+VID01078,NY,Nissan,3 Series,2011,USAA,Liability,Yes,2026-03-20,Good,26-35,5
+VID01079,GA,Honda,Sorento,2002,State Farm,Collision,Yes,2025-07-08,Poor,26-35,1
+VID01080,PA,Hyundai,Jetta,2002,Farmers,Full Coverage,No,2025-06-02,Good,36-45,3
+VID01081,GA,Hyundai,F-150,2020,Farmers,Liability,No,2025-11-03,Poor,60+,5
+VID01082,IL,Mercedes,Silverado,2023,USAA,Collision,Yes,2025-06-14,Poor,18-25,5
+VID01083,NC,Toyota,F-150,2003,USAA,Collision,Yes,2025-07-14,Good,46-60,5
+VID01084,MI,Mercedes,Jetta,2010,State Farm,Collision,No,2026-01-22,Poor,46-60,0
+VID01085,GA,Ford,Silverado,2007,Liberty Mutual,Comprehensive,Yes,2026-01-28,Poor,36-45,5
+VID01086,GA,BMW,Silverado,2021,USAA,Liability,No,2025-12-18,Good,46-60,4
+VID01087,CA,Kia,C-Class,2020,USAA,Full Coverage,Yes,2025-06-18,Good,26-35,0
+VID01088,NY,Kia,Altima,2014,State Farm,Liability,No,2025-05-22,Good,26-35,1
+VID01089,NY,Toyota,Civic,2018,State Farm,Collision,No,2025-10-24,Fair,36-45,5
+VID01090,GA,Toyota,C-Class,2003,USAA,Full Coverage,No,2025-11-10,Fair,60+,3
+VID01091,PA,Ford,Elantra,2000,Geico,Comprehensive,Yes,2025-05-15,Fair,36-45,3
+VID01092,TX,Chevrolet,Elantra,2013,Geico,Liability,Yes,2026-02-02,Fair,60+,2
+VID01093,IL,Chevrolet,C-Class,2019,Progressive,Liability,No,2026-01-11,Poor,26-35,5
+VID01094,NY,BMW,Silverado,2008,Progressive,Comprehensive,Yes,2026-01-17,Poor,26-35,0
+VID01095,FL,Mercedes,Elantra,2002,Allstate,Liability,No,2025-08-14,Poor,60+,4
+VID01096,FL,Honda,3 Series,2023,Farmers,Comprehensive,Yes,2025-07-28,Poor,36-45,0
+VID01097,CA,Kia,C-Class,2015,Progressive,Liability,Yes,2025-09-14,Good,18-25,3
+VID01098,TX,Honda,F-150,2014,Geico,Collision,Yes,2025-05-20,Fair,26-35,1
+VID01099,NY,Honda,3 Series,2017,Progressive,Full Coverage,Yes,2025-10-12,Poor,18-25,3
+VID01100,OH,Chevrolet,Civic,2013,Progressive,Full Coverage,No,2025-04-30,Poor,18-25,4
+VID01101,FL,Toyota,Elantra,2015,Allstate,Comprehensive,Yes,2026-02-18,Fair,60+,2
+VID01102,NC,Hyundai,F-150,2004,State Farm,Liability,Yes,2025-11-03,Fair,26-35,1
+VID01103,PA,Ford,Civic,2005,USAA,Full Coverage,No,2026-02-07,Poor,60+,5
+VID01104,NC,Hyundai,Elantra,2013,Liberty Mutual,Collision,Yes,2025-10-17,Poor,60+,2
+VID01105,PA,Nissan,Jetta,2017,Farmers,Collision,Yes,2025-10-07,Poor,36-45,3
+VID01106,GA,Chevrolet,C-Class,2003,Farmers,Full Coverage,Yes,2025-09-02,Good,36-45,4
+VID01107,FL,Ford,F-150,2006,Liberty Mutual,Liability,Yes,2026-03-23,Good,46-60,2
+VID01108,TX,Nissan,Camry,2009,Allstate,Comprehensive,No,2025-10-02,Poor,36-45,3
+VID01109,PA,Volkswagen,Sorento,2011,State Farm,Full Coverage,No,2026-03-21,Good,36-45,3
+VID01110,NC,Hyundai,Camry,2019,State Farm,Collision,Yes,2026-03-17,Fair,46-60,1
+VID01111,IL,Volkswagen,Jetta,2006,State Farm,Full Coverage,Yes,2025-09-01,Fair,18-25,3
+VID01112,FL,Nissan,C-Class,2020,State Farm,Collision,No,2026-03-22,Fair,26-35,4
+VID01113,NY,Toyota,Jetta,2013,State Farm,Full Coverage,Yes,2025-05-15,Fair,36-45,1
+VID01114,OH,Chevrolet,Silverado,2007,Geico,Liability,No,2025-05-24,Good,60+,1
+VID01115,IL,Toyota,3 Series,2006,Progressive,Liability,No,2025-11-04,Fair,60+,3
+VID01116,FL,Chevrolet,F-150,2022,Liberty Mutual,Collision,Yes,2025-05-16,Fair,46-60,4
+VID01117,NY,Chevrolet,Camry,2009,State Farm,Comprehensive,No,2025-08-07,Fair,18-25,2
+VID01118,MI,Chevrolet,Silverado,2007,Geico,Collision,Yes,2025-10-16,Poor,18-25,5
+VID01119,MI,Nissan,Sorento,2007,Farmers,Collision,No,2025-07-20,Poor,26-35,4
+VID01120,TX,Honda,Camry,2004,USAA,Comprehensive,Yes,2026-02-04,Fair,60+,5
+VID01121,NY,Chevrolet,Altima,2011,USAA,Full Coverage,No,2025-12-28,Good,46-60,3
+VID01122,FL,Volkswagen,Jetta,2006,Liberty Mutual,Liability,Yes,2025-12-18,Fair,60+,1
+VID01123,FL,Hyundai,Elantra,2018,Progressive,Collision,Yes,2025-08-02,Good,26-35,5
+VID01124,GA,Nissan,3 Series,2013,Allstate,Collision,Yes,2025-12-27,Fair,60+,4
+VID01125,CA,Nissan,Altima,2018,Farmers,Collision,Yes,2025-10-13,Fair,60+,1
+VID01126,OH,Mercedes,Jetta,2002,Allstate,Liability,No,2026-03-04,Fair,60+,4
+VID01127,FL,Kia,F-150,2006,Allstate,Collision,Yes,2025-12-29,Poor,18-25,4
+VID01128,MI,Hyundai,3 Series,2009,Geico,Comprehensive,Yes,2025-11-21,Poor,18-25,5
+VID01129,OH,Chevrolet,C-Class,2000,Allstate,Full Coverage,No,2025-09-25,Poor,46-60,5
+VID01130,GA,Mercedes,Silverado,2005,State Farm,Comprehensive,Yes,2026-01-14,Good,60+,3
+VID01131,NY,Mercedes,3 Series,2011,Geico,Full Coverage,No,2025-08-20,Good,26-35,2
+VID01132,TX,Chevrolet,Silverado,2017,State Farm,Full Coverage,Yes,2026-02-28,Fair,26-35,1
+VID01133,PA,Toyota,C-Class,2005,Liberty Mutual,Comprehensive,Yes,2025-05-15,Good,46-60,5
+VID01134,IL,Kia,Altima,2005,Allstate,Comprehensive,No,2025-11-20,Poor,26-35,4
+VID01135,PA,Mercedes,Altima,2012,Farmers,Liability,Yes,2025-05-29,Fair,46-60,2
+VID01136,NY,Honda,3 Series,2009,State Farm,Full Coverage,Yes,2025-07-17,Fair,60+,2
+VID01137,MI,BMW,Elantra,2000,USAA,Collision,No,2025-06-25,Fair,46-60,5
+VID01138,FL,BMW,Altima,2017,Allstate,Liability,No,2025-09-29,Fair,18-25,5
+VID01139,PA,Ford,3 Series,2012,State Farm,Comprehensive,No,2025-06-17,Poor,60+,2
+VID01140,NY,Toyota,Silverado,2022,Progressive,Collision,Yes,2025-07-06,Poor,26-35,5
+VID01141,OH,Chevrolet,Silverado,2003,State Farm,Liability,Yes,2025-11-25,Good,36-45,0
+VID01142,PA,Chevrolet,Camry,2001,Allstate,Liability,Yes,2025-08-21,Good,60+,0
+VID01143,PA,Nissan,Elantra,2006,Liberty Mutual,Liability,No,2025-10-08,Fair,36-45,5
+VID01144,PA,Hyundai,Civic,2023,State Farm,Full Coverage,Yes,2025-12-28,Fair,60+,0
+VID01145,GA,Honda,3 Series,2014,Allstate,Comprehensive,Yes,2025-10-30,Poor,18-25,1
+VID01146,OH,BMW,Camry,2013,Geico,Collision,No,2025-06-14,Poor,36-45,5
+VID01147,GA,Ford,Altima,2022,USAA,Comprehensive,Yes,2025-10-22,Poor,26-35,3
+VID01148,CA,Chevrolet,Jetta,2007,Liberty Mutual,Full Coverage,No,2026-01-04,Poor,36-45,5
+VID01149,NC,Toyota,Civic,2017,USAA,Full Coverage,No,2025-11-29,Fair,26-35,3
+VID01150,NY,Volkswagen,Silverado,2022,USAA,Collision,Yes,2025-10-07,Poor,46-60,2
+VID01151,PA,Hyundai,Camry,2021,State Farm,Collision,Yes,2025-08-13,Good,18-25,4
+VID01152,GA,Nissan,Silverado,2004,USAA,Comprehensive,Yes,2026-02-17,Good,36-45,1
+VID01153,NY,Toyota,Camry,2011,Farmers,Liability,No,2026-01-20,Good,18-25,1
+VID01154,MI,Ford,Silverado,2002,Progressive,Liability,No,2025-09-01,Good,60+,3
+VID01155,IL,Hyundai,Sorento,2008,Geico,Full Coverage,No,2025-09-15,Fair,26-35,1
+VID01156,TX,Chevrolet,Camry,2013,Farmers,Collision,No,2025-05-10,Fair,18-25,2
+VID01157,OH,Honda,Camry,2011,Liberty Mutual,Full Coverage,Yes,2025-11-26,Good,36-45,1
+VID01158,CA,Toyota,Camry,2001,USAA,Full Coverage,No,2025-09-13,Good,26-35,3
+VID01159,FL,Volkswagen,Elantra,2011,USAA,Comprehensive,Yes,2025-09-21,Poor,46-60,3
+VID01160,NC,BMW,Civic,2005,Farmers,Comprehensive,No,2025-06-11,Poor,46-60,1
+VID01161,IL,Nissan,3 Series,2007,Allstate,Full Coverage,Yes,2026-02-28,Good,26-35,4
+VID01162,OH,Chevrolet,Silverado,2000,Liberty Mutual,Collision,No,2025-10-14,Good,18-25,0
+VID01163,MI,Ford,F-150,2005,Farmers,Full Coverage,No,2025-11-11,Good,26-35,2
+VID01164,PA,Chevrolet,Civic,2017,Geico,Comprehensive,Yes,2026-02-19,Poor,36-45,1
+VID01165,TX,Volkswagen,Silverado,2016,Allstate,Comprehensive,No,2025-11-20,Fair,60+,2
+VID01166,IL,Hyundai,Altima,2020,Geico,Comprehensive,No,2025-09-01,Fair,18-25,0
+VID01167,MI,Ford,F-150,2008,Liberty Mutual,Liability,No,2025-05-12,Poor,60+,2
+VID01168,MI,BMW,3 Series,2018,Allstate,Full Coverage,Yes,2025-09-25,Good,60+,4
+VID01169,TX,BMW,Elantra,2023,Progressive,Full Coverage,Yes,2025-11-12,Fair,18-25,3
+VID01170,MI,Volkswagen,Camry,2002,Progressive,Comprehensive,No,2025-07-18,Good,46-60,0
+VID01171,PA,Honda,Camry,2010,USAA,Collision,No,2025-11-14,Fair,60+,4
+VID01172,NC,Hyundai,C-Class,2017,Allstate,Liability,No,2025-11-25,Poor,60+,0
+VID01173,NC,Toyota,Civic,2016,Liberty Mutual,Full Coverage,No,2025-07-07,Fair,26-35,0
+VID01174,GA,Mercedes,Elantra,2014,Progressive,Collision,No,2025-07-23,Poor,60+,1
+VID01175,CA,Kia,Jetta,2017,Liberty Mutual,Comprehensive,Yes,2026-01-03,Poor,18-25,0
+VID01176,NC,Mercedes,Camry,2013,Geico,Comprehensive,Yes,2025-06-25,Good,26-35,2
+VID01177,CA,Volkswagen,Silverado,2018,Progressive,Full Coverage,No,2025-12-15,Fair,60+,5
+VID01178,GA,Hyundai,Elantra,2011,State Farm,Full Coverage,Yes,2025-11-23,Poor,36-45,3
+VID01179,MI,Ford,F-150,2007,Farmers,Comprehensive,No,2025-12-15,Poor,36-45,3
+VID01180,FL,Ford,C-Class,2008,Geico,Collision,No,2025-09-22,Poor,36-45,1
+VID01181,GA,Kia,C-Class,2001,Farmers,Collision,Yes,2025-11-25,Fair,26-35,1
+VID01182,IL,Nissan,C-Class,2011,Farmers,Collision,No,2025-07-03,Good,26-35,1
+VID01183,GA,Honda,C-Class,2023,USAA,Comprehensive,Yes,2025-11-16,Poor,46-60,1
+VID01184,NC,Hyundai,3 Series,2019,Geico,Liability,No,2025-11-03,Fair,36-45,2
+VID01185,NC,Chevrolet,3 Series,2022,USAA,Liability,No,2025-04-29,Poor,46-60,0
+VID01186,NY,Mercedes,C-Class,2002,Allstate,Full Coverage,Yes,2025-11-07,Poor,18-25,5
+VID01187,GA,Hyundai,Jetta,2004,Geico,Comprehensive,Yes,2025-06-05,Fair,46-60,3
+VID01188,NY,Chevrolet,Elantra,2020,State Farm,Liability,No,2025-05-20,Good,36-45,3
+VID01189,NC,Volkswagen,Silverado,2008,State Farm,Liability,No,2025-08-03,Poor,26-35,0
+VID01190,NC,Volkswagen,Silverado,2011,USAA,Liability,No,2026-01-19,Good,26-35,4
+VID01191,PA,Nissan,Elantra,2008,Liberty Mutual,Liability,Yes,2025-07-01,Good,36-45,2
+VID01192,MI,Ford,Elantra,2015,Progressive,Comprehensive,Yes,2025-12-06,Fair,18-25,2
+VID01193,PA,Nissan,Camry,2007,Progressive,Liability,No,2025-11-19,Poor,18-25,0
+VID01194,FL,Nissan,Altima,2005,Farmers,Full Coverage,No,2025-07-12,Good,60+,4
+VID01195,GA,Kia,C-Class,2000,Geico,Full Coverage,Yes,2025-10-08,Poor,18-25,2
+VID01196,NC,Toyota,Civic,2001,State Farm,Full Coverage,No,2025-09-27,Poor,60+,4
+VID01197,PA,Nissan,Silverado,2000,State Farm,Full Coverage,Yes,2025-11-28,Poor,46-60,2
+VID01198,NC,Volkswagen,F-150,2021,Liberty Mutual,Collision,No,2025-07-13,Fair,60+,3
+VID01199,MI,Hyundai,Sorento,2010,Geico,Full Coverage,Yes,2025-11-24,Fair,60+,2
+VID01200,MI,Nissan,Jetta,2022,Liberty Mutual,Full Coverage,Yes,2025-11-09,Fair,18-25,0
+VID01201,GA,Toyota,Silverado,2021,State Farm,Collision,Yes,2026-01-17,Good,60+,0
+VID01202,NY,Hyundai,Civic,2006,Farmers,Full Coverage,No,2025-09-03,Poor,18-25,0
+VID01203,GA,Chevrolet,3 Series,2001,USAA,Liability,No,2025-05-10,Poor,36-45,5
+VID01204,TX,BMW,Civic,2017,Liberty Mutual,Comprehensive,Yes,2025-06-13,Poor,60+,5
+VID01205,OH,Nissan,3 Series,2016,State Farm,Collision,No,2025-12-08,Poor,18-25,1
+VID01206,IL,BMW,3 Series,2017,USAA,Collision,No,2025-05-20,Good,36-45,2
+VID01207,CA,Ford,Camry,2008,USAA,Full Coverage,Yes,2026-02-11,Fair,18-25,5
+VID01208,IL,BMW,Silverado,2017,USAA,Comprehensive,No,2025-05-29,Fair,36-45,0
+VID01209,CA,Chevrolet,Altima,2017,Geico,Collision,No,2026-02-24,Fair,26-35,0
+VID01210,GA,Hyundai,Sorento,2003,Liberty Mutual,Collision,No,2025-06-01,Fair,26-35,1
+VID01211,NY,Nissan,F-150,2013,Farmers,Full Coverage,Yes,2026-03-09,Fair,26-35,4
+VID01212,MI,Volkswagen,Sorento,2012,Geico,Collision,Yes,2025-07-17,Fair,36-45,4
+VID01213,FL,Honda,Sorento,2004,USAA,Comprehensive,No,2025-08-15,Fair,26-35,2
+VID01214,TX,Chevrolet,3 Series,2004,Geico,Liability,No,2026-01-11,Good,46-60,5
+VID01215,OH,Toyota,Altima,2003,State Farm,Collision,No,2025-08-21,Poor,46-60,5
+VID01216,CA,Chevrolet,Jetta,2016,Allstate,Liability,No,2026-01-26,Fair,36-45,3
+VID01217,NC,Volkswagen,Elantra,2014,Geico,Full Coverage,Yes,2025-07-28,Fair,46-60,1
+VID01218,MI,Toyota,Altima,2017,Liberty Mutual,Collision,No,2026-01-24,Fair,18-25,2
+VID01219,TX,Nissan,Silverado,2021,Geico,Full Coverage,No,2026-03-23,Good,60+,2
+VID01220,CA,Honda,Camry,2015,USAA,Comprehensive,No,2025-06-16,Fair,26-35,2
+VID01221,FL,Nissan,Silverado,2016,Progressive,Liability,No,2026-02-25,Good,60+,1
+VID01222,GA,Ford,Jetta,2007,Progressive,Full Coverage,Yes,2025-10-23,Good,26-35,4
+VID01223,TX,Toyota,C-Class,2003,Geico,Collision,Yes,2025-06-15,Fair,26-35,0
+VID01224,GA,Ford,3 Series,2005,Geico,Collision,Yes,2025-07-09,Poor,46-60,5
+VID01225,TX,Toyota,3 Series,2008,State Farm,Collision,No,2026-03-01,Poor,46-60,3
+VID01226,FL,Toyota,3 Series,2019,Liberty Mutual,Collision,No,2025-09-15,Poor,18-25,4
+VID01227,NC,Toyota,Jetta,2004,State Farm,Liability,No,2026-02-12,Fair,18-25,3
+VID01228,MI,Chevrolet,Silverado,2015,Farmers,Collision,Yes,2025-06-12,Good,46-60,5
+VID01229,GA,Kia,Camry,2000,Liberty Mutual,Liability,Yes,2025-07-20,Good,26-35,4
+VID01230,NC,Kia,Camry,2017,USAA,Collision,No,2025-11-07,Fair,18-25,5
+VID01231,OH,Toyota,Jetta,2012,USAA,Collision,No,2025-11-03,Good,18-25,0
+VID01232,IL,Volkswagen,Jetta,2001,Progressive,Comprehensive,Yes,2025-10-18,Poor,26-35,0
+VID01233,FL,Honda,Altima,2019,State Farm,Liability,No,2025-12-06,Good,26-35,3
+VID01234,FL,Mercedes,Elantra,2004,Geico,Comprehensive,Yes,2025-10-29,Good,46-60,0
+VID01235,CA,Volkswagen,Elantra,2021,Allstate,Collision,No,2025-11-01,Poor,18-25,5
+VID01236,OH,BMW,Altima,2006,State Farm,Full Coverage,Yes,2025-12-14,Good,60+,1
+VID01237,OH,Honda,Jetta,2005,Liberty Mutual,Comprehensive,No,2026-03-22,Poor,60+,3
+VID01238,NY,Ford,F-150,2020,Allstate,Collision,No,2025-09-04,Poor,18-25,3
+VID01239,TX,Nissan,F-150,2021,Farmers,Collision,No,2026-01-16,Good,36-45,3
+VID01240,NY,Honda,Sorento,2010,Geico,Liability,No,2026-02-23,Poor,46-60,4
+VID01241,IL,Volkswagen,Silverado,2007,State Farm,Liability,No,2025-05-09,Good,46-60,0
+VID01242,TX,Toyota,Jetta,2002,USAA,Full Coverage,No,2026-03-18,Good,26-35,0
+VID01243,OH,Chevrolet,Altima,2023,State Farm,Comprehensive,Yes,2025-09-22,Fair,46-60,2
+VID01244,IL,Ford,Jetta,2015,State Farm,Comprehensive,No,2026-01-11,Fair,46-60,0
+VID01245,FL,Honda,Camry,2018,Geico,Collision,Yes,2026-01-12,Fair,46-60,2
+VID01246,GA,Toyota,Jetta,2009,Progressive,Collision,No,2025-12-13,Good,36-45,0
+VID01247,PA,Volkswagen,Sorento,2010,Farmers,Comprehensive,Yes,2026-02-22,Good,60+,2
+VID01248,GA,Hyundai,Camry,2010,USAA,Full Coverage,Yes,2025-05-02,Poor,18-25,2
+VID01249,NY,Ford,Jetta,2000,Farmers,Collision,Yes,2025-12-16,Poor,60+,4
+VID01250,TX,Ford,Civic,2001,Allstate,Full Coverage,No,2026-02-19,Fair,26-35,3
+VID01251,IL,Honda,Jetta,2009,USAA,Comprehensive,No,2026-01-30,Poor,18-25,0
+VID01252,OH,BMW,Civic,2009,USAA,Liability,No,2025-07-09,Good,26-35,4
+VID01253,CA,Honda,Camry,2003,Farmers,Full Coverage,Yes,2025-11-28,Poor,36-45,0
+VID01254,NY,Hyundai,F-150,2004,Progressive,Comprehensive,No,2025-05-02,Good,36-45,3
+VID01255,IL,Chevrolet,Altima,2016,Geico,Full Coverage,No,2026-02-19,Poor,36-45,3
+VID01256,FL,Ford,Camry,2018,USAA,Comprehensive,Yes,2025-06-10,Good,36-45,4
+VID01257,OH,BMW,C-Class,2005,Allstate,Comprehensive,No,2025-06-13,Good,18-25,3
+VID01258,IL,Mercedes,F-150,2016,Liberty Mutual,Comprehensive,No,2025-09-03,Good,46-60,0
+VID01259,PA,Chevrolet,F-150,2013,State Farm,Comprehensive,Yes,2025-06-30,Poor,60+,0
+VID01260,IL,BMW,Camry,2015,USAA,Collision,No,2025-10-21,Fair,60+,5
+VID01261,PA,Volkswagen,Jetta,2004,Allstate,Full Coverage,No,2025-07-01,Fair,18-25,2
+VID01262,NY,Ford,3 Series,2008,State Farm,Comprehensive,Yes,2025-06-03,Poor,26-35,2
+VID01263,CA,Kia,Altima,2012,Farmers,Comprehensive,Yes,2025-08-23,Poor,60+,4
+VID01264,GA,Chevrolet,Silverado,2012,Progressive,Comprehensive,Yes,2026-01-08,Fair,36-45,3
+VID01265,MI,Volkswagen,Silverado,2002,State Farm,Liability,Yes,2025-11-25,Good,36-45,1
+VID01266,TX,Nissan,3 Series,2018,Farmers,Collision,Yes,2025-10-07,Good,60+,2
+VID01267,CA,Volkswagen,Civic,2012,Allstate,Full Coverage,No,2025-11-23,Fair,36-45,3
+VID01268,GA,Ford,Elantra,2012,Farmers,Full Coverage,Yes,2025-09-11,Fair,60+,5
+VID01269,OH,Mercedes,F-150,2013,Liberty Mutual,Comprehensive,No,2025-08-05,Poor,46-60,4
+VID01270,FL,Volkswagen,F-150,2001,Allstate,Full Coverage,No,2025-08-19,Good,46-60,5
+VID01271,CA,Kia,Altima,2010,Allstate,Collision,Yes,2026-03-14,Fair,46-60,3
+VID01272,OH,Nissan,Camry,2021,USAA,Liability,No,2025-10-05,Good,60+,1
+VID01273,OH,Honda,C-Class,2000,Progressive,Liability,Yes,2025-08-29,Fair,36-45,4
+VID01274,MI,Mercedes,C-Class,2003,Progressive,Comprehensive,No,2025-12-30,Good,18-25,0
+VID01275,CA,Hyundai,Elantra,2006,USAA,Comprehensive,Yes,2025-11-30,Fair,36-45,1
+VID01276,IL,Chevrolet,3 Series,2008,Allstate,Collision,Yes,2025-08-13,Good,36-45,2
+VID01277,FL,Chevrolet,Silverado,2008,Progressive,Collision,Yes,2025-12-04,Good,18-25,0
+VID01278,OH,Hyundai,C-Class,2021,State Farm,Collision,No,2026-02-17,Fair,46-60,2
+VID01279,CA,Chevrolet,Civic,2007,State Farm,Full Coverage,No,2026-01-11,Good,26-35,0
+VID01280,CA,BMW,Altima,2020,USAA,Collision,No,2026-01-18,Fair,26-35,5
+VID01281,MI,Nissan,C-Class,2015,Liberty Mutual,Liability,No,2025-12-11,Good,60+,2
+VID01282,OH,Honda,Jetta,2012,USAA,Liability,No,2025-12-10,Good,18-25,2
+VID01283,IL,Nissan,3 Series,2001,Farmers,Liability,No,2026-01-16,Fair,46-60,3
+VID01284,IL,Hyundai,Camry,2019,Farmers,Collision,Yes,2026-02-07,Fair,60+,5
+VID01285,PA,Hyundai,3 Series,2008,USAA,Liability,Yes,2025-06-16,Fair,46-60,5
+VID01286,NY,BMW,Camry,2010,Allstate,Full Coverage,No,2025-07-08,Poor,36-45,4
+VID01287,IL,Honda,Elantra,2016,Geico,Collision,No,2025-06-23,Good,46-60,3
+VID01288,PA,Toyota,Elantra,2007,USAA,Comprehensive,Yes,2025-12-23,Good,60+,1
+VID01289,PA,Kia,C-Class,2016,State Farm,Full Coverage,No,2025-07-02,Good,36-45,2
+VID01290,MI,Kia,Altima,2021,Liberty Mutual,Liability,Yes,2025-12-09,Poor,46-60,5
+VID01291,PA,Toyota,C-Class,2003,USAA,Full Coverage,No,2026-01-07,Fair,46-60,3
+VID01292,NC,Ford,Silverado,2006,Allstate,Collision,No,2025-06-18,Fair,46-60,3
+VID01293,GA,Toyota,3 Series,2008,State Farm,Comprehensive,No,2026-02-27,Fair,18-25,0
+VID01294,FL,Honda,Silverado,2005,USAA,Comprehensive,No,2026-02-03,Good,46-60,4
+VID01295,CA,Nissan,Altima,2015,Liberty Mutual,Full Coverage,No,2025-11-07,Good,26-35,3
+VID01296,NY,Honda,Sorento,2010,Liberty Mutual,Full Coverage,No,2025-10-28,Poor,18-25,0
+VID01297,MI,Nissan,Civic,2006,Allstate,Comprehensive,No,2025-09-26,Good,60+,5
+VID01298,OH,Hyundai,C-Class,2011,State Farm,Liability,No,2025-05-12,Good,18-25,1
+VID01299,OH,Toyota,Altima,2002,USAA,Collision,No,2025-05-12,Fair,18-25,1
+VID01300,CA,Mercedes,Sorento,2022,State Farm,Collision,No,2025-08-17,Fair,46-60,4
+VID01301,NC,Chevrolet,Camry,2015,Allstate,Collision,Yes,2025-07-02,Fair,46-60,2
+VID01302,CA,Nissan,3 Series,2020,State Farm,Full Coverage,Yes,2025-05-13,Poor,46-60,4
+VID01303,OH,BMW,3 Series,2009,Progressive,Comprehensive,Yes,2025-09-24,Good,60+,2
+VID01304,CA,Kia,F-150,2005,State Farm,Liability,No,2025-06-28,Poor,18-25,1
+VID01305,MI,Mercedes,Camry,2019,State Farm,Comprehensive,No,2025-06-22,Fair,36-45,5
+VID01306,TX,Chevrolet,Jetta,2017,Liberty Mutual,Collision,No,2025-12-28,Fair,60+,1
+VID01307,GA,Mercedes,F-150,2011,USAA,Full Coverage,Yes,2025-05-20,Fair,46-60,4
+VID01308,NC,Honda,Sorento,2001,Geico,Full Coverage,No,2025-06-04,Fair,60+,0
+VID01309,IL,Toyota,3 Series,2005,USAA,Comprehensive,Yes,2025-07-11,Good,46-60,5
+VID01310,TX,Hyundai,Camry,2021,USAA,Liability,Yes,2025-09-14,Good,18-25,3
+VID01311,NC,Chevrolet,C-Class,2012,State Farm,Collision,Yes,2026-02-02,Poor,46-60,4
+VID01312,IL,BMW,Altima,2009,Farmers,Liability,Yes,2026-01-28,Poor,36-45,0
+VID01313,MI,Hyundai,Camry,2019,Progressive,Liability,Yes,2025-05-26,Poor,60+,2
+VID01314,NC,Toyota,Camry,2021,Geico,Comprehensive,Yes,2025-10-04,Good,26-35,5
+VID01315,MI,Volkswagen,Jetta,2011,Liberty Mutual,Comprehensive,Yes,2025-09-22,Good,60+,5
+VID01316,PA,Chevrolet,Silverado,2014,Farmers,Comprehensive,No,2025-10-03,Good,18-25,4
+VID01317,NY,Ford,Altima,2022,USAA,Full Coverage,No,2025-05-14,Good,46-60,1
+VID01318,IL,Nissan,Jetta,2005,USAA,Comprehensive,No,2025-11-29,Fair,60+,4
+VID01319,PA,Chevrolet,Camry,2022,Allstate,Full Coverage,Yes,2025-08-05,Poor,36-45,4
+VID01320,GA,Hyundai,Jetta,2001,Liberty Mutual,Liability,No,2025-12-29,Poor,36-45,5
+VID01321,IL,Toyota,Altima,2021,Progressive,Full Coverage,No,2025-06-21,Good,18-25,1
+VID01322,TX,BMW,C-Class,2019,Allstate,Collision,Yes,2026-01-18,Fair,36-45,3
+VID01323,IL,Honda,Jetta,2016,Farmers,Liability,No,2025-10-02,Poor,18-25,1
+VID01324,MI,Volkswagen,3 Series,2013,USAA,Collision,No,2025-05-09,Good,18-25,5
+VID01325,CA,Hyundai,Elantra,2016,Allstate,Full Coverage,No,2026-02-09,Good,60+,3
+VID01326,NY,BMW,Silverado,2003,State Farm,Comprehensive,No,2025-05-28,Poor,36-45,4
+VID01327,CA,Nissan,F-150,2021,Geico,Full Coverage,No,2026-02-26,Good,36-45,4
+VID01328,MI,Honda,Camry,2001,Liberty Mutual,Liability,Yes,2025-09-14,Fair,18-25,3
+VID01329,GA,Kia,F-150,2003,Allstate,Full Coverage,Yes,2026-02-28,Fair,26-35,5
+VID01330,PA,Nissan,3 Series,2010,USAA,Collision,Yes,2025-05-24,Good,18-25,5
+VID01331,IL,BMW,Elantra,2005,Liberty Mutual,Full Coverage,Yes,2025-09-14,Fair,36-45,0
+VID01332,IL,Chevrolet,Silverado,2005,Liberty Mutual,Liability,Yes,2025-05-14,Poor,26-35,0
+VID01333,CA,Toyota,Civic,2012,Geico,Liability,Yes,2026-01-24,Fair,26-35,3
+VID01334,IL,Mercedes,Altima,2010,State Farm,Collision,No,2025-09-01,Good,18-25,0
+VID01335,GA,Volkswagen,Elantra,2013,Allstate,Comprehensive,No,2026-03-05,Fair,18-25,4
+VID01336,NC,Kia,Civic,2000,Liberty Mutual,Full Coverage,Yes,2025-10-03,Fair,46-60,0
+VID01337,MI,Volkswagen,C-Class,2022,State Farm,Liability,No,2026-03-15,Poor,46-60,1
+VID01338,MI,Toyota,3 Series,2020,Progressive,Full Coverage,Yes,2025-07-27,Fair,26-35,5
+VID01339,OH,Volkswagen,C-Class,2007,Liberty Mutual,Liability,No,2025-07-01,Poor,60+,3
+VID01340,FL,Chevrolet,F-150,2003,USAA,Full Coverage,Yes,2025-05-14,Poor,46-60,1
+VID01341,GA,Volkswagen,Civic,2003,Progressive,Comprehensive,No,2025-07-20,Good,60+,0
+VID01342,TX,Ford,Sorento,2021,Geico,Full Coverage,No,2025-05-03,Good,46-60,2
+VID01343,GA,Chevrolet,3 Series,2014,Allstate,Liability,No,2025-05-08,Good,46-60,0
+VID01344,NC,Kia,Sorento,2021,Progressive,Collision,No,2025-10-23,Poor,36-45,1
+VID01345,GA,Chevrolet,Sorento,2005,Farmers,Full Coverage,No,2025-05-04,Good,18-25,3
+VID01346,NY,Honda,Civic,2012,Liberty Mutual,Comprehensive,No,2025-10-13,Fair,36-45,0
+VID01347,IL,Hyundai,Camry,2023,Liberty Mutual,Full Coverage,Yes,2025-04-28,Fair,26-35,5
+VID01348,NY,Mercedes,Elantra,2007,Progressive,Comprehensive,No,2025-06-13,Good,46-60,4
+VID01349,IL,Hyundai,Jetta,2020,Allstate,Full Coverage,No,2025-12-09,Poor,36-45,5
+VID01350,MI,BMW,C-Class,2013,USAA,Full Coverage,Yes,2025-04-30,Fair,46-60,5
+VID01351,TX,Ford,Altima,2008,Geico,Liability,Yes,2025-12-16,Good,46-60,0
+VID01352,NC,BMW,C-Class,2008,Progressive,Full Coverage,Yes,2026-03-23,Fair,26-35,4
+VID01353,OH,Honda,Elantra,2002,Geico,Full Coverage,No,2025-05-27,Good,26-35,5
+VID01354,OH,Ford,F-150,2023,Liberty Mutual,Full Coverage,No,2025-07-15,Good,36-45,4
+VID01355,IL,Mercedes,Jetta,2008,Allstate,Collision,No,2026-02-02,Good,18-25,1
+VID01356,FL,Kia,F-150,2012,Geico,Liability,No,2025-09-03,Fair,36-45,3
+VID01357,CA,Volkswagen,F-150,2014,State Farm,Full Coverage,Yes,2025-06-10,Fair,60+,5
+VID01358,MI,Mercedes,Sorento,2008,Geico,Comprehensive,Yes,2026-01-21,Poor,60+,5
+VID01359,GA,BMW,Camry,2010,USAA,Collision,No,2025-09-05,Fair,36-45,4
+VID01360,PA,Volkswagen,C-Class,2008,Progressive,Collision,No,2026-01-22,Poor,46-60,3
+VID01361,MI,Hyundai,C-Class,2022,USAA,Collision,No,2026-02-16,Poor,36-45,2
+VID01362,IL,Chevrolet,Silverado,2013,Liberty Mutual,Liability,No,2025-12-13,Good,36-45,2
+VID01363,IL,Toyota,Elantra,2012,Geico,Full Coverage,Yes,2025-09-15,Good,18-25,0
+VID01364,NC,Kia,Camry,2022,Geico,Full Coverage,No,2026-03-19,Good,26-35,0
+VID01365,TX,Kia,C-Class,2014,Allstate,Collision,No,2025-07-16,Good,18-25,5
+VID01366,CA,Nissan,F-150,2000,Progressive,Full Coverage,No,2025-12-15,Poor,26-35,2
+VID01367,TX,Mercedes,Elantra,2011,USAA,Full Coverage,No,2025-12-22,Good,60+,0
+VID01368,MI,Ford,C-Class,2018,State Farm,Collision,Yes,2026-01-19,Poor,36-45,1
+VID01369,TX,Mercedes,3 Series,2004,Geico,Collision,No,2025-10-10,Good,60+,3
+VID01370,IL,Mercedes,C-Class,2005,Farmers,Comprehensive,No,2025-08-13,Good,18-25,5
+VID01371,MI,Chevrolet,Jetta,2005,Progressive,Full Coverage,Yes,2025-07-01,Fair,18-25,4
+VID01372,CA,Mercedes,Elantra,2023,Liberty Mutual,Comprehensive,No,2025-06-03,Poor,36-45,4
+VID01373,CA,Hyundai,Altima,2019,Farmers,Collision,Yes,2025-12-06,Good,46-60,1
+VID01374,NY,Kia,F-150,2000,Progressive,Liability,Yes,2025-11-27,Poor,60+,2
+VID01375,FL,Honda,Elantra,2014,USAA,Full Coverage,No,2025-04-27,Fair,46-60,0
+VID01376,IL,Nissan,C-Class,2017,State Farm,Comprehensive,Yes,2025-10-11,Poor,60+,5
+VID01377,CA,Honda,Jetta,2022,Liberty Mutual,Liability,Yes,2025-07-19,Poor,18-25,5
+VID01378,TX,Volkswagen,Civic,2003,USAA,Liability,No,2025-08-30,Poor,26-35,2
+VID01379,NC,Nissan,3 Series,2022,Liberty Mutual,Collision,Yes,2025-10-06,Poor,46-60,0
+VID01380,NC,Chevrolet,C-Class,2006,USAA,Full Coverage,Yes,2025-10-01,Fair,18-25,4
+VID01381,OH,Chevrolet,C-Class,2010,Geico,Comprehensive,No,2026-02-26,Good,18-25,3
+VID01382,FL,BMW,F-150,2009,USAA,Collision,Yes,2025-11-20,Good,18-25,0
+VID01383,MI,Chevrolet,C-Class,2009,Farmers,Collision,Yes,2026-02-14,Poor,26-35,2
+VID01384,OH,Chevrolet,Altima,2001,Geico,Collision,Yes,2026-01-17,Poor,18-25,4
+VID01385,NY,Kia,Elantra,2001,Allstate,Comprehensive,No,2025-12-11,Good,60+,0
+VID01386,GA,Ford,F-150,2004,Farmers,Liability,No,2025-11-21,Poor,46-60,3
+VID01387,OH,Nissan,3 Series,2022,Allstate,Liability,Yes,2025-12-14,Fair,60+,5
+VID01388,NY,Toyota,Camry,2009,Progressive,Full Coverage,No,2025-07-31,Fair,46-60,3
+VID01389,PA,Nissan,Altima,2017,State Farm,Comprehensive,No,2025-04-25,Good,18-25,0
+VID01390,IL,Ford,Silverado,2021,Progressive,Liability,Yes,2025-05-17,Poor,26-35,2
+VID01391,TX,Kia,C-Class,2000,Farmers,Full Coverage,No,2025-05-09,Good,26-35,2
+VID01392,GA,Honda,F-150,2007,Geico,Collision,No,2025-10-30,Fair,26-35,4
+VID01393,PA,Hyundai,Altima,2000,State Farm,Comprehensive,Yes,2026-01-19,Poor,26-35,3
+VID01394,GA,Hyundai,Silverado,2023,State Farm,Full Coverage,Yes,2025-10-29,Poor,60+,3
+VID01395,TX,Toyota,Camry,2023,Progressive,Collision,No,2025-07-31,Good,18-25,4
+VID01396,MI,BMW,Civic,2010,Allstate,Full Coverage,No,2026-01-20,Fair,18-25,4
+VID01397,NY,Toyota,Silverado,2003,Liberty Mutual,Collision,No,2026-01-28,Poor,36-45,5
+VID01398,MI,Kia,Altima,2022,Progressive,Liability,Yes,2025-07-18,Good,60+,1
+VID01399,IL,BMW,F-150,2007,Farmers,Full Coverage,No,2025-08-09,Fair,36-45,0
+VID01400,NY,Toyota,Jetta,2018,State Farm,Full Coverage,No,2025-08-30,Fair,60+,1
+VID01401,IL,BMW,Jetta,2016,Progressive,Full Coverage,Yes,2025-11-23,Good,26-35,4
+VID01402,NY,Toyota,Elantra,2021,Geico,Liability,No,2025-08-27,Poor,46-60,1
+VID01403,CA,Kia,Jetta,2014,State Farm,Liability,Yes,2026-02-27,Good,36-45,3
+VID01404,FL,Honda,Elantra,2000,Allstate,Full Coverage,Yes,2025-07-09,Good,60+,0
+VID01405,CA,Chevrolet,Silverado,2010,Geico,Comprehensive,No,2025-08-15,Fair,46-60,2
+VID01406,GA,Hyundai,C-Class,2017,Liberty Mutual,Full Coverage,Yes,2025-07-19,Good,60+,2
+VID01407,NY,Toyota,Sorento,2012,Farmers,Collision,No,2025-08-17,Good,36-45,1
+VID01408,NY,Mercedes,3 Series,2003,Allstate,Liability,No,2025-04-27,Fair,46-60,1
+VID01409,PA,Ford,Jetta,2010,Farmers,Full Coverage,Yes,2026-01-21,Poor,46-60,1
+VID01410,TX,Volkswagen,Altima,2009,State Farm,Full Coverage,Yes,2025-05-22,Poor,36-45,5
+VID01411,NY,BMW,Sorento,2000,Farmers,Full Coverage,No,2026-02-19,Fair,46-60,5
+VID01412,CA,Toyota,Silverado,2009,Progressive,Liability,Yes,2025-11-06,Good,18-25,1
+VID01413,NC,BMW,F-150,2011,Geico,Full Coverage,Yes,2025-08-25,Poor,26-35,4
+VID01414,OH,Kia,C-Class,2006,Liberty Mutual,Comprehensive,Yes,2025-05-01,Poor,46-60,1
+VID01415,OH,Honda,Jetta,2022,Geico,Full Coverage,No,2025-11-12,Poor,60+,1
+VID01416,CA,Hyundai,Elantra,2022,Liberty Mutual,Comprehensive,No,2026-03-14,Good,46-60,1
+VID01417,CA,BMW,Elantra,2020,Liberty Mutual,Comprehensive,No,2025-12-02,Good,18-25,3
+VID01418,MI,Toyota,Camry,2021,State Farm,Full Coverage,No,2025-07-08,Fair,46-60,1
+VID01419,GA,BMW,Jetta,2002,Liberty Mutual,Comprehensive,No,2025-11-08,Good,36-45,2
+VID01420,IL,Nissan,Silverado,2010,USAA,Collision,Yes,2025-10-18,Fair,26-35,5
+VID01421,FL,Volkswagen,Altima,2000,Allstate,Liability,No,2025-09-21,Poor,36-45,1
+VID01422,MI,Nissan,Camry,2020,Farmers,Liability,Yes,2025-05-20,Fair,60+,3
+VID01423,CA,Volkswagen,Sorento,2001,Allstate,Full Coverage,No,2026-03-11,Poor,26-35,0
+VID01424,IL,Toyota,C-Class,2002,Geico,Comprehensive,No,2025-06-03,Fair,18-25,0
+VID01425,MI,Volkswagen,C-Class,2002,Progressive,Full Coverage,No,2026-01-16,Good,36-45,2
+VID01426,IL,Kia,Silverado,2004,State Farm,Collision,No,2025-09-24,Poor,26-35,0
+VID01427,TX,Hyundai,3 Series,2015,Allstate,Collision,No,2026-03-19,Good,36-45,5
+VID01428,FL,Nissan,C-Class,2003,Liberty Mutual,Collision,No,2026-02-14,Poor,26-35,0
+VID01429,GA,Ford,Jetta,2001,Farmers,Full Coverage,Yes,2025-06-19,Poor,18-25,3
+VID01430,OH,Volkswagen,3 Series,2007,USAA,Full Coverage,No,2026-02-08,Good,46-60,3
+VID01431,OH,Toyota,3 Series,2016,USAA,Liability,Yes,2025-05-03,Fair,18-25,5
+VID01432,OH,Mercedes,Jetta,2014,USAA,Comprehensive,Yes,2025-09-30,Good,18-25,1
+VID01433,PA,Kia,Camry,2019,Geico,Liability,Yes,2026-02-17,Poor,46-60,5
+VID01434,GA,Mercedes,Silverado,2014,Allstate,Collision,No,2025-05-07,Fair,46-60,4
+VID01435,PA,Kia,Civic,2014,USAA,Liability,Yes,2026-01-04,Poor,60+,0
+VID01436,PA,Honda,C-Class,2018,Allstate,Full Coverage,No,2025-05-02,Poor,26-35,0
+VID01437,PA,Toyota,Elantra,2013,State Farm,Full Coverage,No,2025-12-10,Fair,18-25,1
+VID01438,PA,Volkswagen,Altima,2020,State Farm,Collision,No,2025-07-22,Fair,18-25,2
+VID01439,PA,Mercedes,Sorento,2009,Geico,Collision,No,2025-11-05,Fair,46-60,5
+VID01440,CA,Nissan,Sorento,2012,Progressive,Comprehensive,Yes,2025-10-07,Poor,36-45,0
+VID01441,IL,Kia,Silverado,2019,Farmers,Comprehensive,Yes,2025-09-25,Good,26-35,3
+VID01442,CA,Mercedes,Sorento,2010,Allstate,Collision,Yes,2025-09-18,Poor,36-45,4
+VID01443,OH,Chevrolet,3 Series,2012,Liberty Mutual,Liability,Yes,2025-10-26,Poor,36-45,3
+VID01444,NC,Hyundai,C-Class,2006,USAA,Comprehensive,No,2025-08-03,Poor,26-35,5
+VID01445,MI,Volkswagen,Camry,2005,Farmers,Full Coverage,No,2026-01-28,Poor,60+,2
+VID01446,GA,Volkswagen,C-Class,2004,State Farm,Comprehensive,No,2025-10-02,Fair,60+,0
+VID01447,NC,Nissan,F-150,2019,Farmers,Collision,No,2025-05-09,Good,26-35,2
+VID01448,GA,Ford,3 Series,2012,State Farm,Comprehensive,No,2025-05-10,Fair,60+,4
+VID01449,OH,Volkswagen,Jetta,2008,Progressive,Full Coverage,No,2025-10-22,Fair,60+,1
+VID01450,NY,BMW,C-Class,2016,USAA,Collision,Yes,2026-03-10,Poor,60+,4
+VID01451,NY,Volkswagen,Jetta,2005,Allstate,Comprehensive,Yes,2025-11-28,Poor,18-25,2
+VID01452,PA,Kia,Sorento,2006,Geico,Comprehensive,Yes,2025-08-10,Fair,36-45,4
+VID01453,FL,Nissan,C-Class,2022,USAA,Comprehensive,Yes,2025-04-24,Poor,26-35,5
+VID01454,FL,Chevrolet,Elantra,2002,USAA,Collision,No,2025-06-17,Good,46-60,4
+VID01455,CA,Kia,C-Class,2006,Farmers,Collision,Yes,2025-08-28,Poor,60+,4
+VID01456,GA,Kia,Altima,2015,Allstate,Collision,Yes,2025-12-06,Good,18-25,3
+VID01457,GA,Ford,F-150,2021,Liberty Mutual,Liability,No,2025-06-01,Poor,46-60,3
+VID01458,FL,Toyota,Jetta,2002,Geico,Collision,No,2026-03-23,Fair,18-25,5
+VID01459,IL,Volkswagen,Sorento,2020,Progressive,Comprehensive,Yes,2025-06-24,Fair,26-35,0
+VID01460,CA,Honda,Silverado,2014,State Farm,Full Coverage,Yes,2026-03-05,Good,46-60,1
+VID01461,OH,Volkswagen,Civic,2014,State Farm,Comprehensive,No,2025-12-16,Fair,26-35,4
+VID01462,OH,Mercedes,Elantra,2006,Allstate,Liability,Yes,2026-03-12,Good,60+,2
+VID01463,NY,Hyundai,Jetta,2008,USAA,Full Coverage,No,2025-05-13,Poor,26-35,1
+VID01464,IL,Chevrolet,3 Series,2019,State Farm,Comprehensive,Yes,2026-01-17,Good,46-60,0
+VID01465,NC,Nissan,Jetta,2016,Geico,Liability,Yes,2025-06-05,Poor,36-45,0
+VID01466,MI,Kia,Sorento,2008,USAA,Full Coverage,Yes,2025-10-10,Good,36-45,0
+VID01467,FL,Volkswagen,Elantra,2011,USAA,Collision,Yes,2025-09-13,Good,26-35,1
+VID01468,FL,Hyundai,Silverado,2001,Geico,Liability,No,2025-08-17,Fair,60+,2
+VID01469,FL,Toyota,Civic,2023,USAA,Comprehensive,Yes,2025-05-15,Poor,36-45,3
+VID01470,IL,Mercedes,Camry,2008,Liberty Mutual,Liability,No,2025-12-01,Fair,60+,5
+VID01471,GA,Volkswagen,Elantra,2009,Liberty Mutual,Comprehensive,No,2025-09-26,Good,46-60,4
+VID01472,OH,Mercedes,C-Class,2015,Liberty Mutual,Liability,No,2025-06-25,Fair,36-45,5
+VID01473,NC,Honda,F-150,2000,Allstate,Collision,No,2025-06-10,Good,46-60,3
+VID01474,MI,Nissan,Civic,2002,Allstate,Collision,No,2025-10-05,Good,18-25,3
+VID01475,CA,Volkswagen,Sorento,2023,Geico,Comprehensive,Yes,2025-10-12,Fair,46-60,4
+VID01476,IL,Toyota,Sorento,2018,Allstate,Comprehensive,No,2025-05-20,Poor,46-60,4
+VID01477,CA,Mercedes,Silverado,2013,Progressive,Comprehensive,No,2025-05-10,Fair,46-60,2
+VID01478,NC,Mercedes,Elantra,2004,Liberty Mutual,Comprehensive,No,2025-06-11,Poor,46-60,3
+VID01479,NC,Honda,3 Series,2022,USAA,Collision,Yes,2026-03-08,Fair,60+,5
+VID01480,NC,Honda,Jetta,2021,Allstate,Collision,No,2025-09-24,Poor,60+,4
+VID01481,FL,Volkswagen,Silverado,2005,Geico,Liability,Yes,2026-02-01,Fair,26-35,4
+VID01482,NC,Kia,C-Class,2007,State Farm,Collision,Yes,2025-05-23,Poor,36-45,0
+VID01483,PA,Toyota,Altima,2005,Farmers,Comprehensive,Yes,2025-05-11,Fair,18-25,5
+VID01484,GA,Mercedes,3 Series,2011,Geico,Liability,Yes,2026-02-14,Poor,26-35,3
+VID01485,CA,Mercedes,Civic,2004,State Farm,Collision,No,2025-08-18,Fair,46-60,0
+VID01486,MI,Kia,Camry,2023,Liberty Mutual,Collision,No,2025-09-28,Good,36-45,5
+VID01487,PA,BMW,Elantra,2006,Allstate,Full Coverage,Yes,2026-03-19,Poor,36-45,5
+VID01488,IL,Honda,Silverado,2019,Liberty Mutual,Full Coverage,Yes,2026-02-23,Fair,36-45,2
+VID01489,GA,Ford,C-Class,2002,Geico,Comprehensive,No,2025-04-24,Good,18-25,2
+VID01490,NC,BMW,Civic,2009,Geico,Liability,No,2025-07-23,Good,26-35,1
+VID01491,PA,Hyundai,Civic,2022,Geico,Collision,Yes,2025-07-15,Poor,36-45,5
+VID01492,NY,Hyundai,Camry,2001,Farmers,Liability,Yes,2025-05-26,Poor,26-35,2
+VID01493,GA,Chevrolet,Altima,2001,State Farm,Comprehensive,Yes,2025-11-17,Fair,18-25,2
+VID01494,PA,Volkswagen,Camry,2011,Liberty Mutual,Collision,Yes,2025-08-08,Fair,26-35,3
+VID01495,NC,Chevrolet,Camry,2003,Liberty Mutual,Comprehensive,Yes,2025-08-08,Fair,18-25,1
+VID01496,GA,Nissan,Jetta,2003,Geico,Comprehensive,Yes,2025-10-21,Fair,60+,2
+VID01497,FL,Volkswagen,Camry,2019,Geico,Full Coverage,Yes,2025-06-14,Fair,36-45,5
+VID01498,OH,BMW,3 Series,2019,Allstate,Collision,No,2026-01-19,Fair,18-25,2
+VID01499,NY,Chevrolet,C-Class,2019,State Farm,Comprehensive,No,2025-12-17,Fair,60+,3
+VID01500,PA,Nissan,Silverado,2001,Farmers,Collision,Yes,2026-02-07,Good,36-45,4
+VID01501,PA,Nissan,Silverado,2004,Liberty Mutual,Collision,No,2025-09-09,Good,18-25,5
+VID01502,PA,Toyota,C-Class,2015,Allstate,Comprehensive,Yes,2025-07-08,Good,26-35,4
+VID01503,TX,Chevrolet,Jetta,2015,Liberty Mutual,Comprehensive,Yes,2025-12-03,Poor,26-35,2
+VID01504,MI,Hyundai,Elantra,2007,Geico,Liability,Yes,2026-02-18,Poor,60+,4
+VID01505,GA,Chevrolet,C-Class,2021,Geico,Comprehensive,No,2025-07-03,Good,18-25,5
+VID01506,NY,Hyundai,C-Class,2008,Farmers,Full Coverage,No,2025-11-18,Good,26-35,1
+VID01507,PA,Honda,Camry,2020,State Farm,Comprehensive,No,2025-09-09,Good,26-35,4
+VID01508,NC,Mercedes,Jetta,2020,USAA,Full Coverage,No,2026-01-13,Fair,36-45,3
+VID01509,NY,Chevrolet,Elantra,2016,USAA,Full Coverage,No,2025-08-11,Good,26-35,2
+VID01510,CA,BMW,Sorento,2016,Progressive,Full Coverage,Yes,2025-10-20,Good,26-35,2
+VID01511,PA,Honda,C-Class,2014,State Farm,Collision,Yes,2025-11-26,Good,46-60,4
+VID01512,TX,Toyota,Silverado,2014,Liberty Mutual,Liability,Yes,2026-01-19,Good,18-25,0
+VID01513,GA,Kia,C-Class,2000,Progressive,Full Coverage,No,2025-05-26,Fair,18-25,4
+VID01514,FL,BMW,Sorento,2000,State Farm,Full Coverage,No,2025-04-29,Fair,26-35,2
+VID01515,NC,Volkswagen,Altima,2004,Farmers,Collision,No,2025-04-27,Poor,36-45,2
+VID01516,IL,Ford,F-150,2002,Farmers,Liability,Yes,2025-05-10,Fair,36-45,1
+VID01517,CA,Nissan,Civic,2004,Farmers,Full Coverage,Yes,2025-07-09,Poor,60+,0
+VID01518,NC,Mercedes,Silverado,2013,Farmers,Comprehensive,Yes,2025-10-04,Good,26-35,2
+VID01519,OH,Hyundai,Sorento,2007,State Farm,Collision,Yes,2025-06-12,Good,18-25,3
+VID01520,CA,Hyundai,Sorento,2015,Progressive,Collision,No,2025-08-31,Fair,46-60,4
+VID01521,PA,Honda,Jetta,2008,Liberty Mutual,Liability,No,2025-12-30,Poor,46-60,3
+VID01522,NY,Toyota,Elantra,2006,Geico,Full Coverage,Yes,2026-03-12,Poor,18-25,2
+VID01523,PA,Ford,Camry,2014,Liberty Mutual,Collision,No,2025-12-15,Fair,60+,0
+VID01524,NY,Mercedes,Sorento,2023,Allstate,Liability,No,2026-01-17,Fair,18-25,2
+VID01525,OH,Volkswagen,Sorento,2007,Liberty Mutual,Comprehensive,Yes,2025-08-21,Poor,26-35,5
+VID01526,GA,Toyota,F-150,2018,Geico,Collision,No,2026-01-23,Good,46-60,5
+VID01527,CA,Nissan,F-150,2016,USAA,Collision,No,2026-01-07,Fair,46-60,1
+VID01528,OH,Mercedes,Silverado,2018,Liberty Mutual,Liability,No,2025-11-08,Good,60+,2
+VID01529,NC,Honda,F-150,2013,USAA,Full Coverage,No,2025-11-06,Poor,46-60,5
+VID01530,IL,Honda,Jetta,2019,Allstate,Full Coverage,No,2025-10-15,Good,60+,3
+VID01531,GA,Hyundai,Jetta,2023,Geico,Liability,Yes,2026-01-03,Fair,36-45,2
+VID01532,FL,Toyota,Camry,2015,Liberty Mutual,Full Coverage,No,2025-12-10,Good,60+,3
+VID01533,OH,Mercedes,Jetta,2018,State Farm,Collision,No,2025-08-08,Good,18-25,1
+VID01534,PA,Toyota,Sorento,2008,Geico,Collision,No,2025-09-02,Poor,18-25,5
+VID01535,TX,Toyota,Altima,2023,Farmers,Collision,No,2025-10-15,Good,60+,3
+VID01536,IL,Volkswagen,Jetta,2011,Allstate,Collision,Yes,2025-11-15,Poor,26-35,2
+VID01537,OH,Honda,Sorento,2014,Progressive,Collision,No,2026-03-19,Good,26-35,4
+VID01538,TX,Chevrolet,C-Class,2015,Progressive,Collision,Yes,2025-08-24,Poor,18-25,5
+VID01539,TX,BMW,C-Class,2021,Progressive,Comprehensive,Yes,2025-09-03,Fair,36-45,5
+VID01540,NC,Mercedes,Sorento,2016,State Farm,Liability,No,2026-02-01,Good,36-45,2
+VID01541,NC,Ford,Civic,2011,Geico,Full Coverage,Yes,2025-12-27,Fair,36-45,4
+VID01542,MI,BMW,Elantra,2001,USAA,Liability,Yes,2025-08-04,Poor,46-60,1
+VID01543,IL,Ford,Sorento,2002,Farmers,Comprehensive,Yes,2026-01-06,Good,46-60,2
+VID01544,FL,Honda,Altima,2014,Progressive,Comprehensive,No,2025-12-17,Fair,60+,1
+VID01545,TX,Volkswagen,Elantra,2021,USAA,Full Coverage,No,2025-07-27,Good,18-25,4
+VID01546,TX,Kia,C-Class,2006,Allstate,Liability,No,2026-01-14,Poor,18-25,1
+VID01547,TX,BMW,Silverado,2013,Allstate,Collision,No,2026-02-17,Poor,46-60,3
+VID01548,OH,Nissan,Altima,2010,USAA,Comprehensive,Yes,2025-05-01,Fair,46-60,0
+VID01549,NY,Honda,3 Series,2007,USAA,Comprehensive,Yes,2025-05-20,Good,36-45,2
+VID01550,CA,Chevrolet,Silverado,2013,Progressive,Collision,Yes,2025-12-18,Fair,18-25,4
+VID01551,NY,Honda,Elantra,2003,Liberty Mutual,Collision,Yes,2026-01-15,Good,60+,0
+VID01552,TX,Honda,Civic,2018,Progressive,Comprehensive,Yes,2025-10-18,Good,46-60,4
+VID01553,OH,Toyota,Civic,2005,Geico,Liability,No,2026-01-24,Poor,46-60,5
+VID01554,CA,Volkswagen,F-150,2013,Progressive,Collision,Yes,2026-01-09,Poor,18-25,1
+VID01555,CA,Chevrolet,Elantra,2020,State Farm,Full Coverage,No,2026-01-27,Good,60+,5
+VID01556,TX,Hyundai,Civic,2019,Progressive,Liability,Yes,2026-01-26,Fair,18-25,5
+VID01557,GA,BMW,Civic,2022,State Farm,Liability,Yes,2025-05-24,Poor,18-25,3
+VID01558,MI,Kia,Civic,2009,USAA,Collision,Yes,2026-02-27,Good,18-25,4
+VID01559,PA,Ford,Camry,2012,Farmers,Full Coverage,No,2026-03-04,Poor,18-25,0
+VID01560,NC,Mercedes,Silverado,2002,Farmers,Liability,Yes,2025-08-27,Good,26-35,4
+VID01561,CA,Ford,Civic,2005,Allstate,Comprehensive,No,2025-08-03,Poor,18-25,0
+VID01562,MI,Ford,Jetta,2009,Geico,Collision,No,2025-09-03,Poor,18-25,4
+VID01563,GA,Toyota,Elantra,2019,State Farm,Liability,Yes,2025-12-22,Good,26-35,5
+VID01564,TX,Volkswagen,Sorento,2023,Geico,Comprehensive,No,2026-02-22,Fair,46-60,1
+VID01565,OH,BMW,F-150,2008,Farmers,Collision,No,2025-11-14,Poor,36-45,0
+VID01566,PA,Ford,3 Series,2019,Farmers,Comprehensive,No,2025-10-19,Fair,18-25,5
+VID01567,MI,Kia,3 Series,2015,State Farm,Full Coverage,No,2025-10-30,Good,18-25,5
+VID01568,MI,Honda,C-Class,2019,State Farm,Full Coverage,No,2026-01-21,Fair,26-35,5
+VID01569,MI,BMW,Camry,2004,Farmers,Comprehensive,No,2025-05-19,Fair,18-25,0
+VID01570,NC,Honda,C-Class,2008,Allstate,Collision,Yes,2025-09-19,Good,46-60,3
+VID01571,OH,Volkswagen,F-150,2002,Allstate,Liability,Yes,2025-05-23,Fair,46-60,5
+VID01572,NY,Chevrolet,Sorento,2019,Farmers,Liability,Yes,2026-02-11,Poor,60+,3
+VID01573,MI,Toyota,Silverado,2020,USAA,Liability,No,2025-07-09,Good,46-60,1
+VID01574,TX,Kia,F-150,2006,USAA,Liability,Yes,2025-07-20,Fair,36-45,3
+VID01575,TX,Chevrolet,Civic,2023,Progressive,Comprehensive,Yes,2026-02-01,Fair,60+,3
+VID01576,MI,Hyundai,Sorento,2021,Geico,Liability,No,2026-03-22,Poor,36-45,0
+VID01577,GA,Ford,Jetta,2000,Geico,Collision,No,2025-09-21,Good,60+,4
+VID01578,IL,Nissan,Altima,2004,Allstate,Collision,Yes,2025-07-21,Fair,18-25,1
+VID01579,OH,Chevrolet,F-150,2012,Liberty Mutual,Comprehensive,No,2025-06-17,Poor,60+,0
+VID01580,CA,Kia,Jetta,2000,USAA,Comprehensive,Yes,2026-03-10,Good,36-45,5
+VID01581,MI,BMW,Silverado,2015,Geico,Collision,Yes,2025-06-27,Good,46-60,5
+VID01582,OH,Mercedes,Altima,2001,State Farm,Comprehensive,Yes,2025-10-30,Fair,60+,5
+VID01583,FL,Toyota,Civic,2001,Progressive,Comprehensive,No,2026-03-21,Good,26-35,0
+VID01584,FL,Chevrolet,Elantra,2013,State Farm,Liability,Yes,2025-10-14,Good,46-60,1
+VID01585,NY,Chevrolet,Silverado,2019,State Farm,Collision,Yes,2025-11-28,Fair,36-45,4
+VID01586,TX,Honda,Elantra,2002,State Farm,Comprehensive,No,2025-10-27,Fair,18-25,2
+VID01587,GA,Chevrolet,Sorento,2000,Farmers,Liability,No,2025-11-26,Good,60+,3
+VID01588,MI,Hyundai,Altima,2015,Liberty Mutual,Comprehensive,No,2025-11-09,Poor,60+,0
+VID01589,CA,Toyota,Jetta,2023,USAA,Comprehensive,No,2025-12-19,Good,46-60,4
+VID01590,FL,Ford,Sorento,2020,Progressive,Full Coverage,No,2025-09-03,Poor,36-45,3
+VID01591,MI,Ford,Sorento,2015,Farmers,Collision,Yes,2025-11-06,Fair,36-45,2
+VID01592,IL,Ford,Jetta,2001,USAA,Liability,Yes,2025-06-02,Fair,60+,5
+VID01593,TX,Kia,Camry,2001,Liberty Mutual,Liability,Yes,2026-02-14,Good,18-25,1
+VID01594,GA,Mercedes,F-150,2005,USAA,Full Coverage,Yes,2025-06-03,Fair,36-45,5
+VID01595,TX,Toyota,F-150,2006,Liberty Mutual,Collision,No,2025-08-02,Good,46-60,3
+VID01596,NY,Toyota,F-150,2008,Farmers,Collision,Yes,2025-07-14,Poor,60+,0
+VID01597,NY,Volkswagen,Sorento,2004,State Farm,Comprehensive,No,2025-05-11,Good,60+,2
+VID01598,OH,Nissan,Silverado,2017,State Farm,Comprehensive,No,2026-02-12,Good,18-25,3
+VID01599,NY,Honda,C-Class,2019,Progressive,Liability,No,2025-12-08,Poor,60+,2
+VID01600,GA,Honda,Elantra,2008,State Farm,Comprehensive,Yes,2025-09-25,Fair,60+,4
+VID01601,CA,Ford,F-150,2014,Allstate,Full Coverage,Yes,2025-04-30,Poor,46-60,2
+VID01602,OH,Mercedes,Sorento,2001,Farmers,Full Coverage,No,2025-05-25,Good,26-35,5
+VID01603,OH,Honda,Altima,2001,State Farm,Collision,Yes,2026-02-13,Fair,36-45,2
+VID01604,PA,Toyota,Camry,2019,Progressive,Full Coverage,No,2026-01-28,Poor,36-45,0
+VID01605,TX,Ford,3 Series,2000,State Farm,Full Coverage,No,2026-03-10,Poor,18-25,0
+VID01606,GA,Chevrolet,Jetta,2021,Progressive,Comprehensive,No,2025-12-08,Fair,46-60,0
+VID01607,FL,BMW,C-Class,2009,Liberty Mutual,Collision,No,2026-03-24,Good,18-25,1
+VID01608,MI,Ford,Sorento,2022,USAA,Liability,Yes,2025-09-27,Fair,18-25,2
+VID01609,TX,Ford,Civic,2007,Allstate,Liability,No,2026-03-16,Poor,26-35,1
+VID01610,CA,Ford,C-Class,2003,Farmers,Comprehensive,Yes,2026-02-24,Poor,26-35,0
+VID01611,PA,Ford,C-Class,2009,State Farm,Full Coverage,No,2025-06-18,Good,26-35,4
+VID01612,PA,Nissan,Silverado,2008,Geico,Full Coverage,Yes,2025-05-06,Good,60+,1
+VID01613,PA,Nissan,F-150,2022,Progressive,Full Coverage,Yes,2026-02-07,Poor,26-35,5
+VID01614,TX,Chevrolet,Camry,2013,Liberty Mutual,Comprehensive,Yes,2025-06-08,Poor,26-35,3
+VID01615,FL,Kia,Altima,2007,Farmers,Full Coverage,No,2025-12-09,Poor,36-45,1
+VID01616,GA,Kia,Silverado,2008,Allstate,Full Coverage,Yes,2025-09-14,Fair,60+,2
+VID01617,GA,Hyundai,Elantra,2000,State Farm,Full Coverage,Yes,2026-03-05,Good,18-25,3
+VID01618,TX,Honda,Elantra,2006,USAA,Collision,Yes,2025-06-26,Fair,60+,4
+VID01619,TX,Toyota,Civic,2023,USAA,Comprehensive,Yes,2025-05-20,Fair,60+,3
+VID01620,PA,Kia,F-150,2001,USAA,Comprehensive,Yes,2025-09-01,Poor,46-60,3
+VID01621,MI,Toyota,Silverado,2008,Geico,Liability,Yes,2025-10-08,Good,18-25,5
+VID01622,GA,Hyundai,Civic,2021,Geico,Full Coverage,Yes,2025-10-31,Fair,18-25,3
+VID01623,NY,Honda,C-Class,2008,Geico,Liability,No,2025-04-24,Poor,18-25,5
+VID01624,IL,Chevrolet,C-Class,2014,Farmers,Full Coverage,Yes,2025-08-27,Poor,60+,2
+VID01625,OH,Kia,Silverado,2003,State Farm,Comprehensive,No,2025-06-26,Fair,60+,4
+VID01626,PA,Mercedes,Civic,2006,Allstate,Collision,No,2025-09-03,Fair,46-60,0
+VID01627,FL,Ford,Jetta,2023,Allstate,Full Coverage,No,2025-08-25,Fair,60+,1
+VID01628,MI,Hyundai,Civic,2008,Liberty Mutual,Comprehensive,Yes,2026-03-20,Fair,36-45,4
+VID01629,IL,BMW,F-150,2002,Liberty Mutual,Collision,No,2025-05-10,Fair,18-25,5
+VID01630,GA,Kia,Civic,2012,Progressive,Comprehensive,Yes,2026-02-19,Fair,60+,1
+VID01631,NY,BMW,Altima,2003,State Farm,Liability,No,2025-10-10,Poor,18-25,2
+VID01632,PA,Mercedes,Camry,2017,Progressive,Comprehensive,Yes,2025-11-12,Poor,18-25,5
+VID01633,IL,Volkswagen,C-Class,2009,Progressive,Liability,Yes,2025-10-09,Fair,26-35,5
+VID01634,NC,Toyota,Sorento,2015,State Farm,Collision,No,2025-06-11,Fair,36-45,5
+VID01635,IL,Ford,Elantra,2006,Geico,Full Coverage,No,2025-06-25,Good,36-45,1
+VID01636,IL,Kia,Elantra,2002,Liberty Mutual,Comprehensive,No,2025-06-06,Poor,18-25,0
+VID01637,GA,Volkswagen,Civic,2013,Farmers,Full Coverage,Yes,2026-03-05,Fair,26-35,5
+VID01638,MI,Nissan,Camry,2011,State Farm,Collision,No,2025-12-26,Fair,18-25,0
+VID01639,TX,Honda,Sorento,2002,Allstate,Collision,Yes,2026-01-11,Fair,60+,1
+VID01640,GA,Kia,Jetta,2023,USAA,Liability,Yes,2025-08-25,Poor,36-45,2
+VID01641,PA,Hyundai,Sorento,2005,Liberty Mutual,Full Coverage,Yes,2025-09-27,Good,46-60,2
+VID01642,MI,Toyota,Sorento,2020,Farmers,Comprehensive,No,2025-11-25,Poor,18-25,1
+VID01643,NC,Toyota,Altima,2022,State Farm,Comprehensive,Yes,2025-07-02,Poor,26-35,4
+VID01644,NY,Mercedes,Jetta,2016,Geico,Comprehensive,No,2026-03-13,Good,60+,3
+VID01645,NC,Volkswagen,Camry,2008,Progressive,Collision,No,2026-01-29,Poor,36-45,2
+VID01646,TX,Nissan,C-Class,2011,Progressive,Comprehensive,No,2026-03-05,Fair,18-25,1
+VID01647,PA,Mercedes,Silverado,2003,Progressive,Full Coverage,No,2025-06-21,Poor,60+,5
+VID01648,MI,Hyundai,Silverado,2014,Farmers,Full Coverage,Yes,2025-06-03,Fair,26-35,1
+VID01649,NC,Kia,Camry,2018,State Farm,Liability,Yes,2025-05-30,Good,46-60,0
+VID01650,GA,Volkswagen,F-150,2001,Progressive,Liability,No,2026-01-13,Poor,60+,1
+VID01651,FL,Kia,Silverado,2003,USAA,Comprehensive,Yes,2025-10-20,Poor,18-25,4
+VID01652,NY,Volkswagen,Sorento,2008,Liberty Mutual,Liability,Yes,2025-05-03,Poor,60+,5
+VID01653,GA,Honda,F-150,2009,Farmers,Collision,Yes,2025-10-31,Fair,60+,0
+VID01654,TX,Volkswagen,F-150,2004,Allstate,Collision,No,2025-12-12,Poor,26-35,3
+VID01655,PA,Honda,Camry,2003,Farmers,Collision,Yes,2026-02-12,Fair,18-25,3
+VID01656,MI,Hyundai,Jetta,2008,USAA,Liability,Yes,2026-02-04,Poor,36-45,5
+VID01657,GA,Kia,Camry,2004,State Farm,Comprehensive,No,2025-12-06,Good,26-35,4
+VID01658,NY,Volkswagen,Camry,2020,Geico,Liability,No,2026-01-20,Poor,60+,4
+VID01659,OH,Kia,Elantra,2016,Farmers,Full Coverage,Yes,2026-03-12,Fair,46-60,1
+VID01660,MI,Mercedes,Civic,2018,Liberty Mutual,Comprehensive,No,2025-10-06,Poor,18-25,2
+VID01661,IL,Nissan,Sorento,2004,Geico,Full Coverage,No,2026-01-25,Fair,18-25,0
+VID01662,IL,BMW,Silverado,2003,USAA,Liability,No,2026-02-26,Poor,60+,0
+VID01663,TX,Nissan,Civic,2011,Geico,Collision,Yes,2025-10-27,Fair,46-60,4
+VID01664,NC,Hyundai,3 Series,2003,State Farm,Collision,No,2026-01-03,Poor,46-60,3
+VID01665,TX,Nissan,Camry,2018,Allstate,Liability,Yes,2025-10-19,Fair,60+,4
+VID01666,CA,Ford,3 Series,2013,State Farm,Collision,Yes,2025-05-04,Poor,18-25,1
+VID01667,TX,Mercedes,Jetta,2015,State Farm,Liability,No,2026-02-07,Poor,46-60,3
+VID01668,PA,Volkswagen,C-Class,2022,Farmers,Full Coverage,No,2025-05-01,Good,36-45,3
+VID01669,OH,Volkswagen,F-150,2008,Allstate,Collision,Yes,2025-11-16,Fair,60+,1
+VID01670,OH,Mercedes,C-Class,2000,Liberty Mutual,Comprehensive,No,2026-03-02,Poor,46-60,4
+VID01671,PA,Ford,Camry,2006,Progressive,Collision,No,2025-07-21,Good,46-60,4
+VID01672,NY,Kia,Jetta,2010,Progressive,Comprehensive,Yes,2025-10-03,Fair,36-45,5
+VID01673,MI,Nissan,Camry,2023,USAA,Full Coverage,Yes,2025-11-21,Fair,26-35,5
+VID01674,GA,Chevrolet,F-150,2016,Geico,Full Coverage,No,2026-03-25,Poor,60+,5
+VID01675,OH,Volkswagen,Jetta,2017,State Farm,Full Coverage,Yes,2025-06-14,Fair,18-25,5
+VID01676,TX,Volkswagen,Silverado,2019,State Farm,Collision,No,2025-11-15,Poor,60+,3
+VID01677,NC,Kia,Altima,2004,Liberty Mutual,Comprehensive,No,2025-12-02,Good,18-25,0
+VID01678,FL,Toyota,Silverado,2021,USAA,Comprehensive,Yes,2025-11-19,Fair,36-45,4
+VID01679,FL,Toyota,F-150,2013,State Farm,Collision,No,2025-11-20,Poor,46-60,4
+VID01680,CA,Hyundai,Camry,2005,Progressive,Collision,No,2025-08-10,Poor,60+,1
+VID01681,PA,Chevrolet,Altima,2006,Geico,Comprehensive,No,2025-11-30,Fair,26-35,1
+VID01682,TX,Hyundai,Camry,2000,Progressive,Liability,No,2025-06-07,Good,26-35,2
+VID01683,OH,Hyundai,C-Class,2008,Allstate,Collision,No,2025-09-16,Poor,18-25,1
+VID01684,CA,Ford,Camry,2001,Liberty Mutual,Liability,Yes,2025-11-20,Poor,18-25,5
+VID01685,NY,BMW,Elantra,2005,Allstate,Full Coverage,Yes,2026-03-18,Fair,60+,0
+VID01686,MI,Volkswagen,Jetta,2009,Progressive,Full Coverage,Yes,2025-12-16,Fair,46-60,5
+VID01687,TX,Nissan,Civic,2010,Geico,Full Coverage,Yes,2025-12-10,Poor,46-60,3
+VID01688,NY,Toyota,Camry,2015,USAA,Collision,No,2025-11-25,Good,18-25,5
+VID01689,FL,Mercedes,Silverado,2010,Farmers,Full Coverage,Yes,2026-01-04,Good,18-25,1
+VID01690,TX,Nissan,Sorento,2000,Liberty Mutual,Comprehensive,No,2026-02-12,Fair,18-25,5
+VID01691,OH,Hyundai,Sorento,2022,State Farm,Full Coverage,No,2025-09-02,Poor,26-35,5
+VID01692,TX,Volkswagen,F-150,2004,Allstate,Comprehensive,Yes,2025-07-14,Good,60+,0
+VID01693,GA,Honda,Altima,2020,Farmers,Comprehensive,Yes,2025-09-20,Fair,26-35,5
+VID01694,TX,Chevrolet,F-150,2018,State Farm,Liability,Yes,2025-08-31,Fair,36-45,2
+VID01695,OH,BMW,Silverado,2012,Liberty Mutual,Liability,Yes,2026-01-31,Good,26-35,1
+VID01696,GA,Nissan,Camry,2012,Allstate,Collision,No,2025-09-24,Poor,26-35,3
+VID01697,GA,Ford,F-150,2022,Progressive,Full Coverage,No,2025-11-15,Poor,36-45,3
+VID01698,GA,BMW,3 Series,2011,Liberty Mutual,Collision,No,2025-10-20,Good,18-25,5
+VID01699,IL,Ford,3 Series,2016,Liberty Mutual,Full Coverage,Yes,2026-01-21,Good,46-60,4
+VID01700,CA,Volkswagen,3 Series,2007,Progressive,Full Coverage,Yes,2025-07-07,Good,26-35,2
+VID01701,MI,Chevrolet,Civic,2017,State Farm,Liability,No,2026-03-17,Fair,18-25,0
+VID01702,OH,Toyota,3 Series,2013,Progressive,Full Coverage,No,2025-10-14,Good,36-45,5
+VID01703,NY,Toyota,Silverado,2014,Allstate,Full Coverage,Yes,2025-04-25,Fair,46-60,5
+VID01704,IL,Mercedes,Sorento,2019,Farmers,Comprehensive,No,2025-05-27,Good,36-45,0
+VID01705,FL,Toyota,F-150,2001,Geico,Liability,No,2025-06-12,Fair,60+,1
+VID01706,PA,Mercedes,Sorento,2008,State Farm,Liability,No,2025-06-20,Fair,26-35,3
+VID01707,OH,Mercedes,C-Class,2021,Progressive,Comprehensive,Yes,2025-04-25,Good,60+,5
+VID01708,NY,Hyundai,F-150,2013,Progressive,Comprehensive,Yes,2025-11-17,Good,26-35,0
+VID01709,GA,Nissan,Civic,2021,Geico,Comprehensive,No,2025-08-28,Fair,26-35,5
+VID01710,CA,Kia,Elantra,2018,Liberty Mutual,Collision,No,2025-11-08,Good,46-60,3
+VID01711,CA,BMW,C-Class,2018,Farmers,Liability,Yes,2025-06-02,Poor,46-60,5
+VID01712,CA,Hyundai,Camry,2007,USAA,Collision,Yes,2025-11-25,Good,60+,5
+VID01713,IL,Kia,Civic,2003,USAA,Comprehensive,No,2026-02-28,Poor,18-25,2
+VID01714,MI,Volkswagen,Elantra,2002,USAA,Comprehensive,No,2026-01-03,Fair,60+,4
+VID01715,GA,Chevrolet,Jetta,2015,Progressive,Full Coverage,Yes,2025-07-28,Fair,46-60,3
+VID01716,GA,Volkswagen,3 Series,2022,Allstate,Comprehensive,No,2025-04-27,Good,36-45,3
+VID01717,IL,Honda,Sorento,2000,State Farm,Full Coverage,Yes,2025-09-02,Fair,26-35,2
+VID01718,TX,Chevrolet,F-150,2006,Geico,Liability,Yes,2026-01-21,Poor,18-25,3
+VID01719,TX,Honda,Silverado,2007,Geico,Comprehensive,Yes,2025-09-20,Good,46-60,3
+VID01720,PA,Mercedes,Camry,2005,State Farm,Comprehensive,No,2025-09-02,Good,36-45,4
+VID01721,NY,Toyota,Civic,2000,Liberty Mutual,Liability,Yes,2025-11-02,Fair,46-60,3
+VID01722,OH,Toyota,Sorento,2020,Allstate,Liability,Yes,2025-08-23,Good,36-45,0
+VID01723,TX,Toyota,Altima,2019,Liberty Mutual,Collision,No,2025-09-02,Good,26-35,4
+VID01724,PA,Mercedes,C-Class,2009,Allstate,Full Coverage,No,2025-09-13,Fair,60+,3
+VID01725,FL,Hyundai,Sorento,2021,Allstate,Collision,Yes,2025-06-22,Fair,36-45,0
+VID01726,PA,Toyota,Sorento,2022,Farmers,Liability,Yes,2026-03-12,Poor,18-25,0
+VID01727,FL,Hyundai,Jetta,2003,Farmers,Full Coverage,Yes,2025-10-03,Fair,36-45,3
+VID01728,IL,Mercedes,Jetta,2003,State Farm,Full Coverage,Yes,2026-02-01,Good,26-35,5
+VID01729,GA,BMW,Jetta,2015,Progressive,Collision,Yes,2025-09-16,Fair,36-45,3
+VID01730,NC,Nissan,F-150,2018,Progressive,Liability,Yes,2025-04-29,Good,18-25,5
+VID01731,NC,Kia,Altima,2004,USAA,Full Coverage,No,2026-01-29,Poor,26-35,5
+VID01732,NC,Kia,Civic,2013,Geico,Liability,Yes,2025-10-06,Poor,26-35,4
+VID01733,NC,BMW,Elantra,2010,Allstate,Comprehensive,No,2025-11-08,Poor,18-25,2
+VID01734,NC,Kia,Elantra,2004,Geico,Full Coverage,No,2026-01-12,Good,46-60,4
+VID01735,CA,Honda,Silverado,2002,Geico,Liability,No,2025-08-08,Good,60+,2
+VID01736,OH,Ford,Camry,2006,State Farm,Full Coverage,No,2025-05-02,Poor,60+,5
+VID01737,CA,Hyundai,Altima,2002,Allstate,Collision,No,2025-07-19,Poor,46-60,0
+VID01738,GA,BMW,Silverado,2016,State Farm,Collision,Yes,2025-09-29,Fair,18-25,3
+VID01739,FL,Chevrolet,Elantra,2018,Progressive,Full Coverage,No,2025-07-22,Good,18-25,0
+VID01740,TX,Nissan,Jetta,2022,Progressive,Full Coverage,No,2025-09-22,Good,36-45,5
+VID01741,OH,Nissan,Civic,2022,USAA,Comprehensive,Yes,2026-01-02,Fair,60+,2
+VID01742,NC,Honda,Jetta,2013,USAA,Comprehensive,No,2025-11-05,Good,60+,1
+VID01743,GA,Mercedes,3 Series,2023,Liberty Mutual,Liability,No,2026-03-16,Poor,36-45,5
+VID01744,MI,Mercedes,Civic,2019,USAA,Collision,No,2025-06-24,Good,18-25,1
+VID01745,NC,Chevrolet,Jetta,2015,Progressive,Collision,Yes,2025-10-08,Poor,60+,0
+VID01746,FL,BMW,Camry,2004,Liberty Mutual,Liability,No,2025-11-20,Poor,18-25,3
+VID01747,NY,Volkswagen,Camry,2009,Progressive,Collision,No,2025-07-17,Good,36-45,4
+VID01748,PA,BMW,Jetta,2013,Farmers,Comprehensive,No,2025-07-29,Poor,18-25,0
+VID01749,IL,BMW,3 Series,2013,Geico,Liability,Yes,2026-02-01,Fair,26-35,1
+VID01750,IL,Chevrolet,Elantra,2018,USAA,Comprehensive,No,2025-07-29,Fair,36-45,2
+VID01751,CA,Ford,C-Class,2021,Allstate,Comprehensive,No,2026-02-26,Fair,46-60,2
+VID01752,NY,Ford,Civic,2001,USAA,Full Coverage,Yes,2026-03-08,Poor,36-45,3
+VID01753,OH,Toyota,Civic,2016,State Farm,Liability,Yes,2025-05-14,Fair,26-35,4
+VID01754,OH,Ford,Sorento,2001,Liberty Mutual,Collision,Yes,2025-04-29,Good,60+,3
+VID01755,FL,Chevrolet,F-150,2000,Liberty Mutual,Comprehensive,No,2026-01-21,Fair,36-45,5
+VID01756,FL,Ford,C-Class,2016,Allstate,Full Coverage,Yes,2025-11-13,Good,46-60,2
+VID01757,FL,BMW,Jetta,2007,Geico,Liability,Yes,2025-10-16,Good,26-35,3
+VID01758,FL,Kia,3 Series,2011,Progressive,Liability,No,2026-01-09,Poor,36-45,2
+VID01759,MI,Honda,Silverado,2017,Liberty Mutual,Full Coverage,No,2025-07-26,Good,36-45,5
+VID01760,CA,Chevrolet,C-Class,2019,Allstate,Comprehensive,Yes,2025-10-01,Poor,18-25,5
+VID01761,GA,Hyundai,Jetta,2023,State Farm,Comprehensive,Yes,2025-10-15,Fair,18-25,5
+VID01762,FL,Volkswagen,Elantra,2021,Liberty Mutual,Liability,No,2025-08-28,Poor,26-35,3
+VID01763,GA,Mercedes,Sorento,2022,Farmers,Full Coverage,No,2025-09-19,Poor,46-60,4
+VID01764,NY,Honda,Camry,2004,State Farm,Comprehensive,No,2025-06-29,Fair,36-45,4
+VID01765,TX,Ford,Altima,2007,Liberty Mutual,Comprehensive,No,2025-08-21,Good,46-60,3
+VID01766,NY,BMW,C-Class,2015,Allstate,Full Coverage,No,2025-09-19,Fair,60+,3
+VID01767,NY,Hyundai,Altima,2006,Liberty Mutual,Collision,Yes,2025-07-29,Good,26-35,5
+VID01768,TX,Volkswagen,Altima,2011,Farmers,Full Coverage,Yes,2025-05-23,Fair,60+,4
+VID01769,OH,Nissan,Civic,2017,Geico,Full Coverage,No,2025-05-09,Fair,18-25,2
+VID01770,PA,Toyota,Silverado,2005,State Farm,Comprehensive,No,2026-02-13,Fair,36-45,4
+VID01771,CA,Kia,Altima,2019,Farmers,Full Coverage,Yes,2025-04-29,Poor,36-45,2
+VID01772,OH,Mercedes,Altima,2004,Liberty Mutual,Full Coverage,Yes,2025-07-25,Fair,18-25,5
+VID01773,NY,Ford,Camry,2014,Geico,Collision,No,2025-11-18,Fair,36-45,1
+VID01774,TX,Kia,Altima,2014,USAA,Liability,Yes,2025-06-14,Fair,36-45,3
+VID01775,FL,Volkswagen,F-150,2004,Allstate,Comprehensive,No,2025-08-25,Good,18-25,2
+VID01776,OH,Mercedes,Altima,2009,Allstate,Comprehensive,No,2025-05-07,Good,46-60,2
+VID01777,NC,Toyota,C-Class,2002,Liberty Mutual,Collision,No,2026-03-08,Poor,36-45,2
+VID01778,GA,Ford,Elantra,2001,Farmers,Comprehensive,No,2026-02-22,Fair,46-60,4
+VID01779,IL,Chevrolet,Jetta,2007,Progressive,Full Coverage,Yes,2025-05-25,Poor,36-45,0
+VID01780,CA,Kia,C-Class,2001,Allstate,Comprehensive,Yes,2025-05-03,Good,18-25,3
+VID01781,GA,Volkswagen,Sorento,2014,Liberty Mutual,Full Coverage,Yes,2025-12-30,Fair,18-25,3
+VID01782,TX,Mercedes,Civic,2017,Progressive,Full Coverage,No,2026-02-13,Poor,18-25,3
+VID01783,NC,Kia,Jetta,2008,Liberty Mutual,Liability,No,2025-08-21,Fair,36-45,2
+VID01784,TX,Kia,Jetta,2008,Geico,Collision,Yes,2025-06-02,Poor,26-35,0
+VID01785,GA,Mercedes,Elantra,2001,State Farm,Liability,No,2026-02-24,Fair,18-25,2
+VID01786,CA,Chevrolet,C-Class,2011,Liberty Mutual,Liability,No,2025-07-14,Good,46-60,4
+VID01787,CA,Chevrolet,C-Class,2013,Farmers,Liability,No,2025-12-22,Fair,36-45,4
+VID01788,TX,Hyundai,Elantra,2020,State Farm,Collision,Yes,2026-02-20,Poor,60+,0
+VID01789,OH,Kia,Altima,2010,USAA,Comprehensive,Yes,2026-01-28,Good,60+,3
+VID01790,TX,Nissan,F-150,2009,Progressive,Liability,Yes,2025-05-30,Fair,60+,1
+VID01791,TX,Nissan,Civic,2005,Farmers,Full Coverage,No,2025-12-17,Fair,18-25,1
+VID01792,OH,Mercedes,Altima,2021,Progressive,Comprehensive,Yes,2026-02-05,Poor,18-25,2
+VID01793,IL,Ford,Elantra,2002,USAA,Collision,No,2025-08-02,Fair,18-25,5
+VID01794,TX,Kia,Silverado,2011,Farmers,Liability,Yes,2025-09-19,Good,46-60,3
+VID01795,NC,Hyundai,Sorento,2017,Allstate,Collision,No,2026-03-23,Good,60+,1
+VID01796,CA,Honda,Jetta,2014,Progressive,Collision,No,2025-05-05,Poor,18-25,5
+VID01797,GA,Mercedes,Silverado,2022,Allstate,Comprehensive,Yes,2025-05-15,Poor,46-60,0
+VID01798,IL,Mercedes,Civic,2002,State Farm,Liability,Yes,2025-07-10,Poor,46-60,1
+VID01799,CA,Volkswagen,Jetta,2001,State Farm,Liability,Yes,2025-06-26,Fair,36-45,5
+VID01800,PA,Kia,Civic,2013,Allstate,Liability,No,2025-12-19,Fair,60+,0
+VID01801,FL,BMW,Silverado,2000,USAA,Comprehensive,No,2025-12-25,Fair,26-35,0
+VID01802,OH,Hyundai,Jetta,2002,Liberty Mutual,Collision,No,2025-11-06,Poor,60+,0
+VID01803,PA,BMW,3 Series,2011,State Farm,Comprehensive,Yes,2026-01-11,Good,60+,5
+VID01804,TX,Toyota,Jetta,2014,Farmers,Collision,Yes,2025-10-19,Good,60+,3
+VID01805,NY,Hyundai,Sorento,2006,Geico,Liability,No,2025-07-09,Fair,18-25,0
+VID01806,IL,Volkswagen,Civic,2023,USAA,Comprehensive,No,2025-08-01,Poor,26-35,5
+VID01807,IL,Toyota,C-Class,2018,State Farm,Full Coverage,No,2026-01-29,Poor,36-45,1
+VID01808,NC,Chevrolet,Camry,2018,Farmers,Collision,No,2025-11-08,Poor,18-25,3
+VID01809,GA,Hyundai,Camry,2004,Geico,Collision,Yes,2026-01-02,Fair,46-60,3
+VID01810,PA,Kia,3 Series,2004,USAA,Liability,Yes,2025-08-26,Good,18-25,3
+VID01811,GA,Nissan,F-150,2017,Liberty Mutual,Full Coverage,No,2025-07-13,Good,60+,1
+VID01812,IL,Honda,F-150,2014,State Farm,Liability,No,2025-12-05,Poor,26-35,1
+VID01813,MI,Hyundai,Silverado,2016,Geico,Liability,No,2025-06-14,Poor,46-60,5
+VID01814,PA,Volkswagen,Jetta,2008,State Farm,Liability,Yes,2025-06-05,Poor,60+,3
+VID01815,FL,Nissan,Jetta,2020,Allstate,Liability,Yes,2026-03-15,Fair,18-25,2
+VID01816,IL,Kia,Jetta,2002,State Farm,Full Coverage,Yes,2025-05-21,Fair,36-45,0
+VID01817,MI,Honda,Jetta,2003,USAA,Full Coverage,No,2025-04-25,Good,36-45,3
+VID01818,FL,BMW,Civic,2001,Liberty Mutual,Liability,No,2025-09-30,Poor,60+,0
+VID01819,NY,Toyota,Camry,2017,State Farm,Liability,No,2026-02-06,Good,46-60,1
+VID01820,IL,Mercedes,Elantra,2009,State Farm,Collision,Yes,2026-01-17,Poor,60+,5
+VID01821,IL,Ford,Camry,2023,Farmers,Collision,No,2025-12-27,Fair,60+,1
+VID01822,OH,Chevrolet,Civic,2001,State Farm,Collision,Yes,2026-01-25,Good,46-60,4
+VID01823,PA,BMW,Jetta,2002,Liberty Mutual,Comprehensive,Yes,2025-10-23,Fair,18-25,0
+VID01824,NC,Kia,3 Series,2003,State Farm,Liability,No,2025-07-09,Fair,26-35,1
+VID01825,FL,Nissan,3 Series,2013,Geico,Full Coverage,No,2025-08-31,Poor,36-45,5
+VID01826,FL,Toyota,Altima,2023,Allstate,Full Coverage,Yes,2025-12-22,Fair,18-25,4
+VID01827,CA,Mercedes,Civic,2014,Allstate,Collision,No,2025-05-08,Poor,26-35,2
+VID01828,OH,Ford,Silverado,2017,State Farm,Full Coverage,Yes,2025-10-06,Good,26-35,5
+VID01829,MI,Honda,Silverado,2023,Allstate,Liability,Yes,2025-12-27,Fair,46-60,4
+VID01830,OH,Honda,Altima,2017,Liberty Mutual,Collision,Yes,2025-06-17,Fair,46-60,4
+VID01831,CA,Honda,Jetta,2017,Progressive,Collision,Yes,2026-01-14,Poor,36-45,1
+VID01832,CA,Hyundai,Elantra,2015,Liberty Mutual,Liability,No,2025-08-06,Good,36-45,0
+VID01833,TX,Nissan,Camry,2014,Progressive,Comprehensive,Yes,2025-08-23,Fair,18-25,2
+VID01834,GA,Mercedes,F-150,2008,Liberty Mutual,Comprehensive,No,2025-06-22,Poor,26-35,4
+VID01835,GA,Volkswagen,Elantra,2011,Geico,Collision,Yes,2025-09-16,Poor,36-45,2
+VID01836,IL,Honda,Civic,2019,Farmers,Collision,Yes,2026-02-01,Good,26-35,0
+VID01837,FL,Volkswagen,Altima,2004,USAA,Full Coverage,Yes,2025-06-08,Poor,18-25,3
+VID01838,TX,BMW,Altima,2020,Liberty Mutual,Comprehensive,Yes,2025-08-15,Poor,36-45,0
+VID01839,MI,Nissan,Silverado,2005,Farmers,Full Coverage,Yes,2025-11-04,Good,36-45,2
+VID01840,OH,Nissan,Elantra,2016,Geico,Liability,No,2025-08-26,Fair,26-35,2
+VID01841,FL,Ford,Altima,2014,State Farm,Comprehensive,Yes,2025-11-02,Good,26-35,3
+VID01842,NY,Chevrolet,Civic,2021,USAA,Liability,No,2025-04-25,Poor,18-25,1
+VID01843,TX,Ford,C-Class,2012,State Farm,Collision,Yes,2026-01-29,Good,36-45,0
+VID01844,CA,BMW,Altima,2019,Progressive,Collision,Yes,2026-02-18,Fair,46-60,0
+VID01845,FL,Honda,3 Series,2022,State Farm,Collision,No,2026-01-03,Good,26-35,4
+VID01846,FL,Chevrolet,Sorento,2023,Liberty Mutual,Comprehensive,No,2025-12-24,Poor,46-60,0
+VID01847,FL,Honda,Altima,2010,Allstate,Collision,No,2025-11-10,Good,46-60,0
+VID01848,MI,Hyundai,F-150,2021,Progressive,Liability,Yes,2025-09-12,Poor,36-45,3
+VID01849,CA,Ford,C-Class,2015,Geico,Comprehensive,Yes,2025-05-08,Good,36-45,5
+VID01850,NC,Ford,Elantra,2007,State Farm,Collision,No,2026-03-23,Poor,46-60,5
+VID01851,MI,Mercedes,F-150,2020,State Farm,Collision,No,2025-10-22,Poor,46-60,2
+VID01852,FL,Ford,C-Class,2008,Progressive,Comprehensive,No,2025-10-21,Fair,46-60,5
+VID01853,NC,Chevrolet,Jetta,2019,Geico,Full Coverage,No,2025-06-19,Fair,18-25,2
+VID01854,GA,Toyota,Sorento,2017,Farmers,Comprehensive,No,2025-07-29,Fair,60+,0
+VID01855,CA,BMW,Silverado,2018,Liberty Mutual,Liability,Yes,2026-02-14,Fair,26-35,4
+VID01856,MI,Honda,Jetta,2003,Farmers,Collision,Yes,2026-01-27,Good,36-45,0
+VID01857,FL,Chevrolet,3 Series,2010,Geico,Collision,No,2025-12-26,Fair,46-60,5
+VID01858,NY,Toyota,Silverado,2006,Liberty Mutual,Full Coverage,Yes,2025-07-16,Fair,26-35,2
+VID01859,NY,Hyundai,3 Series,2007,USAA,Collision,Yes,2026-01-22,Poor,18-25,1
+VID01860,NY,Nissan,Elantra,2005,Allstate,Full Coverage,Yes,2025-05-31,Fair,46-60,0
+VID01861,PA,Nissan,Sorento,2008,State Farm,Comprehensive,Yes,2025-08-19,Fair,26-35,2
+VID01862,MI,Hyundai,Jetta,2006,State Farm,Full Coverage,No,2026-01-05,Poor,46-60,0
+VID01863,OH,Toyota,Altima,2003,Allstate,Liability,No,2025-12-13,Good,46-60,0
+VID01864,FL,BMW,Elantra,2022,USAA,Collision,Yes,2025-05-06,Good,46-60,1
+VID01865,NY,Kia,Sorento,2006,Allstate,Collision,Yes,2025-10-01,Good,46-60,3
+VID01866,TX,Mercedes,Jetta,2017,State Farm,Comprehensive,Yes,2026-02-12,Fair,26-35,4
+VID01867,FL,Hyundai,Altima,2008,Allstate,Full Coverage,No,2025-05-10,Fair,36-45,5
+VID01868,FL,Chevrolet,C-Class,2003,State Farm,Full Coverage,No,2026-02-12,Poor,46-60,0
+VID01869,MI,BMW,Civic,2003,Farmers,Collision,No,2025-08-08,Fair,46-60,2
+VID01870,NY,Toyota,C-Class,2010,Farmers,Comprehensive,No,2026-02-10,Poor,46-60,2
+VID01871,PA,Toyota,Camry,2018,USAA,Full Coverage,Yes,2026-03-11,Good,60+,1
+VID01872,NC,Toyota,3 Series,2009,Farmers,Liability,No,2025-04-24,Fair,60+,2
+VID01873,IL,Kia,C-Class,2006,Farmers,Liability,No,2026-03-16,Fair,60+,1
+VID01874,NY,Hyundai,Sorento,2008,Liberty Mutual,Collision,No,2025-12-19,Poor,36-45,3
+VID01875,MI,BMW,Altima,2002,Farmers,Comprehensive,No,2025-09-20,Good,36-45,0
+VID01876,CA,Ford,Sorento,2016,USAA,Liability,No,2025-06-06,Fair,26-35,1
+VID01877,MI,BMW,Silverado,2014,Progressive,Liability,Yes,2026-03-14,Poor,26-35,3
+VID01878,MI,BMW,Altima,2020,State Farm,Collision,No,2025-08-05,Poor,60+,4
+VID01879,FL,Volkswagen,Sorento,2005,State Farm,Comprehensive,Yes,2025-09-10,Good,26-35,4
+VID01880,TX,Ford,Civic,2008,Geico,Collision,No,2025-06-21,Poor,46-60,3
+VID01881,NC,Mercedes,Jetta,2016,State Farm,Full Coverage,Yes,2026-03-11,Good,26-35,3
+VID01882,MI,Hyundai,Jetta,2017,Farmers,Full Coverage,Yes,2025-07-06,Poor,36-45,2
+VID01883,GA,Chevrolet,Elantra,2019,Progressive,Liability,Yes,2025-07-28,Poor,46-60,5
+VID01884,OH,Kia,Silverado,2014,USAA,Collision,Yes,2025-10-07,Good,60+,5
+VID01885,IL,Hyundai,Camry,2013,State Farm,Comprehensive,No,2025-06-06,Poor,36-45,2
+VID01886,TX,Ford,F-150,2005,Allstate,Full Coverage,Yes,2025-06-17,Poor,18-25,5
+VID01887,IL,Nissan,Elantra,2016,Allstate,Comprehensive,Yes,2025-05-14,Good,36-45,2
+VID01888,OH,Volkswagen,Elantra,2001,Liberty Mutual,Collision,No,2025-07-16,Poor,36-45,5
+VID01889,CA,Ford,Silverado,2021,State Farm,Full Coverage,No,2025-11-19,Good,46-60,2
+VID01890,GA,Mercedes,F-150,2009,Liberty Mutual,Comprehensive,Yes,2026-03-20,Poor,18-25,4
+VID01891,NY,BMW,Sorento,2014,Allstate,Collision,Yes,2025-10-25,Good,18-25,2
+VID01892,MI,Kia,Sorento,2013,State Farm,Liability,Yes,2025-12-22,Poor,26-35,5
+VID01893,OH,Kia,F-150,2009,Allstate,Collision,Yes,2026-01-22,Poor,26-35,1
+VID01894,PA,Kia,Elantra,2006,Geico,Liability,No,2025-10-12,Poor,18-25,0
+VID01895,NC,Toyota,Civic,2001,Progressive,Full Coverage,Yes,2026-03-14,Fair,46-60,1
+VID01896,CA,Hyundai,Civic,2023,State Farm,Collision,Yes,2025-09-24,Poor,26-35,2
+VID01897,PA,Hyundai,Camry,2013,Allstate,Liability,No,2025-07-28,Poor,46-60,4
+VID01898,FL,Volkswagen,Elantra,2001,Liberty Mutual,Liability,Yes,2025-07-23,Fair,26-35,2
+VID01899,TX,Nissan,Silverado,2009,Geico,Collision,No,2025-11-28,Poor,36-45,3
+VID01900,NY,Hyundai,Sorento,2021,Allstate,Full Coverage,Yes,2026-02-12,Fair,26-35,2
+VID01901,MI,Toyota,F-150,2012,Progressive,Collision,No,2026-02-01,Poor,46-60,5
+VID01902,OH,Toyota,Civic,2021,Liberty Mutual,Liability,Yes,2025-07-07,Good,26-35,5
+VID01903,GA,Mercedes,C-Class,2005,Progressive,Collision,No,2025-07-28,Fair,18-25,1
+VID01904,IL,BMW,Jetta,2013,State Farm,Collision,Yes,2025-04-30,Fair,60+,1
+VID01905,NC,Kia,Elantra,2019,State Farm,Full Coverage,No,2025-10-05,Fair,60+,0
+VID01906,CA,Kia,Altima,2011,Farmers,Comprehensive,No,2025-12-03,Poor,60+,5
+VID01907,PA,Ford,3 Series,2008,Geico,Full Coverage,No,2025-07-16,Fair,26-35,3
+VID01908,NY,Hyundai,Elantra,2017,Liberty Mutual,Comprehensive,Yes,2026-01-03,Fair,46-60,3
+VID01909,TX,BMW,Camry,2019,State Farm,Full Coverage,No,2025-08-22,Poor,18-25,1
+VID01910,CA,Kia,Sorento,2000,Progressive,Collision,No,2025-06-22,Good,60+,4
+VID01911,FL,Honda,Silverado,2000,State Farm,Liability,Yes,2025-07-16,Poor,18-25,5
+VID01912,NC,Kia,3 Series,2011,Progressive,Collision,No,2025-07-25,Good,60+,3
+VID01913,FL,BMW,Elantra,2001,Progressive,Liability,Yes,2026-01-11,Good,46-60,3
+VID01914,MI,BMW,C-Class,2003,Allstate,Comprehensive,No,2025-06-03,Fair,36-45,3
+VID01915,NY,Ford,Silverado,2012,Liberty Mutual,Liability,No,2026-01-28,Fair,60+,4
+VID01916,CA,Ford,C-Class,2011,Progressive,Liability,No,2025-05-08,Fair,60+,0
+VID01917,GA,Volkswagen,Camry,2010,USAA,Comprehensive,Yes,2025-11-22,Good,36-45,4
+VID01918,CA,Kia,3 Series,2010,USAA,Liability,No,2025-12-17,Good,18-25,3
+VID01919,CA,BMW,Camry,2008,USAA,Full Coverage,Yes,2026-02-10,Fair,36-45,1
+VID01920,GA,Honda,Altima,2015,Progressive,Full Coverage,Yes,2025-09-11,Fair,46-60,2
+VID01921,MI,Nissan,F-150,2005,Farmers,Liability,No,2026-02-08,Good,60+,4
+VID01922,TX,Kia,Jetta,2008,USAA,Full Coverage,No,2025-08-28,Good,36-45,4
+VID01923,IL,Nissan,Silverado,2014,Farmers,Liability,Yes,2025-07-19,Good,36-45,0
+VID01924,GA,Volkswagen,Altima,2011,USAA,Collision,No,2025-07-16,Fair,26-35,5
+VID01925,IL,Toyota,Jetta,2010,State Farm,Full Coverage,Yes,2025-12-11,Poor,46-60,3
+VID01926,NC,Mercedes,Silverado,2016,Progressive,Collision,Yes,2025-09-30,Poor,36-45,2
+VID01927,TX,Ford,Silverado,2005,Progressive,Full Coverage,Yes,2025-07-14,Good,18-25,3
+VID01928,NC,Mercedes,Jetta,2003,Progressive,Comprehensive,Yes,2025-04-30,Good,60+,1
+VID01929,OH,Kia,Altima,2000,Liberty Mutual,Liability,Yes,2025-05-12,Fair,26-35,5
+VID01930,PA,Kia,Jetta,2016,Farmers,Collision,No,2025-12-12,Good,26-35,2
+VID01931,NC,Toyota,Sorento,2016,Progressive,Comprehensive,No,2025-07-26,Good,18-25,5
+VID01932,NY,Toyota,Elantra,2004,Geico,Comprehensive,Yes,2025-08-02,Fair,18-25,5
+VID01933,CA,Kia,Elantra,2011,USAA,Full Coverage,Yes,2025-08-10,Good,18-25,5
+VID01934,NC,Kia,Elantra,2022,State Farm,Liability,Yes,2025-12-01,Fair,18-25,3
+VID01935,NC,Honda,3 Series,2006,Farmers,Full Coverage,Yes,2025-07-11,Good,36-45,5
+VID01936,FL,Nissan,Civic,2012,Geico,Liability,Yes,2025-06-11,Poor,26-35,3
+VID01937,GA,Mercedes,Jetta,2002,Progressive,Comprehensive,No,2026-03-04,Poor,18-25,4
+VID01938,FL,Chevrolet,C-Class,2017,Progressive,Comprehensive,Yes,2025-09-12,Good,18-25,4
+VID01939,TX,Kia,Civic,2023,Farmers,Collision,No,2026-03-25,Good,18-25,3
+VID01940,NC,BMW,Altima,2019,Allstate,Liability,No,2026-02-09,Good,18-25,5
+VID01941,NY,Nissan,Elantra,2008,Progressive,Collision,Yes,2025-11-26,Poor,60+,5
+VID01942,OH,Kia,Silverado,2018,Geico,Full Coverage,Yes,2026-01-28,Good,36-45,1
+VID01943,NY,Volkswagen,3 Series,2015,State Farm,Comprehensive,No,2025-05-14,Poor,18-25,1
+VID01944,FL,Kia,Jetta,2010,Progressive,Comprehensive,Yes,2025-06-07,Fair,18-25,5
+VID01945,OH,Honda,Elantra,2009,Progressive,Liability,No,2026-01-22,Good,18-25,1
+VID01946,NC,Honda,Silverado,2017,Liberty Mutual,Collision,No,2026-02-17,Good,60+,4
+VID01947,NC,Toyota,Sorento,2016,Geico,Full Coverage,Yes,2025-10-10,Good,26-35,0
+VID01948,MI,Volkswagen,Silverado,2020,Liberty Mutual,Collision,Yes,2025-06-02,Fair,60+,1
+VID01949,MI,Nissan,Civic,2022,Geico,Comprehensive,No,2025-08-12,Poor,46-60,5
+VID01950,FL,Nissan,Civic,2015,Farmers,Comprehensive,Yes,2025-08-30,Good,26-35,2
+VID01951,IL,Toyota,Silverado,2013,State Farm,Liability,Yes,2025-08-29,Poor,18-25,0
+VID01952,CA,BMW,C-Class,2021,Allstate,Comprehensive,Yes,2026-01-12,Good,60+,0
+VID01953,PA,Ford,Elantra,2000,Progressive,Comprehensive,No,2026-02-05,Fair,18-25,0
+VID01954,PA,BMW,Sorento,2010,Progressive,Liability,No,2026-02-04,Poor,18-25,3
+VID01955,PA,Toyota,Elantra,2006,Allstate,Full Coverage,Yes,2025-07-08,Poor,46-60,3
+VID01956,CA,Volkswagen,Civic,2014,Allstate,Collision,Yes,2025-07-12,Fair,26-35,2
+VID01957,NC,Honda,Sorento,2014,Progressive,Collision,No,2026-02-06,Fair,18-25,1
+VID01958,FL,Honda,Camry,2012,Geico,Liability,Yes,2025-08-04,Poor,26-35,1
+VID01959,TX,Volkswagen,Camry,2015,Farmers,Liability,No,2025-10-27,Fair,18-25,5
+VID01960,FL,Nissan,Altima,2015,USAA,Collision,No,2025-07-15,Poor,46-60,0
+VID01961,CA,Volkswagen,Elantra,2006,Liberty Mutual,Comprehensive,Yes,2026-01-17,Poor,18-25,2
+VID01962,IL,Mercedes,3 Series,2005,Progressive,Full Coverage,No,2025-06-25,Good,60+,5
+VID01963,FL,BMW,Elantra,2016,Allstate,Full Coverage,No,2025-11-15,Poor,60+,0
+VID01964,CA,Chevrolet,Sorento,2017,Progressive,Collision,No,2025-05-02,Good,36-45,2
+VID01965,CA,Volkswagen,Civic,2020,Liberty Mutual,Full Coverage,No,2025-12-12,Good,18-25,0
+VID01966,TX,BMW,Civic,2017,Geico,Full Coverage,Yes,2025-07-29,Fair,36-45,3
+VID01967,IL,Kia,Silverado,2009,Geico,Collision,No,2025-10-01,Good,60+,1
+VID01968,NC,Volkswagen,Silverado,2005,Allstate,Collision,No,2026-03-11,Poor,26-35,2
+VID01969,GA,Ford,Silverado,2007,Liberty Mutual,Liability,Yes,2025-12-23,Fair,46-60,3
+VID01970,CA,Hyundai,Elantra,2008,Progressive,Comprehensive,Yes,2025-11-17,Poor,26-35,0
+VID01971,NC,BMW,Civic,2014,Farmers,Comprehensive,No,2026-03-02,Poor,26-35,5
+VID01972,CA,Chevrolet,Camry,2019,State Farm,Comprehensive,Yes,2025-11-19,Fair,36-45,1
+VID01973,MI,BMW,Jetta,2012,Progressive,Liability,No,2025-04-30,Good,18-25,2
+VID01974,GA,Chevrolet,F-150,2014,Farmers,Full Coverage,No,2025-07-28,Fair,60+,3
+VID01975,NC,Kia,Altima,2018,Allstate,Full Coverage,Yes,2025-07-26,Poor,46-60,0
+VID01976,OH,Mercedes,Altima,2013,Allstate,Collision,No,2025-11-26,Good,26-35,0
+VID01977,NY,Nissan,Camry,2007,Farmers,Comprehensive,Yes,2025-07-25,Poor,26-35,1
+VID01978,PA,Honda,Camry,2006,State Farm,Comprehensive,Yes,2026-01-17,Poor,26-35,1
+VID01979,PA,Kia,Jetta,2009,Progressive,Collision,No,2025-10-01,Fair,60+,2
+VID01980,PA,Ford,F-150,2012,Geico,Comprehensive,Yes,2025-11-02,Poor,60+,4
+VID01981,NY,Kia,C-Class,2005,Progressive,Collision,Yes,2026-01-26,Good,60+,1
+VID01982,NC,Hyundai,C-Class,2022,Progressive,Comprehensive,Yes,2025-11-17,Good,46-60,3
+VID01983,OH,Chevrolet,C-Class,2018,Progressive,Comprehensive,Yes,2026-03-14,Fair,26-35,1
+VID01984,IL,Toyota,F-150,2016,Liberty Mutual,Collision,No,2025-12-28,Poor,36-45,0
+VID01985,IL,Kia,3 Series,2017,Allstate,Collision,No,2025-09-29,Fair,60+,1
+VID01986,CA,Chevrolet,Jetta,2012,Farmers,Comprehensive,No,2025-07-31,Fair,60+,1
+VID01987,GA,Hyundai,Jetta,2004,Geico,Liability,Yes,2025-12-02,Good,60+,1
+VID01988,TX,Volkswagen,Jetta,2022,USAA,Full Coverage,Yes,2026-03-08,Good,46-60,1
+VID01989,FL,BMW,F-150,2019,Progressive,Collision,No,2025-08-18,Fair,46-60,1
+VID01990,CA,Toyota,Camry,2016,Progressive,Comprehensive,No,2025-04-28,Poor,60+,3
+VID01991,IL,Toyota,Sorento,2006,Farmers,Comprehensive,No,2025-11-12,Poor,46-60,3
+VID01992,NC,Mercedes,F-150,2012,USAA,Collision,Yes,2025-05-06,Good,60+,3
+VID01993,IL,Ford,Civic,2012,Liberty Mutual,Collision,No,2025-05-11,Good,26-35,4
+VID01994,OH,Nissan,3 Series,2015,Allstate,Comprehensive,Yes,2025-08-11,Good,26-35,0
+VID01995,PA,Nissan,3 Series,2001,USAA,Collision,Yes,2025-05-29,Poor,46-60,3
+VID01996,IL,Kia,Altima,2010,Farmers,Comprehensive,No,2026-01-22,Good,46-60,4
+VID01997,TX,Hyundai,Sorento,2003,Liberty Mutual,Collision,No,2025-11-07,Fair,36-45,0
+VID01998,MI,Honda,Jetta,2008,USAA,Comprehensive,Yes,2025-06-30,Fair,36-45,3
+VID01999,TX,Kia,Sorento,2002,State Farm,Comprehensive,No,2025-05-07,Poor,46-60,3
+VID02000,IL,Ford,Elantra,2009,Allstate,Comprehensive,Yes,2025-06-21,Poor,36-45,4
